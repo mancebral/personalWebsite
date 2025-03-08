@@ -16,12 +16,12 @@ options(gargle_oauth_cache = "secrets",
 gs4_auth()
 
 #google scholar online 
-#id <- 'Maj9ubYAAAAJ&hl'
+#id <- 'YOUR GOOGLE SCHOLAR ID'
 # publications <- get_publications(id, flush = TRUE) %>% tibble()
 # l <- get_profile(id, flush=TRUE)
 # myFields <- gsub("^.{0,2}", "", HTML(paste0(paste0("| ", l$fields))))
 
-projects <- read_sheet("1Izq8r4pHQpU_yhoCVZun5mo5qzbMXiy7dq_g1QYnN2Q",
+projects <- read_sheet("YOUR SHEET ID",
                        sheet = "projects") %>% 
   mutate(caption=paste(Name, Role, Year, Funder))
 
@@ -311,11 +311,6 @@ server <- function(input, output) {
                                #width="100%",autoWidth = TRUE
                 ))
   })
-  
-  # output$video_slider <- renderSlickR({
-  #   slickR(video_iframes, slideType = "iframe", height = "auto") + # Usamos iframe para videos
-  #     settings(dots = TRUE, infinite = TRUE)
-  # })
 }
 
 # Run the application 
