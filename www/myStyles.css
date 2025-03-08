@@ -1,0 +1,182 @@
+body {
+  margin: 0;
+  font-family: Garamond;
+}
+
+.container-fluid {
+    padding-right: 0px;
+    padding-left: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+}
+
+::-webkit-scrollbar {
+  width: 0px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: transparent; 
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: transparent; 
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: transparent; 
+}
+
+h2 {
+  font-size: 60px;
+}
+
+#titleColumn {
+  margin: 0;
+  position: relative;
+  height: 100vh;
+  width: 100%;
+  /*background-color: transparent;*/
+}
+
+#titleColumn::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.6); /* Capa negra semitransparente */
+}
+
+#titleColumnElements{
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  display: inline-block;
+  text-align:center;
+}
+
+#projectsColumn {
+  margin: 0;
+  position: relative;
+  min-height: 100vh;
+  height: auto;
+  width: 100%;
+}
+
+#publicationsColumn{
+  margin: 0;
+  position: relative;
+  height: auto;
+  width: 100%;
+}
+
+#aboutColumn {
+  margin: 0;
+  min-height: 100vh;
+  height: auto;
+  position: relative;
+  width: 100%;
+}
+
+#aboutColumnElements{
+  text-align: justify;
+  min-height: 100vh;
+  height: auto;
+  font-size: 18px;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+#contactColumn {
+  margin: 0;
+  position: relative;
+  height: 100vh;
+  width: 100%;
+  background-color:#000000;
+  color: white;
+}
+
+#contactColumnElements{
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  display: inline-block;
+  text-align:center;
+  font-size: 18px;
+}
+
+#menu {
+  font-weight: bold;
+}
+
+#header_2 {
+  color: white;
+  font-size: 40px;
+  font-family: "Arial black";
+}
+
+#aboutTitle {
+  color: black;
+  font-size: 40px;
+  font-family: "Arial black";
+}
+
+.card-header.header_3 {
+  color: black;
+  font-size: 40px;
+  font-family: "Arial black";
+}
+
+.card-header.header_4 {
+  color: black;
+  font-size: 40px;
+  font-family: "Arial black";
+}
+
+#projectsColumn {
+  background-color:#000000;
+  color: white;
+}
+
+#videosColumn{
+   margin: 0;
+  position: relative;
+  height: 315px;
+  width: 100%;
+  background-color:#000000;
+  color: white;
+}
+
+#aboutColumn {
+  /*background-color:#f1bf05;*/
+  color: black;
+}
+
+#positions {
+  line-height: 1.8;
+}
+
+.text2{
+  font-size: 20px;
+  font-weight: bold;
+  margin-left: 3px;
+  line-height: 90%;
+}
+.text3{
+  font-size: 10px;
+  margin-left: 3px;
+  font-weight: lighter;
+}
+
+.social-icons a {
+   text-decoration: none;  /* Quita el subrayado */
+   font-size: 40px; /* Tamaño del icono */
+}
