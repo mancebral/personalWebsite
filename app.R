@@ -11,7 +11,7 @@ library(swipeR)
 # httr::GET("https://scholar.google.com")
 
 options(gargle_oauth_cache = "secrets",
-        gargle_oauth_email = "man.cebral@gmail.com")
+        gargle_oauth_email = "YOUR GMAIL")
 
 gs4_auth()
 
