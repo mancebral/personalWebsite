@@ -1,24 +1,30 @@
-from scholarly import scholarly
-import csv
+#SCHOLAR_ID = "Maj9ubYAAAAJ&hl"
+import os
+import json
+import pandas as pd
+import requests
 
-# Cambia esto por TU Google Scholar ID
-# El ID es lo que aparece en la URL después de user=
-SCHOLAR_ID = "Maj9ubYAAAAJ&hl"
+API_KEY = os.getenv("SERPAPI_KEY")  # viene desde GitHub Secrets
+SCHOLAR_ID = "Maj9ubYAAAAJ&hl"     # sustituye
 
-author = scholarly.search_author_id(SCHOLAR_ID)
-author = scholarly.fill(author)
+url = "https://serpapi.com/search.json"
 
-# Guardamos publicaciones en un CSV
-with open("scholar.csv", "w", newline="", encoding="utf-8") as f:
-    writer = csv.writer(f)
-    writer.writerow(["title", "year", "cited_by"])
+params = {
+    "engine": "google_scholar_author",
+    "author_id": SCHOLAR_ID,
+    "api_key": API_KEY
+}
 
-    for pub in author["publications"]:
-        pub_filled = scholarly.fill(pub)
-        title = pub_filled.get("bib", {}).get("title", "")
-        year = pub_filled.get("bib", {}).get("pub_year", "")
-        cites = pub_filled.get("num_citations", 0)
+r = requests.get(url, params=params)
+data = r.json()
 
-        writer.writerow([title, year, cites])
+# extraer publicaciones
+pubs = data.get("articles", [])
+
+df = pd.DataFrame(pubs)
+df.to_csv("scholar.csv", index=False)
+
+print("Archivo scholar.csv actualizado.")
+
 
 
