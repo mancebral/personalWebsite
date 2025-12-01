@@ -3,7 +3,7 @@ name: update-scholar
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *"  # cada día
 
 jobs:
   update-data:
@@ -13,26 +13,23 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Instalar R
-        uses: r-lib/actions/setup-r@v2
+      - name: Instalar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.10"
 
-      - name: Instalar dependencias del sistema
+      - name: Instalar paquetes
         run: |
-          sudo apt-get update
-          sudo apt-get install -y libcurl4-openssl-dev libssl-dev libxml2-dev
-
-      - name: Instalar scholar desde archivo TAR
-        run: |
-          wget https://cran.r-project.org/src/contrib/Archive/scholar/scholar_0.2.4.tar.gz
-          Rscript -e 'install.packages("scholar_0.2.4.tar.gz", repos=NULL, type="source")'
+          pip install scholarly
 
       - name: Ejecutar script
-        run: Rscript update/update.scholar.R
+        run: python update/update.scholar.py
 
       - name: Commit y push
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add .
-          git commit -m "Actualización automática Scholar" || echo "Sin cambios"
+          git add scholar.csv
+          git commit -m "Actualización automática Scholar (Python)" || echo "Sin cambios"
           git push
+
