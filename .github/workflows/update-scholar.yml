@@ -18,7 +18,9 @@ jobs:
 
       - name: Instalar dependencias R
         run: |
-          Rscript -e 'install.packages(c("scholar"), repos="https://cloud.r-project.org")'
+          Rscript -e 'install.packages("remotes", repos="https://cloud.r-project.org")'
+          Rscript -e 'remotes::install_github("jkeirstead/scholar")'
+
 
       - name: Ejecutar script
         run: |
