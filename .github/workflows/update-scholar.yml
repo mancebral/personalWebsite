@@ -1,9 +1,12 @@
 name: update-scholar
 
+permissions:
+  contents: write
+
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 0 * * *"  # cada día
+    - cron: "0 0 * * *"   # cada día a medianoche UTC
 
 jobs:
   update-data:
@@ -18,18 +21,16 @@ jobs:
         with:
           python-version: "3.10"
 
-      - name: Instalar paquetes
+      - name: Instalar dependencias Python
         run: |
           pip install scholarly
 
-      - name: Ejecutar script
-        run: python update/update.scholar.py
+      - name: Ejecutar script Python
+        run: python update/update_scholar.py
 
       - name: Commit y push
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add scholar.csv
-          git commit -m "Actualización automática Scholar (Python)" || echo "Sin cambios"
-          git push
-
+          git commit -m "Actualización automátic
