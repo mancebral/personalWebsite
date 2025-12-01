@@ -1,30 +1,36 @@
 #SCHOLAR_ID = "Maj9ubYAAAAJ&hl"
 import os
-import json
-import pandas as pd
 import requests
+import pandas as pd
 
-API_KEY = os.getenv("SERPAPI_KEY")  # viene desde GitHub Secrets
-SCHOLAR_ID = "Maj9ubYAAAAJ&hl"     # sustituye
+API_KEY = os.getenv("SERPAPI_KEY")     # desde GitHub Secrets
+SCHOLAR_ID = "Maj9ubYAAAAJ&hl"        # -> cámbialo por el tuyo
 
-url = "https://serpapi.com/search.json"
+BASE_URL = "https://serpapi.com/search.json"
 
-params = {
-    "engine": "google_scholar_author",
-    "author_id": SCHOLAR_ID,
-    "api_key": API_KEY
-}
+all_articles = []
+start = 0
 
-r = requests.get(url, params=params)
-data = r.json()
+while True:
+    params = {
+        "engine": "google_scholar_author",
+        "author_id": SCHOLAR_ID,
+        "api_key": API_KEY,
+        "start": start
+    }
 
-# extraer publicaciones
-pubs = data.get("articles", [])
+    r = requests.get(BASE_URL, params=params)
+    data = r.json()
 
-df = pd.DataFrame(pubs)
+    articles = data.get("articles", [])
+
+    if not articles:
+        break  # no hay más páginas
+
+    all_articles.extend(articles)
+    start += 20  # siguiente página
+
+df = pd.DataFrame(all_articles)
 df.to_csv("scholar.csv", index=False)
 
-print("Archivo scholar.csv actualizado.")
-
-
-
+print(f"Descargados {len(all_articles)} artículos.")
