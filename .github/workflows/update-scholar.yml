@@ -1,9 +1,9 @@
-name: Actualizar datos de Google Scholar
+name: update-scholar
 
 on:
+  workflow_dispatch:
   schedule:
-    - cron: "0 3 * * *"   # todos los días a las 03:00 UTC
-  workflow_dispatch:      # permite ejecutarlo manualmente
+    - cron: "0 0 * * *"
 
 jobs:
   update-data:
@@ -11,25 +11,25 @@ jobs:
 
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
-      - name: Instalar R
-        uses: r-lib/actions/setup-r@v2
-
-      - name: Instalar dependencias R
+      - name: Instalar dependencias del sistema
         run: |
-          Rscript -e 'install.packages("remotes", repos="https://cloud.r-project.org")'
-          Rscript -e 'remotes::install_github("jkeirstead/scholar")'
+          sudo apt-get update
+          sudo apt-get install -y libcurl4-openssl-dev libssl-dev libxml2-dev
 
+      - name: Instalar R y scholar
+        run: |
+          Rscript -e 'install.packages("scholar", repos="https://cloud.r-project.org")'
 
       - name: Ejecutar script
-        run: |
-          Rscript update/update.scholar.R
+        run: Rscript update/update.scholar.R
 
       - name: Commit y push
         run: |
-          git config --global user.email "actions@github.com"
-          git config --global user.name "GitHub Actions"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
           git add .
-          git commit -m "Auto-update scholar data" || echo "No changes"
+          git commit -m "Actualización automática Scholar" || echo "Sin cambios"
           git push
+
