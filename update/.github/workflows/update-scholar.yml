@@ -1,0 +1,33 @@
+name: Actualizar datos de Google Scholar
+
+on:
+  schedule:
+    - cron: "0 3 * * *"   # todos los días a las 03:00 UTC
+  workflow_dispatch:      # permite ejecutarlo manualmente
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Instalar R
+        uses: r-lib/actions/setup-r@v2
+
+      - name: Instalar dependencias R
+        run: |
+          Rscript -e 'install.packages(c("scholar"), repos="https://cloud.r-project.org")'
+
+      - name: Ejecutar script
+        run: |
+          Rscript update/update_scholar.R
+
+      - name: Commit y push
+        run: |
+          git config --global user.email "actions@github.com"
+          git config --global user.name "GitHub Actions"
+          git add .
+          git commit -m "Auto-update scholar data" || echo "No changes"
+          git push
