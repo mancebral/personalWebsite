@@ -26,26 +26,39 @@ while True:
     if not articles:
         break
 
-    # --- LIMPIAR DATOS ---
     for a in articles:
-        # Cites: convertir dict -> número
-        if isinstance(a.get("cited_by"), dict):
-            a["cited_by_value"] = a["cited_by"].get("value")
-        else:
-            a["cited_by_value"] = None
 
-        # También puedes limpiar autores (lista -> string)
+        # --- CITES ---
+        if isinstance(a.get("cited_by"), dict):
+            a["cited_by"] = a["cited_by"]["value"]
+        else:
+            a["cited_by"] = None
+
+        # --- AUTORES ---
         if isinstance(a.get("authors"), list):
             a["authors"] = ", ".join(a["authors"])
+
+        # --- JOURNAL / PUBLICATION ---
+        a["journal"] = a.get("publication")
+
+        # --- LINK A SCHOLAR ---
+        a["scholar_link"] = a.get("link")
+
+        # --- LINK DIRECTO A PDF (si existe) ---
+        a["pdf"] = a.get("pdf")
 
     all_articles.extend(articles)
     start += 20
 
 df = pd.DataFrame(all_articles)
 
-# Si quieres SOLO columnas limpias:
-cols = ["title", "year", "authors", "cited_by_value", "link"]
-df = df[ [c for c in cols if c in df.columns] ]
+# columnas recomendadas
+cols = [
+    "title", "year", "authors", "journal",
+    "cited_by", "scholar_link", "pdf"
+]
+
+df = df[[c for c in cols if c in df.columns]]
 
 df.to_csv("scholar.csv", index=False)
 
