@@ -22,7 +22,7 @@ jobs:
 
       - name: Ejecutar script
         run: |
-          Rscript update/update_scholar.R
+          Rscript update/update.scholar.R
 
       - name: Commit y push
         run: |
