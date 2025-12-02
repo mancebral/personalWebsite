@@ -54,12 +54,42 @@ else:
 
 # ---- crear dataframe del perfil ----
 def clean_value(v):
-    """Convierte listas y diccionarios a strings seguros."""
     if isinstance(v, dict):
         return str(v)
     if isinstance(v, list):
         return ", ".join(str(x) for x in v)
+    if v is None:
+        return ""
     return v
+
+# ---- MÉTRICAS (h_index, i10_index, citations) ----
+stats = profile.get("cited_by", {})
+
+h_index = None
+h_index_5y = None
+i10_index = None
+i10_index_5y = None
+cited_by = None
+
+if isinstance(stats, dict):
+    table = stats.get("table", [])
+
+    # Example table format:
+    # [
+    #   {"citations": {"all": 736, "since_2019": 652}},
+    #   {"h_index": {"all": 15, "since_2019": 14}},
+    #   {"i10_index": {"all": 18, "since_2019": 17}}
+    # ]
+
+    for row in table:
+        if "citations" in row:
+            cited_by = row["citations"].get("all")
+        if "h_index" in row:
+            h_index = row["h_index"].get("all")
+            h_index_5y = row["h_index"].get("since_2019")
+        if "i10_index" in row:
+            i10_index = row["i10_index"].get("all")
+            i10_index_5y = row["i10_index"].get("since_2019")
 
 df_profile = pd.DataFrame([{
     "name": clean_value(profile.get("name", "")),
@@ -69,7 +99,7 @@ df_profile = pd.DataFrame([{
     "h_index_5y": clean_value(h_index_5y),
     "i10_index": clean_value(i10_index),
     "i10_index_5y": clean_value(i10_index_5y),
-    "cited_by": clean_value(cited_by),
+    "cited_by": clean_value(cited_by)
 }])
 
 df_profile.to_csv("scholar_profile.csv", index=False)
