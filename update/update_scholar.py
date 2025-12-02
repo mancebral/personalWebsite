@@ -43,7 +43,14 @@ citations_per_year = cited_by.get("graph", {})
 
 # ---- intereses en formato "A | B | C" ----
 interests_list = profile.get("interests", [])
-interests = " | ".join(interests_list) if isinstance(interests_list, list) else ""
+
+if isinstance(interests_list, list):
+    interests = " | ".join(
+        i["title"] if isinstance(i, dict) and "title" in i else str(i)
+        for i in interests_list
+    )
+else:
+    interests = ""
 
 # ---- crear dataframe del perfil ----
 df_profile = pd.DataFrame([{
