@@ -7,10 +7,9 @@ SCHOLAR_ID = "Maj9ubYAAAAJ&hl"
 
 BASE_URL = "https://serpapi.com/search.json"
 
-
-# ============================================
-# 1. DESCARGAR PERFIL DEL AUTOR
-# ============================================
+########################################
+# 1. DESCARGAR PERFIL (h-index, i10, citas/año)
+########################################
 
 params_profile = {
     "engine": "google_scholar_author",
@@ -19,24 +18,50 @@ params_profile = {
 }
 
 r_profile = requests.get(BASE_URL, params=params_profile)
-profile_data = r_profile.json().get("author", {})
+profile_data = r_profile.json()
 
-profile = {
-    "name": profile_data.get("name"),
-    "affiliation": profile_data.get("affiliations"),
-    "email": profile_data.get("email"),
-    "description": profile_data.get("description"),
-    "interests": ", ".join([i.get("title", "") for i in profile_data.get("interests", [])]),
-    "thumbnail": profile_data.get("thumbnail")
-}
+profile = profile_data.get("author", {})
+cited_by = profile_data.get("cited_by", {})
 
-pd.DataFrame([profile]).to_csv("scholar_profile.csv", index=False)
-print("scholar_profile.csv generado correctamente.")
+# ---- h-index, i10, citations ----
+metrics = {}
+if "table" in cited_by:
+    for row in cited_by["table"]:
+        name = row.get("name")
+        if name == "Citations":
+            metrics["citations_all"] = row.get("all")
+            metrics["citations_recent"] = row.get("since_2019")
+        if name == "h-index":
+            metrics["h_index_all"] = row.get("all")
+            metrics["h_index_recent"] = row.get("since_2019")
+        if name == "i10-index":
+            metrics["i10_all"] = row.get("all")
+            metrics["i10_recent"] = row.get("since_2019")
 
+# ---- citas por año ----
+citations_per_year = cited_by.get("graph", {})
 
-# ============================================
-# 2. DESCARGAR TODAS LAS PUBLICACIONES (paginando)
-# ============================================
+# ---- intereses en formato "A | B | C" ----
+interests_list = profile.get("interests", [])
+interests = " | ".join(interests_list) if isinstance(interests_list, list) else ""
+
+# ---- crear dataframe del perfil ----
+df_profile = pd.DataFrame([{
+    "name": profile.get("name"),
+    "affiliation": profile.get("affiliations"),
+    "email": profile.get("email"),
+    "interests": interests,
+    **metrics,
+    **citations_per_year
+}])
+
+df_profile.to_csv("scholar_profile.csv", index=False)
+
+print("Perfil descargado con éxito.")
+
+########################################
+# 2. DESCARGAR PUBLICACIONES (tu código)
+########################################
 
 all_articles = []
 start = 0
@@ -58,42 +83,30 @@ while True:
 
     for a in articles:
 
-        # --- CITES ---
         if isinstance(a.get("cited_by"), dict):
             a["cited_by"] = a["cited_by"]["value"]
         else:
             a["cited_by"] = None
 
-        # --- AUTORES ---
         if isinstance(a.get("authors"), list):
             a["authors"] = ", ".join(a["authors"])
 
-        # --- JOURNAL ---
         a["journal"] = a.get("publication")
-
-        # --- LINK SCHOLAR ---
         a["scholar_link"] = a.get("link")
-
-        # --- LINK PDF ---
         a["pdf"] = a.get("pdf")
 
     all_articles.extend(articles)
     start += 20
 
-
-# Convertir a DataFrame
 df = pd.DataFrame(all_articles)
 
-# columnas ordenadas
 cols = [
     "title", "year", "authors", "journal",
     "cited_by", "scholar_link", "pdf"
 ]
 
 df = df[[c for c in cols if c in df.columns]]
-
-# Guardar CSV final
 df.to_csv("scholar.csv", index=False)
 
-print(f"scholar.csv generado con {len(df)} artículos.")
+print(f"CSV generado con {len(df)} artículos.")
 
