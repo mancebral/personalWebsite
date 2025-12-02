@@ -53,13 +53,23 @@ else:
     interests = ""
 
 # ---- crear dataframe del perfil ----
+def clean_value(v):
+    """Convierte listas y diccionarios a strings seguros."""
+    if isinstance(v, dict):
+        return str(v)
+    if isinstance(v, list):
+        return ", ".join(str(x) for x in v)
+    return v
+
 df_profile = pd.DataFrame([{
-    "name": profile.get("name"),
-    "affiliation": profile.get("affiliations"),
-    "email": profile.get("email"),
-    "interests": interests,
-    **metrics,
-    **citations_per_year
+    "name": clean_value(profile.get("name", "")),
+    "affiliation": clean_value(profile.get("affiliation", "")),
+    "interests": clean_value(interests),
+    "h_index": clean_value(h_index),
+    "h_index_5y": clean_value(h_index_5y),
+    "i10_index": clean_value(i10_index),
+    "i10_index_5y": clean_value(i10_index_5y),
+    "cited_by": clean_value(cited_by),
 }])
 
 df_profile.to_csv("scholar_profile.csv", index=False)
