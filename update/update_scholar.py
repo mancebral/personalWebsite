@@ -23,6 +23,18 @@ profile_data = r_profile.json()
 profile = profile_data.get("author", {})
 cited_by = profile_data.get("cited_by", {})
 
+import json
+
+print("\n=== PROFILE_DATA ===")
+print(json.dumps(profile_data, indent=2, ensure_ascii=False))
+
+print("\n=== PROFILE ===")
+print(json.dumps(profile, indent=2, ensure_ascii=False))
+
+print("\n=== CITED_BY ===")
+print(json.dumps(cited_by, indent=2, ensure_ascii=False))
+
+
 # ---- h-index, i10, citations ----
 metrics = {}
 if "table" in cited_by:
