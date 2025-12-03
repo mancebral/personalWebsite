@@ -22,6 +22,11 @@ params_profile = {
 r_profile = requests.get(BASE_URL, params=params_profile)
 profile_data = r_profile.json()
 
+# Guardar el JSON completo para inspeccionarlo
+with open("scholar_raw.json", "w", encoding="utf8") as f:
+    json.dump(profile_data, f, ensure_ascii=False, indent=2)
+
+
 # Guardar JSON bruto para depuración
 with open("scholar_raw.json", "w") as f:
     json.dump(profile_data, f, indent=2)
