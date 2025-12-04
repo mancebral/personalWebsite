@@ -130,13 +130,15 @@ pubs_by_year = (
     .reset_index(name="publications")
 )
 
+# Forzar year a numérico
+pubs_by_year["year"] = pd.to_numeric(pubs_by_year["year"], errors="coerce")
+
 # --- citas por año ---
 cit_year_df = pd.DataFrame(citations_year)
-
 cit_year_df.columns = ["year", "citations"]
-cit_year_df["year"] = cit_year_df["year"].astype(int)
+cit_year_df["year"] = pd.to_numeric(cit_year_df["year"], errors="coerce")
 
-# fusionamos
+# --- MERGE ---
 df_stats = pd.merge(
     cit_year_df,
     pubs_by_year,
@@ -145,7 +147,5 @@ df_stats = pd.merge(
 ).sort_values("year")
 
 df_stats.to_csv("scholar_stats.csv", index=False)
-
 print("Estadísticas guardadas → scholar_stats.csv")
-
 
