@@ -1,13 +1,13 @@
 {
   "search_metadata": {
-    "id": "692f9ffa5c26226f05f8e510",
+    "id": "6930e87013f4b6ee7a6c3b4d",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/40eea877b788c6fa/692f9ffa5c26226f05f8e510.json",
-    "created_at": "2025-12-03 02:27:06 UTC",
-    "processed_at": "2025-12-03 02:27:06 UTC",
+    "json_endpoint": "https://serpapi.com/searches/40eea877b788c6fa/6930e87013f4b6ee7a6c3b4d.json",
+    "created_at": "2025-12-04 01:48:32 UTC",
+    "processed_at": "2025-12-04 01:48:32 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=Maj9ubYAAAAJ&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/40eea877b788c6fa/692f9ffa5c26226f05f8e510.html",
-    "total_time_taken": 3.85
+    "raw_html_file": "https://serpapi.com/searches/40eea877b788c6fa/6930e87013f4b6ee7a6c3b4d.html",
+    "total_time_taken": 1.38
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -323,8 +323,8 @@
     "table": [
       {
         "citations": {
-          "all": 186,
-          "since_2020": 184
+          "all": 185,
+          "since_2020": 183
         }
       },
       {
@@ -359,7 +359,7 @@
       },
       {
         "year": 2025,
-        "citations": 62
+        "citations": 61
       }
     ]
   },
@@ -523,15 +523,6 @@
       "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
     },
     {
-      "name": "Nohemi Lugo Rodr\u00edguez",
-      "link": "https://scholar.google.com/citations?user=QdvMMgsAAAAJ&hl=en",
-      "serpapi_link": "https://serpapi.com/search.json?author_id=QdvMMgsAAAAJ&engine=google_scholar_author&hl=en",
-      "author_id": "QdvMMgsAAAAJ",
-      "affiliations": "Depto. de medios y cultura digital. Tecnol\u00f3gico de Monterrey, Campus Quer\u00e9taro.",
-      "email": "Verified email at tec.mx",
-      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=QdvMMgsAAAAJ&citpid=2"
-    },
-    {
       "name": "Tim Lomas",
       "link": "https://scholar.google.com/citations?user=rFLmbpcAAAAJ&hl=en",
       "serpapi_link": "https://serpapi.com/search.json?author_id=rFLmbpcAAAAJ&engine=google_scholar_author&hl=en",
@@ -541,13 +532,22 @@
       "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
     },
     {
-      "name": "Ester Bautista",
-      "link": "https://scholar.google.com/citations?user=HyV1z08AAAAJ&hl=en",
-      "serpapi_link": "https://serpapi.com/search.json?author_id=HyV1z08AAAAJ&engine=google_scholar_author&hl=en",
-      "author_id": "HyV1z08AAAAJ",
-      "affiliations": "Universidad Aut\u00f3noma de Quer\u00e9taro",
-      "email": "Verified email at uaq.mx",
-      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=HyV1z08AAAAJ&citpid=1"
+      "name": "Javier M. Antelis",
+      "link": "https://scholar.google.com/citations?user=9YnDZdAAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=9YnDZdAAAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "9YnDZdAAAAAJ",
+      "affiliations": "Tecnol\u00f3gico de Monterrey",
+      "email": "Verified email at tec.mx",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=9YnDZdAAAAAJ&citpid=1"
+    },
+    {
+      "name": "manuel torres cubeiro",
+      "link": "https://scholar.google.com/citations?user=oEKO8ncAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=oEKO8ncAAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "oEKO8ncAAAAJ",
+      "affiliations": "Profesor sociologia",
+      "email": "Verified email at edu.xunta.es",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=oEKO8ncAAAAJ&citpid=2"
     }
   ],
   "serpapi_pagination": {
