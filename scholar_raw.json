@@ -1,13 +1,13 @@
 {
   "search_metadata": {
-    "id": "6930e87013f4b6ee7a6c3b4d",
+    "id": "6930fcea703f17b170fab435",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/40eea877b788c6fa/6930e87013f4b6ee7a6c3b4d.json",
-    "created_at": "2025-12-04 01:48:32 UTC",
-    "processed_at": "2025-12-04 01:48:32 UTC",
+    "json_endpoint": "https://serpapi.com/searches/40eea877b788c6fa/6930fcea703f17b170fab435.json",
+    "created_at": "2025-12-04 03:15:54 UTC",
+    "processed_at": "2025-12-04 03:15:54 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=Maj9ubYAAAAJ&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/40eea877b788c6fa/6930e87013f4b6ee7a6c3b4d.html",
-    "total_time_taken": 1.38
+    "raw_html_file": "https://serpapi.com/searches/40eea877b788c6fa/6930fcea703f17b170fab435.html",
+    "total_time_taken": 0.68
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -43,7 +43,7 @@
       "title": "The fertility of a concept: A bibliometric review of human flourishing",
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Maj9ubYAAAAJ&citation_for_view=Maj9ubYAAAAJ:7PzlFSSx8tAC",
       "citation_id": "Maj9ubYAAAAJ:7PzlFSSx8tAC",
-      "authors": "M Cebral-Loureda, E Tam\u00e9s-Mu\u00f1oz, A Hern\u00e1ndez-Baqueiro",
+      "authors": "M Cebral-Loureda, E Tamés-Muñoz, A Hernández-Baqueiro",
       "publication": "International journal of environmental research and public health 19 (5), 2586, 2022",
       "cited_by": {
         "value": 39,
@@ -54,11 +54,11 @@
       "year": "2022"
     },
     {
-      "title": "Voces autorizadas en Twitter durante la pandemia de COVID-19: actores, l\u00e9xico y sentimientos como marco interpretativo para usuarios ordinarios.",
+      "title": "Voces autorizadas en Twitter durante la pandemia de COVID-19: actores, léxico y sentimientos como marco interpretativo para usuarios ordinarios.",
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Maj9ubYAAAAJ&citation_for_view=Maj9ubYAAAAJ:QIV2ME_5wuYC",
       "citation_id": "Maj9ubYAAAAJ:QIV2ME_5wuYC",
       "authors": "GE Sued Palmeiro, M Cebral-Loureda",
-      "publication": "Revista de Comunicaci\u00f3n y Salud 10 (2), 2020",
+      "publication": "Revista de Comunicación y Salud 10 (2), 2020",
       "cited_by": {
         "value": 29,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17777793104997801396,6810063960685467254,1029123674638430782",
@@ -85,7 +85,7 @@
       "title": "Real-time EEG-based emotion recognition for neurohumanities: perspectives from principal component analysis and tree-based algorithms",
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Maj9ubYAAAAJ&citation_for_view=Maj9ubYAAAAJ:k_IJM867U9cC",
       "citation_id": "Maj9ubYAAAAJ:k_IJM867U9cC",
-      "authors": "MA Blanco-R\u00edos, MO Candela-Leal, C Orozco-Romo, P Remis-Serna, ...",
+      "authors": "MA Blanco-Ríos, MO Candela-Leal, C Orozco-Romo, P Remis-Serna, ...",
       "publication": "Frontiers in Human Neuroscience 18, 1319574, 2024",
       "cited_by": {
         "value": 19,
@@ -99,7 +99,7 @@
       "title": "One hundred years of neurosciences in the arts and humanities, a bibliometric review",
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Maj9ubYAAAAJ&citation_for_view=Maj9ubYAAAAJ:_Qo2XoVZTnwC",
       "citation_id": "Maj9ubYAAAAJ:_Qo2XoVZTnwC",
-      "authors": "M Cebral-Loureda, J Sanabria-Z, MA Ram\u00edrez-Moreno, ...",
+      "authors": "M Cebral-Loureda, J Sanabria-Z, MA Ramírez-Moreno, ...",
       "publication": "Philosophy, Ethics, and Humanities in Medicine 18 (1), 17, 2023",
       "cited_by": {
         "value": 11,
@@ -113,7 +113,7 @@
       "title": "A text mining analysis of human flourishing on Twitter",
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Maj9ubYAAAAJ&citation_for_view=Maj9ubYAAAAJ:-f6ydRqryjwC",
       "citation_id": "Maj9ubYAAAAJ:-f6ydRqryjwC",
-      "authors": "M Cebral-Loureda, A Hern\u00e1ndez-Baqueiro, E Tam\u00e9s-Mu\u00f1oz",
+      "authors": "M Cebral-Loureda, A Hernández-Baqueiro, E Tamés-Muñoz",
       "publication": "Scientific reports 13 (1), 3403, 2023",
       "cited_by": {
         "value": 10,
@@ -127,7 +127,7 @@
       "title": "Augmented reality in educational innovation: a literature mapping review",
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Maj9ubYAAAAJ&citation_for_view=Maj9ubYAAAAJ:bEWYMUwI8FkC",
       "citation_id": "Maj9ubYAAAAJ:bEWYMUwI8FkC",
-      "authors": "D Velarde-Camaqui, J Sanabria-Z, MS Ram\u00edrez-Montoya, ...",
+      "authors": "D Velarde-Camaqui, J Sanabria-Z, MS Ramírez-Montoya, ...",
       "publication": "International Conference on Communication and Applied Technologies, 49-58, 2024",
       "cited_by": {
         "value": 8,
@@ -141,7 +141,7 @@
       "title": "Using AI for educational research in multimodal learning analytics",
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Maj9ubYAAAAJ&citation_for_view=Maj9ubYAAAAJ:2P1L_qKh6hAC",
       "citation_id": "Maj9ubYAAAAJ:2P1L_qKh6hAC",
-      "authors": "LF Mor\u00e1n-Mirabal, J Alvarado-Uribe, HG Ceballos, M Cebral-Loureda, ...",
+      "authors": "LF Morán-Mirabal, J Alvarado-Uribe, HG Ceballos, M Cebral-Loureda, ...",
       "publication": "What AI Can Do? Strengths and Limitations of Artificial Intelligence 1, 155176, 2023",
       "cited_by": {
         "value": 5,
@@ -169,7 +169,7 @@
       "title": "What AI Can Do: Strengths and Limitations of Artificial Intelligence",
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Maj9ubYAAAAJ&citation_for_view=Maj9ubYAAAAJ:HDshCWvjkbEC",
       "citation_id": "Maj9ubYAAAAJ:HDshCWvjkbEC",
-      "authors": "M Cebral-Loureda, EG Rinc\u00f3n-Flores, G Sanchez-Ante",
+      "authors": "M Cebral-Loureda, EG Rincón-Flores, G Sanchez-Ante",
       "publication": "CRC Press, 2023",
       "cited_by": {
         "value": 4,
@@ -184,7 +184,7 @@
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Maj9ubYAAAAJ&citation_for_view=Maj9ubYAAAAJ:L8Ckcad2t8MC",
       "citation_id": "Maj9ubYAAAAJ:L8Ckcad2t8MC",
       "authors": "M Cebral-Loureda, C Torres-Huitzil",
-      "publication": "2021 Machine Learning-Driven Digital Technologies for Educational Innovation \u2026, 2021",
+      "publication": "2021 Machine Learning-Driven Digital Technologies for Educational Innovation …, 2021",
       "cited_by": {
         "value": 4,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12298152046619411721",
@@ -198,7 +198,7 @@
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Maj9ubYAAAAJ&citation_for_view=Maj9ubYAAAAJ:2osOgNQ5qMEC",
       "citation_id": "Maj9ubYAAAAJ:2osOgNQ5qMEC",
       "authors": "M Cebral Loureda",
-      "publication": "Automata\u2019s Inner Movie: Science and Philosophy of Mind, 2019",
+      "publication": "Automata’s Inner Movie: Science and Philosophy of Mind, 2019",
       "cited_by": {
         "value": 4,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4407083887060741627,5452592859252075650",
@@ -208,7 +208,7 @@
       "year": "2019"
     },
     {
-      "title": "La revoluci\u00f3n cibern\u00e9tica desde la filosof\u00eda de Gilles Deleuze: una revisi\u00f3n cr\u00edtica de las herramientas de miner\u00eda de datos y Big Data",
+      "title": "La revolución cibernética desde la filosofía de Gilles Deleuze: una revisión crítica de las herramientas de minería de datos y Big Data",
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Maj9ubYAAAAJ&citation_for_view=Maj9ubYAAAAJ:ufrVoPGSRksC",
       "citation_id": "Maj9ubYAAAAJ:ufrVoPGSRksC",
       "authors": "M Cebral Loureda",
@@ -225,7 +225,7 @@
       "title": "Love as a concept in academic research: A bibliometric review",
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Maj9ubYAAAAJ&citation_for_view=Maj9ubYAAAAJ:YFjsv_pBGBYC",
       "citation_id": "Maj9ubYAAAAJ:YFjsv_pBGBYC",
-      "authors": "M Cebral-Loureda, MT Lee, A Hern\u00e1ndez-Baqueiro, T Lomas, ...",
+      "authors": "M Cebral-Loureda, MT Lee, A Hernández-Baqueiro, T Lomas, ...",
       "publication": "Methods in Psychology 11, 100153, 2024",
       "cited_by": {
         "value": 3,
@@ -266,7 +266,7 @@
       "title": "EEG and Physiological Signals Dataset from Participants during Traditional and Partially Immersive Learning Experiences in Humanities",
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Maj9ubYAAAAJ&citation_for_view=Maj9ubYAAAAJ:M3NEmzRMIkIC",
       "citation_id": "Maj9ubYAAAAJ:M3NEmzRMIkIC",
-      "authors": "R Romo-De Le\u00f3n, MLL Cham-P\u00e9rez, VA Elizondo-Villegas, ...",
+      "authors": "R Romo-De León, MLL Cham-Pérez, VA Elizondo-Villegas, ...",
       "publication": "Data 9 (5), 68, 2024",
       "cited_by": {
         "value": 2,
@@ -277,7 +277,7 @@
       "year": "2024"
     },
     {
-      "title": "Experiencia de lectura de la obra de Fernanda Melchor: an\u00e1lisis de las rese\u00f1as en Goodreads",
+      "title": "Experiencia de lectura de la obra de Fernanda Melchor: análisis de las reseñas en Goodreads",
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Maj9ubYAAAAJ&citation_for_view=Maj9ubYAAAAJ:j3f4tGmQtD8C",
       "citation_id": "Maj9ubYAAAAJ:j3f4tGmQtD8C",
       "authors": "M Reyes-Abundes, M Cebral-Loureda",
@@ -291,7 +291,7 @@
       "year": "2024"
     },
     {
-      "title": "Voluntad y deseo en la filosof\u00eda moderna: un acercamiento computacional",
+      "title": "Voluntad y deseo en la filosofía moderna: un acercamiento computacional",
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Maj9ubYAAAAJ&citation_for_view=Maj9ubYAAAAJ:Se3iqnhoufwC",
       "citation_id": "Maj9ubYAAAAJ:Se3iqnhoufwC",
       "authors": "M Cebral Loureda",
@@ -305,7 +305,7 @@
       "year": "2020"
     },
     {
-      "title": "El teatro y la realidad virtual como metodolog\u00eda experimental para las Humanidades",
+      "title": "El teatro y la realidad virtual como metodología experimental para las Humanidades",
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Maj9ubYAAAAJ&citation_for_view=Maj9ubYAAAAJ:_FxGoFyzp5QC",
       "citation_id": "Maj9ubYAAAAJ:_FxGoFyzp5QC",
       "authors": "M Cebral Loureda",
@@ -370,29 +370,29 @@
   },
   "co_authors": [
     {
-      "name": "Alberto Hern\u00e1ndez Baqueiro",
+      "name": "Alberto Hernández Baqueiro",
       "link": "https://scholar.google.com/citations?user=wxWzaBIAAAAJ&hl=en",
       "serpapi_link": "https://serpapi.com/search.json?author_id=wxWzaBIAAAAJ&engine=google_scholar_author&hl=en",
       "author_id": "wxWzaBIAAAAJ",
-      "affiliations": "Tecnol\u00f3gico de Monterrey",
+      "affiliations": "Tecnológico de Monterrey",
       "email": "Verified email at tec.mx",
       "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
     },
     {
-      "name": "Enrique Tam\u00e9s-Mu\u00f1oz",
+      "name": "Enrique Tamés-Muñoz",
       "link": "https://scholar.google.com/citations?user=GkFlDxkAAAAJ&hl=en",
       "serpapi_link": "https://serpapi.com/search.json?author_id=GkFlDxkAAAAJ&engine=google_scholar_author&hl=en",
       "author_id": "GkFlDxkAAAAJ",
-      "affiliations": "EGADE Business School, Tecnol\u00f3gico de Monterrey",
+      "affiliations": "EGADE Business School, Tecnológico de Monterrey",
       "email": "Verified email at tec.mx",
       "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=GkFlDxkAAAAJ&citpid=1"
     },
     {
-      "name": "Mauricio Adolfo Ram\u00edrez Moreno",
+      "name": "Mauricio Adolfo Ramírez Moreno",
       "link": "https://scholar.google.com/citations?user=zWotbKAAAAAJ&hl=en",
       "serpapi_link": "https://serpapi.com/search.json?author_id=zWotbKAAAAAJ&engine=google_scholar_author&hl=en",
       "author_id": "zWotbKAAAAAJ",
-      "affiliations": "Instituto Tecnol\u00f3gico y de Estudios Superiores de Monterrey",
+      "affiliations": "Instituto Tecnológico y de Estudios Superiores de Monterrey",
       "email": "Verified email at tec.mx",
       "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=zWotbKAAAAAJ&citpid=3"
     },
@@ -401,7 +401,7 @@
       "link": "https://scholar.google.com/citations?user=y_LVoGYAAAAJ&hl=en",
       "serpapi_link": "https://serpapi.com/search.json?author_id=y_LVoGYAAAAJ&engine=google_scholar_author&hl=en",
       "author_id": "y_LVoGYAAAAJ",
-      "affiliations": "Universidad Nacional Aut\u00f3noma de M\u00e9xico",
+      "affiliations": "Universidad Nacional Autónoma de México",
       "email": "Verified email at tec.mx",
       "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=y_LVoGYAAAAJ&citpid=2"
     },
@@ -410,7 +410,7 @@
       "link": "https://scholar.google.com/citations?user=IA_gu48AAAAJ&hl=en",
       "serpapi_link": "https://serpapi.com/search.json?author_id=IA_gu48AAAAJ&engine=google_scholar_author&hl=en",
       "author_id": "IA_gu48AAAAJ",
-      "affiliations": "Tecnol\u00f3gico de Monterrey",
+      "affiliations": "Tecnológico de Monterrey",
       "email": "Verified email at tec.mx",
       "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=IA_gu48AAAAJ&citpid=2"
     },
@@ -464,7 +464,7 @@
       "link": "https://scholar.google.com/citations?user=DO9J0SQAAAAJ&hl=en",
       "serpapi_link": "https://serpapi.com/search.json?author_id=DO9J0SQAAAAJ&engine=google_scholar_author&hl=en",
       "author_id": "DO9J0SQAAAAJ",
-      "affiliations": "Estudiante de doctorado, Tecnol\u00f3gico de Monterrey",
+      "affiliations": "Estudiante de doctorado, Tecnológico de Monterrey",
       "email": "Verified email at itesm.mx",
       "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=DO9J0SQAAAAJ&citpid=5"
     },
@@ -473,7 +473,7 @@
       "link": "https://scholar.google.com/citations?user=oZmFEYYAAAAJ&hl=en",
       "serpapi_link": "https://serpapi.com/search.json?author_id=oZmFEYYAAAAJ&engine=google_scholar_author&hl=en",
       "author_id": "oZmFEYYAAAAJ",
-      "affiliations": "Tecnol\u00f3gico de Monterrey",
+      "affiliations": "Tecnológico de Monterrey",
       "email": "Verified email at tec.mx",
       "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=oZmFEYYAAAAJ&citpid=2"
     },
@@ -487,7 +487,7 @@
       "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=jro4VpAAAAAJ&citpid=1"
     },
     {
-      "name": "Luis F. Mor\u00e1n-Mirabal",
+      "name": "Luis F. Morán-Mirabal",
       "link": "https://scholar.google.com/citations?user=swWRcRQAAAAJ&hl=en",
       "serpapi_link": "https://serpapi.com/search.json?author_id=swWRcRQAAAAJ&engine=google_scholar_author&hl=en",
       "author_id": "swWRcRQAAAAJ",
@@ -505,7 +505,7 @@
       "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=4tax0PIAAAAJ&citpid=2"
     },
     {
-      "name": "H\u00e9ctor G. Ceballos Cancino",
+      "name": "Héctor G. Ceballos Cancino",
       "link": "https://scholar.google.com/citations?user=ok9bB_kAAAAJ&hl=en",
       "serpapi_link": "https://serpapi.com/search.json?author_id=ok9bB_kAAAAJ&engine=google_scholar_author&hl=en",
       "author_id": "ok9bB_kAAAAJ",
@@ -536,7 +536,7 @@
       "link": "https://scholar.google.com/citations?user=9YnDZdAAAAAJ&hl=en",
       "serpapi_link": "https://serpapi.com/search.json?author_id=9YnDZdAAAAAJ&engine=google_scholar_author&hl=en",
       "author_id": "9YnDZdAAAAAJ",
-      "affiliations": "Tecnol\u00f3gico de Monterrey",
+      "affiliations": "Tecnológico de Monterrey",
       "email": "Verified email at tec.mx",
       "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=9YnDZdAAAAAJ&citpid=1"
     },
