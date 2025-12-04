@@ -5,13 +5,12 @@ import json
 
 API_KEY = os.getenv("SERPAPI_KEY")
 SCHOLAR_ID = "Maj9ubYAAAAJ"
-
 BASE_URL = "https://serpapi.com/search.json"
 
 
-########################################
+# ======================================================
 # 1. DESCARGAR PERFIL COMPLETO
-########################################
+# ======================================================
 
 params_profile = {
     "engine": "google_scholar_author",
@@ -19,103 +18,134 @@ params_profile = {
     "api_key": API_KEY
 }
 
-r_profile = requests.get(BASE_URL, params=params_profile)
-profile_data = r_profile.json()
+profile_data = requests.get(BASE_URL, params=params_profile).json()
 
-# Guardar el JSON completo para inspeccionarlo
+# Guardamos JSON bruto para depuración
 with open("scholar_raw.json", "w", encoding="utf8") as f:
     json.dump(profile_data, f, ensure_ascii=False, indent=2)
-
-
-# Guardar JSON bruto para depuración
-with open("scholar_raw.json", "w") as f:
-    json.dump(profile_data, f, indent=2)
-
-
-########################################
-# 2. EXTRAER DATOS DEL PERFIL
-########################################
 
 author = profile_data.get("author", {})
 cited_by = profile_data.get("cited_by", {})
 
-# ---- Interests ----
-interests_raw = author.get("interests", [])
+# -------- Intereses --------
 interests = " | ".join(
-    i.get("title", "") if isinstance(i, dict) else str(i)
-    for i in interests_raw
+    i.get("title", "") for i in author.get("interests", []) if isinstance(i, dict)
 )
 
-# ---- Métricas h-index, i10-index ----
+# -------- Métricas completas --------
 h_index = None
+h_index_5y = None
 i10_index = None
+i10_index_5y = None
 citations_total = None
 
-if "table" in cited_by:
-    for row in cited_by["table"]:
-        if row.get("name") == "Citations":
-            citations_total = row.get("all")
-        elif row.get("name") == "h-index":
-            h_index = row.get("all")
-        elif row.get("name") == "i10-index":
-            i10_index = row.get("all")
+table = cited_by.get("table", [])
 
-# ---- Citas por año ----
-citations_per_year = cited_by.get("graph", {})
+for row in table:
+    if "citations" in row:
+        citations_total = row["citations"].get("all")
+    if "h_index" in row:
+        h_index = row["h_index"].get("all")
+        h_index_5y = row["h_index"].get("since_2019")
+    if "i10_index" in row:
+        i10_index = row["i10_index"].get("all")
+        i10_index_5y = row["i10_index"].get("since_2019")
 
-# ---- Crear dataframe del perfil ----
+# -------- Citas por año --------
+citations_year = cited_by.get("graph", [])  # lista de dicts
+
+
+# -------- Crear dataframe del perfil --------
 df_profile = pd.DataFrame([{
     "name": author.get("name", ""),
     "affiliation": author.get("affiliations", ""),
     "interests": interests,
     "citations_total": citations_total,
     "h_index": h_index,
-    "i10_index": i10_index
+    "h_index_5y": h_index_5y,
+    "i10_index": i10_index,
+    "i10_index_5y": i10_index_5y
 }])
 
 df_profile.to_csv("scholar_profile.csv", index=False)
 print("Perfil guardado → scholar_profile.csv")
 
 
-########################################
-# 3. DESCARGAR TODAS LAS PUBLICACIONES
-########################################
+# ======================================================
+# 2. DESCARGAR TODAS LAS PUBLICACIONES (PAGINADAS)
+# ======================================================
 
 all_articles = []
-start = 0
 
-while True:
-    params = {
-        "engine": "google_scholar_author",
-        "author_id": SCHOLAR_ID,
-        "api_key": API_KEY,
-        "start": start
-    }
+next_url = (
+    f"{BASE_URL}?engine=google_scholar_author&author_id={SCHOLAR_ID}&api_key={API_KEY}"
+)
 
-    r = requests.get(BASE_URL, params=params)
-    data = r.json()
+while next_url:
+    data = requests.get(next_url).json()
 
     articles = data.get("articles", [])
-    if not articles:
-        break
+    all_articles.extend(articles)
 
-    for a in articles:
-        entry = {
-            "title": a.get("title", ""),
-            "year": a.get("year", ""),
-            "authors": ", ".join(a.get("authors", [])) if isinstance(a.get("authors"), list) else "",
-            "journal": a.get("publication", ""),
-            "cited_by": a.get("cited_by", {}).get("value") if isinstance(a.get("cited_by"), dict) else "",
-            "scholar_link": a.get("link", ""),
-            "pdf": a.get("pdf", "")
-        }
+    # siguiente página
+    next_url = data.get("serpapi_pagination", {}).get("next")
 
-        all_articles.append(entry)
+# procesar artículos
+clean_articles = []
+for a in all_articles:
+    authors = a.get("authors", [])
+    if isinstance(authors, list):
+        authors = ", ".join(authors)
 
-    start += 20
+    cited_value = (
+        a.get("cited_by", {}).get("value")
+        if isinstance(a.get("cited_by"), dict)
+        else None
+    )
 
-df_articles = pd.DataFrame(all_articles)
+    clean_articles.append({
+        "title": a.get("title"),
+        "year": a.get("year"),
+        "authors": authors,
+        "journal": a.get("publication"),
+        "cited_by": cited_value,
+        "scholar_link": a.get("link"),
+        "pdf": a.get("pdf")
+    })
+
+df_articles = pd.DataFrame(clean_articles)
 df_articles.to_csv("scholar.csv", index=False)
 print(f"Artículos guardados → scholar.csv ({len(df_articles)} artículos)")
+
+
+# ======================================================
+# 3. PUBLICACIONES POR AÑO + CITAS POR AÑO
+# ======================================================
+
+# --- publicaciones por año ---
+pubs_by_year = (
+    df_articles.dropna(subset=["year"])
+    .groupby("year")
+    .size()
+    .reset_index(name="publications")
+)
+
+# --- citas por año ---
+cit_year_df = pd.DataFrame(citations_year)
+
+cit_year_df.columns = ["year", "citations"]
+cit_year_df["year"] = cit_year_df["year"].astype(int)
+
+# fusionamos
+df_stats = pd.merge(
+    cit_year_df,
+    pubs_by_year,
+    on="year",
+    how="outer"
+).sort_values("year")
+
+df_stats.to_csv("scholar_stats.csv", index=False)
+
+print("Estadísticas guardadas → scholar_stats.csv")
 
 
