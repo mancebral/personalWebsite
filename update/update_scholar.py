@@ -129,6 +129,9 @@ print(f"Artículos guardados → scholar.csv ({len(df_articles)} artículos)")
 # --- Publicaciones por año ---
 pubs_by_year = (
     df_articles.dropna(subset=["year"])
+               .assign(year=lambda x: pd.to_numeric(x["year"], errors="coerce"))
+               .dropna(subset=["year"])
+               .astype({"year": int})
                .groupby("year")
                .size()
                .reset_index(name="n")
@@ -138,6 +141,10 @@ pubs_by_year = (
 # --- Citas por año ---
 citations_graph = cited_by.get("graph", [])
 citations_year = pd.DataFrame(citations_graph)
+
+if "year" in citations_year.columns:
+    citations_year["year"] = pd.to_numeric(citations_year["year"], errors="coerce")
+    citations_year = citations_year.dropna(subset=["year"]).astype({"year": int})
 
 # --- Guardar stats ---
 df_stats = pd.merge(
@@ -151,4 +158,5 @@ df_stats.to_csv("scholar_stats.csv", index=False)
 
 print("Stats guardadas → scholar_stats.csv")
 print(df_stats)
+
 
