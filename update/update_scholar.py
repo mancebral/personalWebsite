@@ -26,6 +26,13 @@ profile_data = r_profile.json()
 with open("scholar_raw.json", "w", encoding="utf8") as f:
     json.dump(profile_data, f, ensure_ascii=False, indent=2)
 
+print("\nEjemplo de artículo del JSON:\n")
+articles = profile_data.get("articles", [])
+if articles:
+    print(json.dumps(articles[0], indent=2, ensure_ascii=False))
+else:
+    print("No se encontraron artículos en la respuesta.")
+
 print("JSON RAW guardado → scholar_raw.json")
 
 #########################################################
