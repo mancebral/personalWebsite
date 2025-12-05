@@ -26,13 +26,6 @@ profile_data = r_profile.json()
 with open("scholar_raw.json", "w", encoding="utf8") as f:
     json.dump(profile_data, f, ensure_ascii=False, indent=2)
 
-print("\nEjemplo de artículo del JSON:\n")
-articles = profile_data.get("articles", [])
-if articles:
-    print(json.dumps(articles[0], indent=2, ensure_ascii=False))
-else:
-    print("No se encontraron artículos en la respuesta.")
-
 print("JSON RAW guardado → scholar_raw.json")
 
 #########################################################
@@ -110,10 +103,35 @@ while True:
         break
 
     for a in articles:
+
+        # ---- NORMALIZAR AUTORES ----
+        authors_raw = a.get("authors", "")
+
+        # caso 1: lista de dicts
+        if isinstance(authors_raw, list):
+            authors_list = [
+                x.get("name", "").strip()
+                for x in authors_raw
+                if isinstance(x, dict)
+            ]
+            authors = ", ".join(authors_list)
+
+        # caso 2: string plano
+        elif isinstance(authors_raw, str):
+            # "A, B, C" → lista
+            authors_list = [x.strip() for x in authors_raw.split(",")]
+            authors = authors_raw.strip()
+
+        # caso raro
+        else:
+            authors = ""
+            authors_list = []
+
         entry = {
             "title": a.get("title", ""),
             "year": a.get("year"),
-            "authors": ", ".join(a.get("authors", [])) if isinstance(a.get("authors"), list) else None,
+            "authors": authors,
+            "authors_list": authors_list,
             "journal": a.get("publication"),
             "cited_by": a.get("cited_by", {}).get("value") if isinstance(a.get("cited_by"), dict) else None,
             "scholar_link": a.get("link"),
@@ -165,5 +183,4 @@ df_stats.to_csv("scholar_stats.csv", index=False)
 
 print("Stats guardadas → scholar_stats.csv")
 print(df_stats)
-
 
