@@ -1,13 +1,13 @@
 {
   "search_metadata": {
-    "id": "693a23bf05bb59e9463552b6",
+    "id": "693b74f5d2d7409790f9d774",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/40eea877b788c6fa/693a23bf05bb59e9463552b6.json",
-    "created_at": "2025-12-11 01:51:59 UTC",
-    "processed_at": "2025-12-11 01:51:59 UTC",
+    "json_endpoint": "https://serpapi.com/searches/40eea877b788c6fa/693b74f5d2d7409790f9d774.json",
+    "created_at": "2025-12-12 01:50:45 UTC",
+    "processed_at": "2025-12-12 01:50:45 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=Maj9ubYAAAAJ&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/40eea877b788c6fa/693a23bf05bb59e9463552b6.html",
-    "total_time_taken": 1.61
+    "raw_html_file": "https://serpapi.com/searches/40eea877b788c6fa/693b74f5d2d7409790f9d774.html",
+    "total_time_taken": 1.89
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -523,6 +523,15 @@
       "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
     },
     {
+      "name": "Nohemi Lugo Rodríguez",
+      "link": "https://scholar.google.com/citations?user=QdvMMgsAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=QdvMMgsAAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "QdvMMgsAAAAJ",
+      "affiliations": "Depto. de medios y cultura digital. Tecnológico de Monterrey, Campus Querétaro.",
+      "email": "Verified email at tec.mx",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=QdvMMgsAAAAJ&citpid=2"
+    },
+    {
       "name": "Tim Lomas",
       "link": "https://scholar.google.com/citations?user=rFLmbpcAAAAJ&hl=en",
       "serpapi_link": "https://serpapi.com/search.json?author_id=rFLmbpcAAAAJ&engine=google_scholar_author&hl=en",
@@ -539,15 +548,6 @@
       "affiliations": "Universidad Autónoma de Querétaro",
       "email": "Verified email at uaq.mx",
       "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=HyV1z08AAAAJ&citpid=1"
-    },
-    {
-      "name": "Javier M. Antelis",
-      "link": "https://scholar.google.com/citations?user=9YnDZdAAAAAJ&hl=en",
-      "serpapi_link": "https://serpapi.com/search.json?author_id=9YnDZdAAAAAJ&engine=google_scholar_author&hl=en",
-      "author_id": "9YnDZdAAAAAJ",
-      "affiliations": "Tecnológico de Monterrey",
-      "email": "Verified email at tec.mx",
-      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=9YnDZdAAAAAJ&citpid=1"
     }
   ],
   "serpapi_pagination": {
