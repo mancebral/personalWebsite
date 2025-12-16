@@ -1,13 +1,13 @@
 {
   "search_metadata": {
-    "id": "693f6a77bc3f0b1c03d9ea04",
+    "id": "6940bb353d34dd4a44eca15e",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/40eea877b788c6fa/693f6a77bc3f0b1c03d9ea04.json",
-    "created_at": "2025-12-15 01:55:03 UTC",
-    "processed_at": "2025-12-15 01:55:03 UTC",
+    "json_endpoint": "https://serpapi.com/searches/40eea877b788c6fa/6940bb353d34dd4a44eca15e.json",
+    "created_at": "2025-12-16 01:51:49 UTC",
+    "processed_at": "2025-12-16 01:51:49 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=Maj9ubYAAAAJ&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/40eea877b788c6fa/693f6a77bc3f0b1c03d9ea04.html",
-    "total_time_taken": 0.7
+    "raw_html_file": "https://serpapi.com/searches/40eea877b788c6fa/6940bb353d34dd4a44eca15e.html",
+    "total_time_taken": 2.06
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -88,7 +88,7 @@
       "authors": "MA Blanco-Ríos, MO Candela-Leal, C Orozco-Romo, P Remis-Serna, ...",
       "publication": "Frontiers in Human Neuroscience 18, 1319574, 2024",
       "cited_by": {
-        "value": 19,
+        "value": 20,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6591095613140752943",
         "serpapi_link": "https://serpapi.com/search.json?cites=6591095613140752943&engine=google_scholar&hl=en",
         "cites_id": "6591095613140752943"
@@ -138,6 +138,20 @@
       "year": "2024"
     },
     {
+      "title": "Real-time EEG-based Emotion Recognition Model using Principal Component Analysis and Tree-based Models for Neurohumanities",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Maj9ubYAAAAJ&citation_for_view=Maj9ubYAAAAJ:4JMBOYKVnBMC",
+      "citation_id": "Maj9ubYAAAAJ:4JMBOYKVnBMC",
+      "authors": "MA Blanco-Rios, MO Candela-Leal, C Orozco-Romo, P Remis-Serna, ...",
+      "publication": "arXiv preprint arXiv:2401.15743, 2024",
+      "cited_by": {
+        "value": 5,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16370505158041638748",
+        "serpapi_link": "https://serpapi.com/search.json?cites=16370505158041638748&engine=google_scholar&hl=en",
+        "cites_id": "16370505158041638748"
+      },
+      "year": "2024"
+    },
+    {
       "title": "Using AI for educational research in multimodal learning analytics",
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Maj9ubYAAAAJ&citation_for_view=Maj9ubYAAAAJ:2P1L_qKh6hAC",
       "citation_id": "Maj9ubYAAAAJ:2P1L_qKh6hAC",
@@ -150,20 +164,6 @@
         "cites_id": "14295190316653421920"
       },
       "year": "2023"
-    },
-    {
-      "title": "Real-time EEG-based Emotion Recognition Model using Principal Component Analysis and Tree-based Models for Neurohumanities",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Maj9ubYAAAAJ&citation_for_view=Maj9ubYAAAAJ:4JMBOYKVnBMC",
-      "citation_id": "Maj9ubYAAAAJ:4JMBOYKVnBMC",
-      "authors": "MA Blanco-Rios, MO Candela-Leal, C Orozco-Romo, P Remis-Serna, ...",
-      "publication": "arXiv preprint arXiv:2401.15743, 2024",
-      "cited_by": {
-        "value": 4,
-        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16370505158041638748",
-        "serpapi_link": "https://serpapi.com/search.json?cites=16370505158041638748&engine=google_scholar&hl=en",
-        "cites_id": "16370505158041638748"
-      },
-      "year": "2024"
     },
     {
       "title": "What AI Can Do: Strengths and Limitations of Artificial Intelligence",
@@ -222,20 +222,6 @@
       "year": "2019"
     },
     {
-      "title": "Love as a concept in academic research: A bibliometric review",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Maj9ubYAAAAJ&citation_for_view=Maj9ubYAAAAJ:YFjsv_pBGBYC",
-      "citation_id": "Maj9ubYAAAAJ:YFjsv_pBGBYC",
-      "authors": "M Cebral-Loureda, MT Lee, A Hernández-Baqueiro, T Lomas, ...",
-      "publication": "Methods in Psychology 11, 100153, 2024",
-      "cited_by": {
-        "value": 3,
-        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17209127931677487993",
-        "serpapi_link": "https://serpapi.com/search.json?cites=17209127931677487993&engine=google_scholar&hl=en",
-        "cites_id": "17209127931677487993"
-      },
-      "year": "2024"
-    },
-    {
       "title": "The Neurocomputational Becoming of Intelligence: Philosophical Challenges",
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Maj9ubYAAAAJ&citation_for_view=Maj9ubYAAAAJ:TQgYirikUcIC",
       "citation_id": "Maj9ubYAAAAJ:TQgYirikUcIC",
@@ -261,6 +247,20 @@
         "cites_id": "6290701808320855143"
       },
       "year": "2018"
+    },
+    {
+      "title": "Love as a concept in academic research: A bibliometric review",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Maj9ubYAAAAJ&citation_for_view=Maj9ubYAAAAJ:YFjsv_pBGBYC",
+      "citation_id": "Maj9ubYAAAAJ:YFjsv_pBGBYC",
+      "authors": "M Cebral-Loureda, MT Lee, A Hernández-Baqueiro, T Lomas, ...",
+      "publication": "Methods in Psychology 11, 100153, 2024",
+      "cited_by": {
+        "value": 2,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17209127931677487993",
+        "serpapi_link": "https://serpapi.com/search.json?cites=17209127931677487993&engine=google_scholar&hl=en",
+        "cites_id": "17209127931677487993"
+      },
+      "year": "2024"
     },
     {
       "title": "EEG and Physiological Signals Dataset from Participants during Traditional and Partially Immersive Learning Experiences in Humanities",
@@ -323,8 +323,8 @@
     "table": [
       {
         "citations": {
-          "all": 188,
-          "since_2020": 186
+          "all": 189,
+          "since_2020": 187
         }
       },
       {
@@ -359,7 +359,7 @@
       },
       {
         "year": 2025,
-        "citations": 63
+        "citations": 64
       }
     ]
   },
