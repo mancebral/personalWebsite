@@ -1,13 +1,13 @@
 {
   "search_metadata": {
-    "id": "69420bb12b15b91f5000021b",
+    "id": "69435d4419c5f6cbf64cb98b",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/40eea877b788c6fa/69420bb12b15b91f5000021b.json",
-    "created_at": "2025-12-17 01:47:29 UTC",
-    "processed_at": "2025-12-17 01:47:29 UTC",
+    "json_endpoint": "https://serpapi.com/searches/40eea877b788c6fa/69435d4419c5f6cbf64cb98b.json",
+    "created_at": "2025-12-18 01:47:48 UTC",
+    "processed_at": "2025-12-18 01:47:48 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=Maj9ubYAAAAJ&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/40eea877b788c6fa/69420bb12b15b91f5000021b.html",
-    "total_time_taken": 0.85
+    "raw_html_file": "https://serpapi.com/searches/40eea877b788c6fa/69435d4419c5f6cbf64cb98b.html",
+    "total_time_taken": 1.38
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -172,7 +172,7 @@
       "authors": "M Cebral-Loureda, EG Rincón-Flores, G Sanchez-Ante",
       "publication": "CRC Press, 2023",
       "cited_by": {
-        "value": 4,
+        "value": 5,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10629725694270304271,3427792621633079136",
         "serpapi_link": "https://serpapi.com/search.json?cites=10629725694270304271%2C3427792621633079136&engine=google_scholar&hl=en",
         "cites_id": "10629725694270304271,3427792621633079136"
@@ -222,6 +222,20 @@
       "year": "2019"
     },
     {
+      "title": "Love as a concept in academic research: A bibliometric review",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Maj9ubYAAAAJ&citation_for_view=Maj9ubYAAAAJ:YFjsv_pBGBYC",
+      "citation_id": "Maj9ubYAAAAJ:YFjsv_pBGBYC",
+      "authors": "M Cebral-Loureda, MT Lee, A Hernández-Baqueiro, T Lomas, ...",
+      "publication": "Methods in Psychology 11, 100153, 2024",
+      "cited_by": {
+        "value": 3,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17209127931677487993",
+        "serpapi_link": "https://serpapi.com/search.json?cites=17209127931677487993&engine=google_scholar&hl=en",
+        "cites_id": "17209127931677487993"
+      },
+      "year": "2024"
+    },
+    {
       "title": "The Neurocomputational Becoming of Intelligence: Philosophical Challenges",
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Maj9ubYAAAAJ&citation_for_view=Maj9ubYAAAAJ:TQgYirikUcIC",
       "citation_id": "Maj9ubYAAAAJ:TQgYirikUcIC",
@@ -247,20 +261,6 @@
         "cites_id": "6290701808320855143"
       },
       "year": "2018"
-    },
-    {
-      "title": "Love as a concept in academic research: A bibliometric review",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Maj9ubYAAAAJ&citation_for_view=Maj9ubYAAAAJ:YFjsv_pBGBYC",
-      "citation_id": "Maj9ubYAAAAJ:YFjsv_pBGBYC",
-      "authors": "M Cebral-Loureda, MT Lee, A Hernández-Baqueiro, T Lomas, ...",
-      "publication": "Methods in Psychology 11, 100153, 2024",
-      "cited_by": {
-        "value": 2,
-        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17209127931677487993",
-        "serpapi_link": "https://serpapi.com/search.json?cites=17209127931677487993&engine=google_scholar&hl=en",
-        "cites_id": "17209127931677487993"
-      },
-      "year": "2024"
     },
     {
       "title": "EEG and Physiological Signals Dataset from Participants during Traditional and Partially Immersive Learning Experiences in Humanities",
@@ -323,8 +323,8 @@
     "table": [
       {
         "citations": {
-          "all": 189,
-          "since_2020": 187
+          "all": 191,
+          "since_2020": 189
         }
       },
       {
@@ -359,7 +359,7 @@
       },
       {
         "year": 2025,
-        "citations": 64
+        "citations": 66
       }
     ]
   },
