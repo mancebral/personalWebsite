@@ -1,13 +1,13 @@
 {
   "search_metadata": {
-    "id": "6951e0da556ce3232ced2699",
+    "id": "69533076683863fa14b0e46b",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/40eea877b788c6fa/6951e0da556ce3232ced2699.json",
-    "created_at": "2025-12-29 02:00:58 UTC",
-    "processed_at": "2025-12-29 02:00:58 UTC",
+    "json_endpoint": "https://serpapi.com/searches/40eea877b788c6fa/69533076683863fa14b0e46b.json",
+    "created_at": "2025-12-30 01:52:54 UTC",
+    "processed_at": "2025-12-30 01:52:54 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=Maj9ubYAAAAJ&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/40eea877b788c6fa/6951e0da556ce3232ced2699.html",
-    "total_time_taken": 2.09
+    "raw_html_file": "https://serpapi.com/searches/40eea877b788c6fa/69533076683863fa14b0e46b.html",
+    "total_time_taken": 1.23
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -116,7 +116,7 @@
       "authors": "M Cebral-Loureda, A Hernández-Baqueiro, E Tamés-Muñoz",
       "publication": "Scientific reports 13 (1), 3403, 2023",
       "cited_by": {
-        "value": 11,
+        "value": 10,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5866566735653012213",
         "serpapi_link": "https://serpapi.com/search.json?cites=5866566735653012213&engine=google_scholar&hl=en",
         "cites_id": "5866566735653012213"
@@ -130,7 +130,7 @@
       "authors": "D Velarde-Camaqui, J Sanabria-Z, MS Ramírez-Montoya, ...",
       "publication": "International Conference on Communication and Applied Technologies, 49-58, 2024",
       "cited_by": {
-        "value": 8,
+        "value": 9,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15999887061937531686",
         "serpapi_link": "https://serpapi.com/search.json?cites=15999887061937531686&engine=google_scholar&hl=en",
         "cites_id": "15999887061937531686"
@@ -236,6 +236,20 @@
       "year": "2024"
     },
     {
+      "title": "Experiencia de lectura de la obra de Fernanda Melchor: análisis de las reseñas en Goodreads",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Maj9ubYAAAAJ&citation_for_view=Maj9ubYAAAAJ:j3f4tGmQtD8C",
+      "citation_id": "Maj9ubYAAAAJ:j3f4tGmQtD8C",
+      "authors": "M Reyes-Abundes, M Cebral-Loureda",
+      "publication": "Ocnos 23 (1), 2024",
+      "cited_by": {
+        "value": 3,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4691623794321422290,7841599689067960292",
+        "serpapi_link": "https://serpapi.com/search.json?cites=4691623794321422290%2C7841599689067960292&engine=google_scholar&hl=en",
+        "cites_id": "4691623794321422290,7841599689067960292"
+      },
+      "year": "2024"
+    },
+    {
       "title": "The Neurocomputational Becoming of Intelligence: Philosophical Challenges",
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Maj9ubYAAAAJ&citation_for_view=Maj9ubYAAAAJ:TQgYirikUcIC",
       "citation_id": "Maj9ubYAAAAJ:TQgYirikUcIC",
@@ -277,20 +291,6 @@
       "year": "2024"
     },
     {
-      "title": "Experiencia de lectura de la obra de Fernanda Melchor: análisis de las reseñas en Goodreads",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Maj9ubYAAAAJ&citation_for_view=Maj9ubYAAAAJ:j3f4tGmQtD8C",
-      "citation_id": "Maj9ubYAAAAJ:j3f4tGmQtD8C",
-      "authors": "M Reyes-Abundes, M Cebral-Loureda",
-      "publication": "Ocnos 23 (1), 2024",
-      "cited_by": {
-        "value": 2,
-        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4691623794321422290,7841599689067960292",
-        "serpapi_link": "https://serpapi.com/search.json?cites=4691623794321422290%2C7841599689067960292&engine=google_scholar&hl=en",
-        "cites_id": "4691623794321422290,7841599689067960292"
-      },
-      "year": "2024"
-    },
-    {
       "title": "Voluntad y deseo en la filosofía moderna: un acercamiento computacional",
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Maj9ubYAAAAJ&citation_for_view=Maj9ubYAAAAJ:Se3iqnhoufwC",
       "citation_id": "Maj9ubYAAAAJ:Se3iqnhoufwC",
@@ -323,8 +323,8 @@
     "table": [
       {
         "citations": {
-          "all": 194,
-          "since_2020": 191
+          "all": 195,
+          "since_2020": 192
         }
       },
       {
@@ -359,7 +359,7 @@
       },
       {
         "year": 2024,
-        "citations": 60
+        "citations": 59
       },
       {
         "year": 2025,
