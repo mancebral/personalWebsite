@@ -1,13 +1,13 @@
 {
   "search_metadata": {
-    "id": "695725692328e15293a52e8e",
+    "id": "695875722713328817236679",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/40eea877b788c6fa/695725692328e15293a52e8e.json",
-    "created_at": "2026-01-02 01:54:49 UTC",
-    "processed_at": "2026-01-02 01:54:49 UTC",
+    "json_endpoint": "https://serpapi.com/searches/40eea877b788c6fa/695875722713328817236679.json",
+    "created_at": "2026-01-03 01:48:34 UTC",
+    "processed_at": "2026-01-03 01:48:34 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=Maj9ubYAAAAJ&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/40eea877b788c6fa/695725692328e15293a52e8e.html",
-    "total_time_taken": 1.21
+    "raw_html_file": "https://serpapi.com/searches/40eea877b788c6fa/695875722713328817236679.html",
+    "total_time_taken": 0.72
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -324,7 +324,7 @@
       {
         "citations": {
           "all": 195,
-          "since_2021": 192
+          "since_2021": 185
         }
       },
       {
@@ -364,6 +364,10 @@
       {
         "year": 2025,
         "citations": 68
+      },
+      {
+        "year": 2026,
+        "citations": 3
       }
     ]
   },
@@ -482,6 +486,15 @@
       "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=oZmFEYYAAAAJ&citpid=2"
     },
     {
+      "name": "Nohemi Lugo Rodríguez",
+      "link": "https://scholar.google.com/citations?user=QdvMMgsAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=QdvMMgsAAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "QdvMMgsAAAAJ",
+      "affiliations": "Depto. de medios y cultura digital. Tecnológico de Monterrey, Campus Querétaro.",
+      "email": "Verified email at tec.mx",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=QdvMMgsAAAAJ&citpid=2"
+    },
+    {
       "name": "Alexandro Antonio Ortiz Espinoza",
       "link": "https://scholar.google.com/citations?user=jro4VpAAAAAJ&hl=en",
       "serpapi_link": "https://serpapi.com/search.json?author_id=jro4VpAAAAAJ&engine=google_scholar_author&hl=en",
@@ -525,15 +538,6 @@
       "affiliations": "University of Porto",
       "email": "Verified email at letras.up.pt",
       "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
-    },
-    {
-      "name": "Nohemi Lugo Rodríguez",
-      "link": "https://scholar.google.com/citations?user=QdvMMgsAAAAJ&hl=en",
-      "serpapi_link": "https://serpapi.com/search.json?author_id=QdvMMgsAAAAJ&engine=google_scholar_author&hl=en",
-      "author_id": "QdvMMgsAAAAJ",
-      "affiliations": "Depto. de medios y cultura digital. Tecnológico de Monterrey, Campus Querétaro.",
-      "email": "Verified email at tec.mx",
-      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=QdvMMgsAAAAJ&citpid=2"
     },
     {
       "name": "Tim Lomas",
