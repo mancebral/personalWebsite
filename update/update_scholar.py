@@ -43,42 +43,44 @@ interests = " | ".join(
 )
 
 # ---- Inicializar métricas ----
-citations_total = None
-citations_5y = None
-h_index = None
-h_index_5y = None
-i10_index = None
-i10_index_5y = None
+# ---- Inicializar métricas ----
+citations_all = None
+citations_last5y = None
+h_index_all = None
+h_index_last5y = None
+i10_index_all = None
+i10_index_last5y = None
 
 table = cited_by.get("table", [])
 
 for row in table:
-    if "citations" in row:
-        citations_total = row["citations"].get("all")
-        citations_5y = row["citations"].get("since_2020") or row["citations"].get("since_2019")
-    if "h_index" in row:
-        h_index = row["h_index"].get("all")
-        h_index_5y = row["h_index"].get("since_2020") or row["h_index"].get("since_2019")
-    if "i10_index" in row:
-        i10_index = row["i10_index"].get("all")
-        i10_index_5y = row["i10_index"].get("since_2020") or row["i10_index"].get("since_2019")
+    if row.get("name") == "Citations":
+        citations_all = row.get("all")
+        citations_last5y = row.get("since_2019")
+
+    elif row.get("name") == "h-index":
+        h_index_all = row.get("all")
+        h_index_last5y = row.get("since_2019")
+
+    elif row.get("name") == "i10-index":
+        i10_index_all = row.get("all")
+        i10_index_last5y = row.get("since_2019")
 
 # ---- Crear dataframe del perfil ----
 df_profile = pd.DataFrame([{
     "name": author.get("name", ""),
     "affiliation": author.get("affiliations", ""),
     "interests": interests,
-    "citations_total": citations_total,
-    "citations_5y": citations_5y,
-    "h_index": h_index,
-    "h_index_5y": h_index_5y,
-    "i10_index": i10_index,
-    "i10_index_5y": i10_index_5y
+    "citations_all": citations_all,
+    "citations_last5y": citations_last5y,
+    "h_index_all": h_index_all,
+    "h_index_last5y": h_index_last5y,
+    "i10_index_all": i10_index_all,
+    "i10_index_last5y": i10_index_last5y
 }])
 
 df_profile.to_csv("scholar_profile.csv", index=False)
 print("Perfil guardado → scholar_profile.csv")
-
 
 #########################################################
 # 3. DESCARGAR TODAS LAS PUBLICACIONES (PAGINACIÓN)
