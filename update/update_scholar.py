@@ -53,18 +53,35 @@ i10_index_last5y = None
 
 table = cited_by.get("table", [])
 
+def get_since_value(d):
+    if not isinstance(d, dict):
+        return None
+    for k, v in d.items():
+        if k.startswith("since_"):
+            return v
+    return None
+
+citations_all = None
+citations_last5y = None
+h_index_all = None
+h_index_last5y = None
+i10_index_all = None
+i10_index_last5y = None
+
+table = cited_by.get("table", [])
+
 for row in table:
-    if row.get("name") == "Citations":
-        citations_all = row.get("all")
-        citations_last5y = row.get("since_2019")
+    if "citations" in row:
+        citations_all = row["citations"].get("all")
+        citations_last5y = get_since_value(row["citations"])
 
-    elif row.get("name") == "h-index":
-        h_index_all = row.get("all")
-        h_index_last5y = row.get("since_2019")
+    elif "h_index" in row:
+        h_index_all = row["h_index"].get("all")
+        h_index_last5y = get_since_value(row["h_index"])
 
-    elif row.get("name") == "i10-index":
-        i10_index_all = row.get("all")
-        i10_index_last5y = row.get("since_2019")
+    elif "i10_index" in row:
+        i10_index_all = row["i10_index"].get("all")
+        i10_index_last5y = get_since_value(row["i10_index"])
 
 # ---- Crear dataframe del perfil ----
 df_profile = pd.DataFrame([{
