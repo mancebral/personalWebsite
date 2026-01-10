@@ -1,13 +1,13 @@
 {
   "search_metadata": {
-    "id": "69606037e171b98465db00c9",
+    "id": "6961b0aaac1765401b515c09",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/40eea877b788c6fa/69606037e171b98465db00c9.json",
-    "created_at": "2026-01-09 01:56:07 UTC",
-    "processed_at": "2026-01-09 01:56:07 UTC",
+    "json_endpoint": "https://serpapi.com/searches/40eea877b788c6fa/6961b0aaac1765401b515c09.json",
+    "created_at": "2026-01-10 01:51:38 UTC",
+    "processed_at": "2026-01-10 01:51:38 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=Maj9ubYAAAAJ&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/40eea877b788c6fa/69606037e171b98465db00c9.html",
-    "total_time_taken": 1.33
+    "raw_html_file": "https://serpapi.com/searches/40eea877b788c6fa/6961b0aaac1765401b515c09.html",
+    "total_time_taken": 0.96
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -144,7 +144,7 @@
       "authors": "LF Morán-Mirabal, J Alvarado-Uribe, HG Ceballos, M Cebral-Loureda, ...",
       "publication": "What AI Can Do? Strengths and Limitations of Artificial Intelligence 1, 155176, 2023",
       "cited_by": {
-        "value": 6,
+        "value": 7,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14295190316653421920",
         "serpapi_link": "https://serpapi.com/search.json?cites=14295190316653421920&engine=google_scholar&hl=en",
         "cites_id": "14295190316653421920"
@@ -323,8 +323,8 @@
     "table": [
       {
         "citations": {
-          "all": 197,
-          "since_2021": 187
+          "all": 198,
+          "since_2021": 188
         }
       },
       {
@@ -359,11 +359,11 @@
       },
       {
         "year": 2024,
-        "citations": 59
+        "citations": 60
       },
       {
         "year": 2025,
-        "citations": 68
+        "citations": 69
       },
       {
         "year": 2026,
@@ -377,6 +377,15 @@
     "not_available": 0
   },
   "co_authors": [
+    {
+      "name": "Mauricio Adolfo Ramírez Moreno",
+      "link": "https://scholar.google.com/citations?user=zWotbKAAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=zWotbKAAAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "zWotbKAAAAAJ",
+      "affiliations": "Instituto Tecnológico y de Estudios Superiores de Monterrey",
+      "email": "Verified email at tec.mx",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=zWotbKAAAAAJ&citpid=3"
+    },
     {
       "name": "Alberto Hernández Baqueiro",
       "link": "https://scholar.google.com/citations?user=wxWzaBIAAAAJ&hl=en",
@@ -394,15 +403,6 @@
       "affiliations": "EGADE Business School, Tecnológico de Monterrey",
       "email": "Verified email at tec.mx",
       "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=GkFlDxkAAAAJ&citpid=1"
-    },
-    {
-      "name": "Mauricio Adolfo Ramírez Moreno",
-      "link": "https://scholar.google.com/citations?user=zWotbKAAAAAJ&hl=en",
-      "serpapi_link": "https://serpapi.com/search.json?author_id=zWotbKAAAAAJ&engine=google_scholar_author&hl=en",
-      "author_id": "zWotbKAAAAAJ",
-      "affiliations": "Instituto Tecnológico y de Estudios Superiores de Monterrey",
-      "email": "Verified email at tec.mx",
-      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=zWotbKAAAAAJ&citpid=3"
     },
     {
       "name": "Gabriela Sued",
@@ -477,6 +477,15 @@
       "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=DO9J0SQAAAAJ&citpid=5"
     },
     {
+      "name": "Alexandro Antonio Ortiz Espinoza",
+      "link": "https://scholar.google.com/citations?user=jro4VpAAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=jro4VpAAAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "jro4VpAAAAAJ",
+      "affiliations": "Tecnologico de Monterrey",
+      "email": "Verified email at tec.mx",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=jro4VpAAAAAJ&citpid=1"
+    },
+    {
       "name": "Davis Velarde-Camaqui (0000-0001-9...",
       "link": "https://scholar.google.com/citations?user=oZmFEYYAAAAJ&hl=en",
       "serpapi_link": "https://serpapi.com/search.json?author_id=oZmFEYYAAAAJ&engine=google_scholar_author&hl=en",
@@ -484,15 +493,6 @@
       "affiliations": "Tecnológico de Monterrey",
       "email": "Verified email at tec.mx",
       "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=oZmFEYYAAAAJ&citpid=2"
-    },
-    {
-      "name": "Nohemi Lugo Rodríguez",
-      "link": "https://scholar.google.com/citations?user=QdvMMgsAAAAJ&hl=en",
-      "serpapi_link": "https://serpapi.com/search.json?author_id=QdvMMgsAAAAJ&engine=google_scholar_author&hl=en",
-      "author_id": "QdvMMgsAAAAJ",
-      "affiliations": "Depto. de medios y cultura digital. Tecnológico de Monterrey, Campus Querétaro.",
-      "email": "Verified email at tec.mx",
-      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=QdvMMgsAAAAJ&citpid=2"
     },
     {
       "name": "Luis F. Morán-Mirabal",
@@ -522,13 +522,13 @@
       "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=ok9bB_kAAAAJ&citpid=1"
     },
     {
-      "name": "Alexandro Antonio Ortiz Espinoza",
-      "link": "https://scholar.google.com/citations?user=jro4VpAAAAAJ&hl=en",
-      "serpapi_link": "https://serpapi.com/search.json?author_id=jro4VpAAAAAJ&engine=google_scholar_author&hl=en",
-      "author_id": "jro4VpAAAAAJ",
-      "affiliations": "Tecnologico de Monterrey",
+      "name": "Nohemi Lugo Rodríguez",
+      "link": "https://scholar.google.com/citations?user=QdvMMgsAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=QdvMMgsAAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "QdvMMgsAAAAJ",
+      "affiliations": "Depto. de medios y cultura digital. Tecnológico de Monterrey, Campus Querétaro.",
       "email": "Verified email at tec.mx",
-      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=jro4VpAAAAAJ&citpid=1"
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=QdvMMgsAAAAJ&citpid=2"
     },
     {
       "name": "Steven S. Gouveia",
