@@ -1,13 +1,13 @@
 {
   "search_metadata": {
-    "id": "696d9067d10c6abfd43f1394",
+    "id": "696ee0ba32f11df721f8acdf",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/40eea877b788c6fa/696d9067d10c6abfd43f1394.json",
-    "created_at": "2026-01-19 02:01:11 UTC",
-    "processed_at": "2026-01-19 02:01:11 UTC",
+    "json_endpoint": "https://serpapi.com/searches/40eea877b788c6fa/696ee0ba32f11df721f8acdf.json",
+    "created_at": "2026-01-20 01:56:10 UTC",
+    "processed_at": "2026-01-20 01:56:10 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=Maj9ubYAAAAJ&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/40eea877b788c6fa/696d9067d10c6abfd43f1394.html",
-    "total_time_taken": 1.14
+    "raw_html_file": "https://serpapi.com/searches/40eea877b788c6fa/696ee0ba32f11df721f8acdf.html",
+    "total_time_taken": 1.2
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -277,6 +277,20 @@
       "year": "2018"
     },
     {
+      "title": "Tracing the scope of fear in corpus: similarities and differences in cross-domain/genre texts",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Maj9ubYAAAAJ&citation_for_view=Maj9ubYAAAAJ:O3NaXMp0MMsC",
+      "citation_id": "Maj9ubYAAAAJ:O3NaXMp0MMsC",
+      "authors": "I Rodríguez Sánchez, A Reyes Pérez, M Cebral Loureda, ...",
+      "publication": "Cogent Arts & Humanities 11 (1), 2416732, 2024",
+      "cited_by": {
+        "value": 2,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=729596600796872861",
+        "serpapi_link": "https://serpapi.com/search.json?cites=729596600796872861&engine=google_scholar&hl=en",
+        "cites_id": "729596600796872861"
+      },
+      "year": "2024"
+    },
+    {
       "title": "EEG and Physiological Signals Dataset from Participants during Traditional and Partially Immersive Learning Experiences in Humanities",
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Maj9ubYAAAAJ&citation_for_view=Maj9ubYAAAAJ:M3NEmzRMIkIC",
       "citation_id": "Maj9ubYAAAAJ:M3NEmzRMIkIC",
@@ -303,28 +317,14 @@
         "cites_id": "13266787261873827428"
       },
       "year": "2020"
-    },
-    {
-      "title": "El teatro y la realidad virtual como metodología experimental para las Humanidades",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Maj9ubYAAAAJ&citation_for_view=Maj9ubYAAAAJ:_FxGoFyzp5QC",
-      "citation_id": "Maj9ubYAAAAJ:_FxGoFyzp5QC",
-      "authors": "M Cebral Loureda",
-      "publication": "AusArt 8 (1), 169-181, 2020",
-      "cited_by": {
-        "value": 2,
-        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12293747473103646232",
-        "serpapi_link": "https://serpapi.com/search.json?cites=12293747473103646232&engine=google_scholar&hl=en",
-        "cites_id": "12293747473103646232"
-      },
-      "year": "2020"
     }
   ],
   "cited_by": {
     "table": [
       {
         "citations": {
-          "all": 198,
-          "since_2021": 188
+          "all": 199,
+          "since_2021": 189
         }
       },
       {
@@ -363,7 +363,7 @@
       },
       {
         "year": 2025,
-        "citations": 68
+        "citations": 69
       },
       {
         "year": 2026,
@@ -486,6 +486,15 @@
       "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=jro4VpAAAAAJ&citpid=1"
     },
     {
+      "name": "Nohemi Lugo Rodríguez",
+      "link": "https://scholar.google.com/citations?user=QdvMMgsAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=QdvMMgsAAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "QdvMMgsAAAAJ",
+      "affiliations": "Depto. de medios y cultura digital. Tecnológico de Monterrey, Campus Querétaro.",
+      "email": "Verified email at tec.mx",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=QdvMMgsAAAAJ&citpid=2"
+    },
+    {
       "name": "Davis Velarde-Camaqui (0000-0001-9...",
       "link": "https://scholar.google.com/citations?user=oZmFEYYAAAAJ&hl=en",
       "serpapi_link": "https://serpapi.com/search.json?author_id=oZmFEYYAAAAJ&engine=google_scholar_author&hl=en",
@@ -520,15 +529,6 @@
       "affiliations": "Tecnologico de Monterrey",
       "email": "Verified email at tec.mx",
       "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=ok9bB_kAAAAJ&citpid=1"
-    },
-    {
-      "name": "Nohemi Lugo Rodríguez",
-      "link": "https://scholar.google.com/citations?user=QdvMMgsAAAAJ&hl=en",
-      "serpapi_link": "https://serpapi.com/search.json?author_id=QdvMMgsAAAAJ&engine=google_scholar_author&hl=en",
-      "author_id": "QdvMMgsAAAAJ",
-      "affiliations": "Depto. de medios y cultura digital. Tecnológico de Monterrey, Campus Querétaro.",
-      "email": "Verified email at tec.mx",
-      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=QdvMMgsAAAAJ&citpid=2"
     },
     {
       "name": "Steven S. Gouveia",
