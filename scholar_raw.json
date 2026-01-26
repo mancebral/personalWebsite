@@ -1,13 +1,13 @@
 {
   "search_metadata": {
-    "id": "69757aa2f05275a73d94b972",
+    "id": "6976cbf36c328368d079edec",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/40eea877b788c6fa/69757aa2f05275a73d94b972.json",
-    "created_at": "2026-01-25 02:06:26 UTC",
-    "processed_at": "2026-01-25 02:06:26 UTC",
+    "json_endpoint": "https://serpapi.com/searches/40eea877b788c6fa/6976cbf36c328368d079edec.json",
+    "created_at": "2026-01-26 02:05:39 UTC",
+    "processed_at": "2026-01-26 02:05:39 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=Maj9ubYAAAAJ&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/40eea877b788c6fa/69757aa2f05275a73d94b972.html",
-    "total_time_taken": 0.62
+    "raw_html_file": "https://serpapi.com/searches/40eea877b788c6fa/6976cbf36c328368d079edec.html",
+    "total_time_taken": 1.06
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -74,7 +74,7 @@
       "authors": "M Cebral-Loureda, GE Sued-Palmeiro",
       "publication": "Cuadernos Info, 1-25, 2021",
       "cited_by": {
-        "value": 23,
+        "value": 24,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11946846245364550045,15297450294857476403,2150780772861662179",
         "serpapi_link": "https://serpapi.com/search.json?cites=11946846245364550045%2C15297450294857476403%2C2150780772861662179&engine=google_scholar&hl=en",
         "cites_id": "11946846245364550045,15297450294857476403,2150780772861662179"
@@ -264,20 +264,6 @@
       "year": "2023"
     },
     {
-      "title": "El teatro y la realidad virtual como metodología experimental para las Humanidades",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Maj9ubYAAAAJ&citation_for_view=Maj9ubYAAAAJ:_FxGoFyzp5QC",
-      "citation_id": "Maj9ubYAAAAJ:_FxGoFyzp5QC",
-      "authors": "M Cebral Loureda",
-      "publication": "AusArt 8 (1), 169-181, 2020",
-      "cited_by": {
-        "value": 3,
-        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12293747473103646232",
-        "serpapi_link": "https://serpapi.com/search.json?cites=12293747473103646232&engine=google_scholar&hl=en",
-        "cites_id": "12293747473103646232"
-      },
-      "year": "2020"
-    },
-    {
       "title": "herm3TIC-tv: Prototype of a human and social sciences laboratory based on Deleuze-Guattari philosophy and the application of the new ICT",
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Maj9ubYAAAAJ&citation_for_view=Maj9ubYAAAAJ:u5HHmVD_uO8C",
       "citation_id": "Maj9ubYAAAAJ:u5HHmVD_uO8C",
@@ -317,6 +303,20 @@
         "cites_id": "15394891192433424838"
       },
       "year": "2024"
+    },
+    {
+      "title": "Voluntad y deseo en la filosofía moderna: un acercamiento computacional",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Maj9ubYAAAAJ&citation_for_view=Maj9ubYAAAAJ:Se3iqnhoufwC",
+      "citation_id": "Maj9ubYAAAAJ:Se3iqnhoufwC",
+      "authors": "M Cebral Loureda",
+      "publication": "Revista de Humanidades Digitales 5, 42-65, 2020",
+      "cited_by": {
+        "value": 2,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13266787261873827428",
+        "serpapi_link": "https://serpapi.com/search.json?cites=13266787261873827428&engine=google_scholar&hl=en",
+        "cites_id": "13266787261873827428"
+      },
+      "year": "2020"
     }
   ],
   "cited_by": {
@@ -359,7 +359,7 @@
       },
       {
         "year": 2024,
-        "citations": 61
+        "citations": 60
       },
       {
         "year": 2025,
