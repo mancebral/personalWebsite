@@ -1,13 +1,13 @@
 {
   "search_metadata": {
-    "id": "69781cb69d26cf9709cd1e6b",
+    "id": "69796d38998aad8a1ca7380e",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/40eea877b788c6fa/69781cb69d26cf9709cd1e6b.json",
-    "created_at": "2026-01-27 02:02:30 UTC",
-    "processed_at": "2026-01-27 02:02:30 UTC",
+    "json_endpoint": "https://serpapi.com/searches/40eea877b788c6fa/69796d38998aad8a1ca7380e.json",
+    "created_at": "2026-01-28 01:58:16 UTC",
+    "processed_at": "2026-01-28 01:58:16 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=Maj9ubYAAAAJ&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/40eea877b788c6fa/69781cb69d26cf9709cd1e6b.html",
-    "total_time_taken": 0.71
+    "raw_html_file": "https://serpapi.com/searches/40eea877b788c6fa/69796d38998aad8a1ca7380e.html",
+    "total_time_taken": 0.76
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -180,6 +180,20 @@
       "year": "2023"
     },
     {
+      "title": "Is Big Data the new capture machine? Correlations between Data Mining and Gilles Deleuze philosophy",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Maj9ubYAAAAJ&citation_for_view=Maj9ubYAAAAJ:2osOgNQ5qMEC",
+      "citation_id": "Maj9ubYAAAAJ:2osOgNQ5qMEC",
+      "authors": "M Cebral Loureda",
+      "publication": "Automata’s Inner Movie: Science and Philosophy of Mind, 2019",
+      "cited_by": {
+        "value": 5,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4407083887060741627,5452592859252075650",
+        "serpapi_link": "https://serpapi.com/search.json?cites=4407083887060741627%2C5452592859252075650&engine=google_scholar&hl=en",
+        "cites_id": "4407083887060741627,5452592859252075650"
+      },
+      "year": "2019"
+    },
+    {
       "title": "Neural deep learning models for learning analytics in a digital humanities laboratory",
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Maj9ubYAAAAJ&citation_for_view=Maj9ubYAAAAJ:L8Ckcad2t8MC",
       "citation_id": "Maj9ubYAAAAJ:L8Ckcad2t8MC",
@@ -192,20 +206,6 @@
         "cites_id": "12298152046619411721"
       },
       "year": "2021"
-    },
-    {
-      "title": "Is Big Data the new capture machine? Correlations between Data Mining and Gilles Deleuze philosophy",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Maj9ubYAAAAJ&citation_for_view=Maj9ubYAAAAJ:2osOgNQ5qMEC",
-      "citation_id": "Maj9ubYAAAAJ:2osOgNQ5qMEC",
-      "authors": "M Cebral Loureda",
-      "publication": "Automata’s Inner Movie: Science and Philosophy of Mind, 2019",
-      "cited_by": {
-        "value": 4,
-        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4407083887060741627,5452592859252075650",
-        "serpapi_link": "https://serpapi.com/search.json?cites=4407083887060741627%2C5452592859252075650&engine=google_scholar&hl=en",
-        "cites_id": "4407083887060741627,5452592859252075650"
-      },
-      "year": "2019"
     },
     {
       "title": "La revolución cibernética desde la filosofía de Gilles Deleuze: una revisión crítica de las herramientas de minería de datos y Big Data",
@@ -323,8 +323,8 @@
     "table": [
       {
         "citations": {
-          "all": 200,
-          "since_2021": 190
+          "all": 201,
+          "since_2021": 191
         }
       },
       {
@@ -359,7 +359,7 @@
       },
       {
         "year": 2024,
-        "citations": 61
+        "citations": 62
       },
       {
         "year": 2025,
