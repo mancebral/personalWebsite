@@ -1,13 +1,13 @@
 {
   "search_metadata": {
-    "id": "697ac20fb13aa78cd5252ba0",
+    "id": "697c13a909a51aa71935c883",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/40eea877b788c6fa/697ac20fb13aa78cd5252ba0.json",
-    "created_at": "2026-01-29 02:12:31 UTC",
-    "processed_at": "2026-01-29 02:12:31 UTC",
+    "json_endpoint": "https://serpapi.com/searches/40eea877b788c6fa/697c13a909a51aa71935c883.json",
+    "created_at": "2026-01-30 02:12:57 UTC",
+    "processed_at": "2026-01-30 02:12:57 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=Maj9ubYAAAAJ&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/40eea877b788c6fa/697ac20fb13aa78cd5252ba0.html",
-    "total_time_taken": 0.66
+    "raw_html_file": "https://serpapi.com/searches/40eea877b788c6fa/697c13a909a51aa71935c883.html",
+    "total_time_taken": 1.24
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -74,7 +74,7 @@
       "authors": "M Cebral-Loureda, GE Sued-Palmeiro",
       "publication": "Cuadernos Info, 1-25, 2021",
       "cited_by": {
-        "value": 25,
+        "value": 26,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11946846245364550045,15297450294857476403,2150780772861662179",
         "serpapi_link": "https://serpapi.com/search.json?cites=11946846245364550045%2C15297450294857476403%2C2150780772861662179&engine=google_scholar&hl=en",
         "cites_id": "11946846245364550045,15297450294857476403,2150780772861662179"
@@ -323,8 +323,8 @@
     "table": [
       {
         "citations": {
-          "all": 201,
-          "since_2021": 191
+          "all": 202,
+          "since_2021": 192
         }
       },
       {
