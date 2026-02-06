@@ -1,13 +1,13 @@
 {
   "search_metadata": {
-    "id": "6983feea48c791cafadce1b4",
+    "id": "69855073d868dd45ad335a9a",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/Vqd_RVN1-BuKwMq5dfdUVQ/6983feea48c791cafadce1b4.json",
-    "created_at": "2026-02-05 02:22:34 UTC",
-    "processed_at": "2026-02-05 02:22:34 UTC",
+    "json_endpoint": "https://serpapi.com/searches/Vqd_RVN1-BuKwMq5dfdUVQ/69855073d868dd45ad335a9a.json",
+    "created_at": "2026-02-06 02:22:43 UTC",
+    "processed_at": "2026-02-06 02:22:43 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=Maj9ubYAAAAJ&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/Vqd_RVN1-BuKwMq5dfdUVQ/6983feea48c791cafadce1b4.html",
-    "total_time_taken": 1.06
+    "raw_html_file": "https://serpapi.com/searches/Vqd_RVN1-BuKwMq5dfdUVQ/69855073d868dd45ad335a9a.html",
+    "total_time_taken": 1.67
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -74,7 +74,7 @@
       "authors": "M Cebral-Loureda, GE Sued-Palmeiro",
       "publication": "Cuadernos Info, 1-25, 2021",
       "cited_by": {
-        "value": 26,
+        "value": 27,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11946846245364550045,15297450294857476403,2150780772861662179",
         "serpapi_link": "https://serpapi.com/search.json?cites=11946846245364550045%2C15297450294857476403%2C2150780772861662179&engine=google_scholar&hl=en",
         "cites_id": "11946846245364550045,15297450294857476403,2150780772861662179"
@@ -323,8 +323,8 @@
     "table": [
       {
         "citations": {
-          "all": 202,
-          "since_2021": 192
+          "all": 203,
+          "since_2021": 193
         }
       },
       {
@@ -351,7 +351,7 @@
       },
       {
         "year": 2022,
-        "citations": 14
+        "citations": 15
       },
       {
         "year": 2023,
@@ -378,15 +378,6 @@
   },
   "co_authors": [
     {
-      "name": "Mauricio Adolfo Ramírez Moreno",
-      "link": "https://scholar.google.com/citations?user=zWotbKAAAAAJ&hl=en",
-      "serpapi_link": "https://serpapi.com/search.json?author_id=zWotbKAAAAAJ&engine=google_scholar_author&hl=en",
-      "author_id": "zWotbKAAAAAJ",
-      "affiliations": "Instituto Tecnológico y de Estudios Superiores de Monterrey",
-      "email": "Verified email at tec.mx",
-      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=zWotbKAAAAAJ&citpid=3"
-    },
-    {
       "name": "Alberto Hernández Baqueiro",
       "link": "https://scholar.google.com/citations?user=wxWzaBIAAAAJ&hl=en",
       "serpapi_link": "https://serpapi.com/search.json?author_id=wxWzaBIAAAAJ&engine=google_scholar_author&hl=en",
@@ -394,6 +385,15 @@
       "affiliations": "Tecnológico de Monterrey",
       "email": "Verified email at tec.mx",
       "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+    },
+    {
+      "name": "Mauricio Adolfo Ramírez Moreno",
+      "link": "https://scholar.google.com/citations?user=zWotbKAAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=zWotbKAAAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "zWotbKAAAAAJ",
+      "affiliations": "Instituto Tecnológico y de Estudios Superiores de Monterrey",
+      "email": "Verified email at tec.mx",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=zWotbKAAAAAJ&citpid=3"
     },
     {
       "name": "Enrique Tamés-Muñoz",
