@@ -1,13 +1,13 @@
 {
   "search_metadata": {
-    "id": "6987f8a4532a17d2c9b706d4",
+    "id": "698946c16adf2724e18f97be",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/Vqd_RVN1-BuKwMq5dfdUVQ/6987f8a4532a17d2c9b706d4.json",
-    "created_at": "2026-02-08 02:44:52 UTC",
-    "processed_at": "2026-02-08 02:44:52 UTC",
+    "json_endpoint": "https://serpapi.com/searches/Vqd_RVN1-BuKwMq5dfdUVQ/698946c16adf2724e18f97be.json",
+    "created_at": "2026-02-09 02:30:25 UTC",
+    "processed_at": "2026-02-09 02:30:25 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=Maj9ubYAAAAJ&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/Vqd_RVN1-BuKwMq5dfdUVQ/6987f8a4532a17d2c9b706d4.html",
-    "total_time_taken": 2.04
+    "raw_html_file": "https://serpapi.com/searches/Vqd_RVN1-BuKwMq5dfdUVQ/698946c16adf2724e18f97be.html",
+    "total_time_taken": 1.53
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -194,6 +194,20 @@
       "year": "2019"
     },
     {
+      "title": "The Neurocomputational Becoming of Intelligence: Philosophical Challenges",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Maj9ubYAAAAJ&citation_for_view=Maj9ubYAAAAJ:TQgYirikUcIC",
+      "citation_id": "Maj9ubYAAAAJ:TQgYirikUcIC",
+      "authors": "M Cebral-Loureda",
+      "publication": "What AI Can Do, 93-111, 2023",
+      "cited_by": {
+        "value": 4,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1433830926052291171",
+        "serpapi_link": "https://serpapi.com/search.json?cites=1433830926052291171&engine=google_scholar&hl=en",
+        "cites_id": "1433830926052291171"
+      },
+      "year": "2023"
+    },
+    {
       "title": "Neural deep learning models for learning analytics in a digital humanities laboratory",
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Maj9ubYAAAAJ&citation_for_view=Maj9ubYAAAAJ:L8Ckcad2t8MC",
       "citation_id": "Maj9ubYAAAAJ:L8Ckcad2t8MC",
@@ -234,20 +248,6 @@
         "cites_id": "4691623794321422290,7841599689067960292"
       },
       "year": "2024"
-    },
-    {
-      "title": "The Neurocomputational Becoming of Intelligence: Philosophical Challenges",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Maj9ubYAAAAJ&citation_for_view=Maj9ubYAAAAJ:TQgYirikUcIC",
-      "citation_id": "Maj9ubYAAAAJ:TQgYirikUcIC",
-      "authors": "M Cebral-Loureda",
-      "publication": "What AI Can Do, 93-111, 2023",
-      "cited_by": {
-        "value": 3,
-        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1433830926052291171",
-        "serpapi_link": "https://serpapi.com/search.json?cites=1433830926052291171&engine=google_scholar&hl=en",
-        "cites_id": "1433830926052291171"
-      },
-      "year": "2023"
     },
     {
       "title": "herm3TIC-tv: Prototype of a human and social sciences laboratory based on Deleuze-Guattari philosophy and the application of the new ICT",
@@ -323,8 +323,8 @@
     "table": [
       {
         "citations": {
-          "all": 202,
-          "since_2021": 193
+          "all": 203,
+          "since_2021": 194
         }
       },
       {
@@ -363,7 +363,7 @@
       },
       {
         "year": 2026,
-        "citations": 8
+        "citations": 9
       }
     ]
   },
