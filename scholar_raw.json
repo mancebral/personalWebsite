@@ -1,13 +1,13 @@
 {
   "search_metadata": {
-    "id": "6996750701289b2934557064",
+    "id": "6997c59471b492cda3c920cf",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/Vqd_RVN1-BuKwMq5dfdUVQ/6996750701289b2934557064.json",
-    "created_at": "2026-02-19 02:27:19 UTC",
-    "processed_at": "2026-02-19 02:27:19 UTC",
+    "json_endpoint": "https://serpapi.com/searches/Vqd_RVN1-BuKwMq5dfdUVQ/6997c59471b492cda3c920cf.json",
+    "created_at": "2026-02-20 02:23:16 UTC",
+    "processed_at": "2026-02-20 02:23:16 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=Maj9ubYAAAAJ&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/Vqd_RVN1-BuKwMq5dfdUVQ/6996750701289b2934557064.html",
-    "total_time_taken": 3.24
+    "raw_html_file": "https://serpapi.com/searches/Vqd_RVN1-BuKwMq5dfdUVQ/6997c59471b492cda3c920cf.html",
+    "total_time_taken": 1.61
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -158,7 +158,7 @@
       "authors": "M Cebral-Loureda, EG Rincón-Flores, G Sanchez-Ante",
       "publication": "CRC Press, 2023",
       "cited_by": {
-        "value": 6,
+        "value": 7,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10629725694270304271,3427792621633079136",
         "serpapi_link": "https://serpapi.com/search.json?cites=10629725694270304271%2C3427792621633079136&engine=google_scholar&hl=en",
         "cites_id": "10629725694270304271,3427792621633079136"
@@ -323,8 +323,8 @@
     "table": [
       {
         "citations": {
-          "all": 209,
-          "since_2021": 199
+          "all": 210,
+          "since_2021": 200
         }
       },
       {
@@ -367,7 +367,7 @@
       },
       {
         "year": 2026,
-        "citations": 10
+        "citations": 11
       }
     ]
   },
@@ -441,15 +441,6 @@
       "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=7L5zSesAAAAJ&citpid=4"
     },
     {
-      "name": "Miguel Alejandro Blanco Rios",
-      "link": "https://scholar.google.com/citations?user=euPS2jYAAAAJ&hl=en",
-      "serpapi_link": "https://serpapi.com/search.json?author_id=euPS2jYAAAAJ&engine=google_scholar_author&hl=en",
-      "author_id": "euPS2jYAAAAJ",
-      "affiliations": "Data Analyst, Research Assistant",
-      "email": "Verified email at christuscei.mx",
-      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=euPS2jYAAAAJ&citpid=1"
-    },
-    {
       "name": "Dra. Elvira G. RINCON-FLORES",
       "link": "https://scholar.google.com/citations?user=4ET-eMcAAAAJ&hl=en",
       "serpapi_link": "https://serpapi.com/search.json?author_id=4ET-eMcAAAAJ&engine=google_scholar_author&hl=en",
@@ -466,6 +457,15 @@
       "affiliations": "Professor of Computer Science, Tecnologico de Monterrey",
       "email": "Verified email at tec.mx",
       "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=Szx4GcIAAAAJ&citpid=4"
+    },
+    {
+      "name": "Miguel Alejandro Blanco Rios",
+      "link": "https://scholar.google.com/citations?user=euPS2jYAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=euPS2jYAAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "euPS2jYAAAAJ",
+      "affiliations": "Data Analyst, Research Assistant",
+      "email": "Verified email at christuscei.mx",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=euPS2jYAAAAJ&citpid=1"
     },
     {
       "name": "Mariana Reyes Abundes",
