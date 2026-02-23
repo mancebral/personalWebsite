@@ -1,13 +1,13 @@
 {
   "search_metadata": {
-    "id": "699a69a3f73e4db59355678a",
+    "id": "699bbb4ed02d2abee34eaaeb",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/Vqd_RVN1-BuKwMq5dfdUVQ/699a69a3f73e4db59355678a.json",
-    "created_at": "2026-02-22 02:27:47 UTC",
-    "processed_at": "2026-02-22 02:27:47 UTC",
+    "json_endpoint": "https://serpapi.com/searches/Vqd_RVN1-BuKwMq5dfdUVQ/699bbb4ed02d2abee34eaaeb.json",
+    "created_at": "2026-02-23 02:28:30 UTC",
+    "processed_at": "2026-02-23 02:28:30 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=Maj9ubYAAAAJ&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/Vqd_RVN1-BuKwMq5dfdUVQ/699a69a3f73e4db59355678a.html",
-    "total_time_taken": 1.11
+    "raw_html_file": "https://serpapi.com/searches/Vqd_RVN1-BuKwMq5dfdUVQ/699bbb4ed02d2abee34eaaeb.html",
+    "total_time_taken": 1.73
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -194,6 +194,20 @@
       "year": "2019"
     },
     {
+      "title": "EEG and Physiological Signals Dataset from Participants during Traditional and Partially Immersive Learning Experiences in Humanities",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Maj9ubYAAAAJ&citation_for_view=Maj9ubYAAAAJ:M3NEmzRMIkIC",
+      "citation_id": "Maj9ubYAAAAJ:M3NEmzRMIkIC",
+      "authors": "R Romo-De León, MLL Cham-Pérez, VA Elizondo-Villegas, ...",
+      "publication": "Data 9 (5), 68, 2024",
+      "cited_by": {
+        "value": 4,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15394891192433424838",
+        "serpapi_link": "https://serpapi.com/search.json?cites=15394891192433424838&engine=google_scholar&hl=en",
+        "cites_id": "15394891192433424838"
+      },
+      "year": "2024"
+    },
+    {
       "title": "The Neurocomputational Becoming of Intelligence: Philosophical Challenges",
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Maj9ubYAAAAJ&citation_for_view=Maj9ubYAAAAJ:TQgYirikUcIC",
       "citation_id": "Maj9ubYAAAAJ:TQgYirikUcIC",
@@ -246,20 +260,6 @@
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17209127931677487993",
         "serpapi_link": "https://serpapi.com/search.json?cites=17209127931677487993&engine=google_scholar&hl=en",
         "cites_id": "17209127931677487993"
-      },
-      "year": "2024"
-    },
-    {
-      "title": "EEG and Physiological Signals Dataset from Participants during Traditional and Partially Immersive Learning Experiences in Humanities",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Maj9ubYAAAAJ&citation_for_view=Maj9ubYAAAAJ:M3NEmzRMIkIC",
-      "citation_id": "Maj9ubYAAAAJ:M3NEmzRMIkIC",
-      "authors": "R Romo-De León, MLL Cham-Pérez, VA Elizondo-Villegas, ...",
-      "publication": "Data 9 (5), 68, 2024",
-      "cited_by": {
-        "value": 3,
-        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15394891192433424838",
-        "serpapi_link": "https://serpapi.com/search.json?cites=15394891192433424838&engine=google_scholar&hl=en",
-        "cites_id": "15394891192433424838"
       },
       "year": "2024"
     },
@@ -323,8 +323,8 @@
     "table": [
       {
         "citations": {
-          "all": 210,
-          "since_2021": 200
+          "all": 211,
+          "since_2021": 201
         }
       },
       {
@@ -367,7 +367,7 @@
       },
       {
         "year": 2026,
-        "citations": 11
+        "citations": 12
       }
     ]
   },
