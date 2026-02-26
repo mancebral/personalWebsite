@@ -1,13 +1,13 @@
 {
   "search_metadata": {
-    "id": "699e5dc3eeabd38d29d34125",
+    "id": "699fae5a2efef80688b6f6c4",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/Vqd_RVN1-BuKwMq5dfdUVQ/699e5dc3eeabd38d29d34125.json",
-    "created_at": "2026-02-25 02:26:11 UTC",
-    "processed_at": "2026-02-25 02:26:11 UTC",
+    "json_endpoint": "https://serpapi.com/searches/Vqd_RVN1-BuKwMq5dfdUVQ/699fae5a2efef80688b6f6c4.json",
+    "created_at": "2026-02-26 02:22:18 UTC",
+    "processed_at": "2026-02-26 02:22:18 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=Maj9ubYAAAAJ&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/Vqd_RVN1-BuKwMq5dfdUVQ/699e5dc3eeabd38d29d34125.html",
-    "total_time_taken": 6.53
+    "raw_html_file": "https://serpapi.com/searches/Vqd_RVN1-BuKwMq5dfdUVQ/699fae5a2efef80688b6f6c4.html",
+    "total_time_taken": 1.04
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -172,7 +172,7 @@
       "authors": "MA Blanco-Rios, MO Candela-Leal, C Orozco-Romo, P Remis-Serna, ...",
       "publication": "arXiv preprint arXiv:2401.15743, 2024",
       "cited_by": {
-        "value": 5,
+        "value": 6,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16370505158041638748",
         "serpapi_link": "https://serpapi.com/search.json?cites=16370505158041638748&engine=google_scholar&hl=en",
         "cites_id": "16370505158041638748"
@@ -323,8 +323,8 @@
     "table": [
       {
         "citations": {
-          "all": 212,
-          "since_2021": 202
+          "all": 213,
+          "since_2021": 203
         }
       },
       {
@@ -341,10 +341,6 @@
       }
     ],
     "graph": [
-      {
-        "year": 2019,
-        "citations": 1
-      },
       {
         "year": 2021,
         "citations": 16
@@ -367,7 +363,7 @@
       },
       {
         "year": 2026,
-        "citations": 13
+        "citations": 14
       }
     ]
   },
@@ -378,15 +374,6 @@
   },
   "co_authors": [
     {
-      "name": "Alberto Hernández Baqueiro",
-      "link": "https://scholar.google.com/citations?user=wxWzaBIAAAAJ&hl=en",
-      "serpapi_link": "https://serpapi.com/search.json?author_id=wxWzaBIAAAAJ&engine=google_scholar_author&hl=en",
-      "author_id": "wxWzaBIAAAAJ",
-      "affiliations": "Tecnológico de Monterrey",
-      "email": "Verified email at tec.mx",
-      "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
-    },
-    {
       "name": "Mauricio Adolfo Ramírez Moreno",
       "link": "https://scholar.google.com/citations?user=zWotbKAAAAAJ&hl=en",
       "serpapi_link": "https://serpapi.com/search.json?author_id=zWotbKAAAAAJ&engine=google_scholar_author&hl=en",
@@ -394,6 +381,15 @@
       "affiliations": "Instituto Tecnológico y de Estudios Superiores de Monterrey",
       "email": "Verified email at tec.mx",
       "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=zWotbKAAAAAJ&citpid=3"
+    },
+    {
+      "name": "Alberto Hernández Baqueiro",
+      "link": "https://scholar.google.com/citations?user=wxWzaBIAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=wxWzaBIAAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "wxWzaBIAAAAJ",
+      "affiliations": "Tecnológico de Monterrey",
+      "email": "Verified email at tec.mx",
+      "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
     },
     {
       "name": "Enrique Tamés-Muñoz",
