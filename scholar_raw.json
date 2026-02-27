@@ -1,13 +1,13 @@
 {
   "search_metadata": {
-    "id": "699fae5a2efef80688b6f6c4",
+    "id": "69a0ffabbcd927ad377c19b1",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/Vqd_RVN1-BuKwMq5dfdUVQ/699fae5a2efef80688b6f6c4.json",
-    "created_at": "2026-02-26 02:22:18 UTC",
-    "processed_at": "2026-02-26 02:22:18 UTC",
+    "json_endpoint": "https://serpapi.com/searches/Vqd_RVN1-BuKwMq5dfdUVQ/69a0ffabbcd927ad377c19b1.json",
+    "created_at": "2026-02-27 02:21:31 UTC",
+    "processed_at": "2026-02-27 02:21:31 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=Maj9ubYAAAAJ&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/Vqd_RVN1-BuKwMq5dfdUVQ/699fae5a2efef80688b6f6c4.html",
-    "total_time_taken": 1.04
+    "raw_html_file": "https://serpapi.com/searches/Vqd_RVN1-BuKwMq5dfdUVQ/69a0ffabbcd927ad377c19b1.html",
+    "total_time_taken": 1.4
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -88,7 +88,7 @@
       "authors": "MA Blanco-Ríos, MO Candela-Leal, C Orozco-Romo, P Remis-Serna, ...",
       "publication": "Frontiers in Human Neuroscience 18, 1319574, 2024",
       "cited_by": {
-        "value": 23,
+        "value": 24,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6591095613140752943",
         "serpapi_link": "https://serpapi.com/search.json?cites=6591095613140752943&engine=google_scholar&hl=en",
         "cites_id": "6591095613140752943"
@@ -323,8 +323,8 @@
     "table": [
       {
         "citations": {
-          "all": 213,
-          "since_2021": 203
+          "all": 214,
+          "since_2021": 204
         }
       },
       {
@@ -359,7 +359,7 @@
       },
       {
         "year": 2025,
-        "citations": 71
+        "citations": 72
       },
       {
         "year": 2026,
