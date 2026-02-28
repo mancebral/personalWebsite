@@ -1,13 +1,13 @@
 {
   "search_metadata": {
-    "id": "69a0ffabbcd927ad377c19b1",
+    "id": "69a24d25dd2e164eb60b0a0a",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/Vqd_RVN1-BuKwMq5dfdUVQ/69a0ffabbcd927ad377c19b1.json",
-    "created_at": "2026-02-27 02:21:31 UTC",
-    "processed_at": "2026-02-27 02:21:31 UTC",
+    "json_endpoint": "https://serpapi.com/searches/Vqd_RVN1-BuKwMq5dfdUVQ/69a24d25dd2e164eb60b0a0a.json",
+    "created_at": "2026-02-28 02:04:21 UTC",
+    "processed_at": "2026-02-28 02:04:21 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=Maj9ubYAAAAJ&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/Vqd_RVN1-BuKwMq5dfdUVQ/69a0ffabbcd927ad377c19b1.html",
-    "total_time_taken": 1.4
+    "raw_html_file": "https://serpapi.com/searches/Vqd_RVN1-BuKwMq5dfdUVQ/69a24d25dd2e164eb60b0a0a.html",
+    "total_time_taken": 0.95
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -110,6 +110,20 @@
       "year": "2023"
     },
     {
+      "title": "A text mining analysis of human flourishing on Twitter",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Maj9ubYAAAAJ&citation_for_view=Maj9ubYAAAAJ:-f6ydRqryjwC",
+      "citation_id": "Maj9ubYAAAAJ:-f6ydRqryjwC",
+      "authors": "M Cebral-Loureda, A Hernández-Baqueiro, E Tamés-Muñoz",
+      "publication": "Scientific reports 13 (1), 3403, 2023",
+      "cited_by": {
+        "value": 11,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5866566735653012213",
+        "serpapi_link": "https://serpapi.com/search.json?cites=5866566735653012213&engine=google_scholar&hl=en",
+        "cites_id": "5866566735653012213"
+      },
+      "year": "2023"
+    },
+    {
       "title": "Augmented reality in educational innovation: a literature mapping review",
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Maj9ubYAAAAJ&citation_for_view=Maj9ubYAAAAJ:bEWYMUwI8FkC",
       "citation_id": "Maj9ubYAAAAJ:bEWYMUwI8FkC",
@@ -122,20 +136,6 @@
         "cites_id": "15999887061937531686"
       },
       "year": "2024"
-    },
-    {
-      "title": "A text mining analysis of human flourishing on Twitter",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Maj9ubYAAAAJ&citation_for_view=Maj9ubYAAAAJ:-f6ydRqryjwC",
-      "citation_id": "Maj9ubYAAAAJ:-f6ydRqryjwC",
-      "authors": "M Cebral-Loureda, A Hernández-Baqueiro, E Tamés-Muñoz",
-      "publication": "Scientific reports 13 (1), 3403, 2023",
-      "cited_by": {
-        "value": 10,
-        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5866566735653012213",
-        "serpapi_link": "https://serpapi.com/search.json?cites=5866566735653012213&engine=google_scholar&hl=en",
-        "cites_id": "5866566735653012213"
-      },
-      "year": "2023"
     },
     {
       "title": "Using AI for educational research in multimodal learning analytics",
@@ -323,8 +323,8 @@
     "table": [
       {
         "citations": {
-          "all": 214,
-          "since_2021": 204
+          "all": 215,
+          "since_2021": 205
         }
       },
       {
@@ -363,7 +363,7 @@
       },
       {
         "year": 2026,
-        "citations": 14
+        "citations": 15
       }
     ]
   },
