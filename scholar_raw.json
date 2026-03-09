@@ -1,13 +1,13 @@
 {
   "search_metadata": {
-    "id": "69acde1cf357f6965dbb530e",
+    "id": "69ae2fd4ff7aa2d2c00be7da",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/Vqd_RVN1-BuKwMq5dfdUVQ/69acde1cf357f6965dbb530e.json",
-    "created_at": "2026-03-08 02:25:32 UTC",
-    "processed_at": "2026-03-08 02:25:32 UTC",
+    "json_endpoint": "https://serpapi.com/searches/Vqd_RVN1-BuKwMq5dfdUVQ/69ae2fd4ff7aa2d2c00be7da.json",
+    "created_at": "2026-03-09 02:26:28 UTC",
+    "processed_at": "2026-03-09 02:26:28 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=Maj9ubYAAAAJ&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/Vqd_RVN1-BuKwMq5dfdUVQ/69acde1cf357f6965dbb530e.html",
-    "total_time_taken": 0.59
+    "raw_html_file": "https://serpapi.com/searches/Vqd_RVN1-BuKwMq5dfdUVQ/69ae2fd4ff7aa2d2c00be7da.html",
+    "total_time_taken": 0.7
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -138,6 +138,20 @@
       "year": "2024"
     },
     {
+      "title": "What AI Can Do: Strengths and Limitations of Artificial Intelligence",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Maj9ubYAAAAJ&citation_for_view=Maj9ubYAAAAJ:HDshCWvjkbEC",
+      "citation_id": "Maj9ubYAAAAJ:HDshCWvjkbEC",
+      "authors": "M Cebral-Loureda, EG Rincón-Flores, G Sanchez-Ante",
+      "publication": "CRC Press, 2023",
+      "cited_by": {
+        "value": 8,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10629725694270304271,3427792621633079136",
+        "serpapi_link": "https://serpapi.com/search.json?cites=10629725694270304271%2C3427792621633079136&engine=google_scholar&hl=en",
+        "cites_id": "10629725694270304271,3427792621633079136"
+      },
+      "year": "2023"
+    },
+    {
       "title": "Using AI for educational research in multimodal learning analytics",
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Maj9ubYAAAAJ&citation_for_view=Maj9ubYAAAAJ:2P1L_qKh6hAC",
       "citation_id": "Maj9ubYAAAAJ:2P1L_qKh6hAC",
@@ -148,20 +162,6 @@
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14295190316653421920",
         "serpapi_link": "https://serpapi.com/search.json?cites=14295190316653421920&engine=google_scholar&hl=en",
         "cites_id": "14295190316653421920"
-      },
-      "year": "2023"
-    },
-    {
-      "title": "What AI Can Do: Strengths and Limitations of Artificial Intelligence",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Maj9ubYAAAAJ&citation_for_view=Maj9ubYAAAAJ:HDshCWvjkbEC",
-      "citation_id": "Maj9ubYAAAAJ:HDshCWvjkbEC",
-      "authors": "M Cebral-Loureda, EG Rincón-Flores, G Sanchez-Ante",
-      "publication": "CRC Press, 2023",
-      "cited_by": {
-        "value": 7,
-        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10629725694270304271,3427792621633079136",
-        "serpapi_link": "https://serpapi.com/search.json?cites=10629725694270304271%2C3427792621633079136&engine=google_scholar&hl=en",
-        "cites_id": "10629725694270304271,3427792621633079136"
       },
       "year": "2023"
     },
@@ -323,14 +323,14 @@
     "table": [
       {
         "citations": {
-          "all": 216,
-          "since_2021": 206
+          "all": 217,
+          "since_2021": 207
         }
       },
       {
         "h_index": {
-          "all": 7,
-          "since_2021": 7
+          "all": 8,
+          "since_2021": 8
         }
       },
       {
@@ -359,7 +359,7 @@
       },
       {
         "year": 2025,
-        "citations": 73
+        "citations": 74
       },
       {
         "year": 2026,
