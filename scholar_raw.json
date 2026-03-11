@@ -1,13 +1,13 @@
 {
   "search_metadata": {
-    "id": "69af7de1e396eb8014ec52d4",
+    "id": "69b0cf3e974bbb4e98bae8cc",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/Vqd_RVN1-BuKwMq5dfdUVQ/69af7de1e396eb8014ec52d4.json",
-    "created_at": "2026-03-10 02:11:45 UTC",
-    "processed_at": "2026-03-10 02:11:45 UTC",
+    "json_endpoint": "https://serpapi.com/searches/Vqd_RVN1-BuKwMq5dfdUVQ/69b0cf3e974bbb4e98bae8cc.json",
+    "created_at": "2026-03-11 02:11:10 UTC",
+    "processed_at": "2026-03-11 02:11:10 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=Maj9ubYAAAAJ&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/Vqd_RVN1-BuKwMq5dfdUVQ/69af7de1e396eb8014ec52d4.html",
-    "total_time_taken": 0.68
+    "raw_html_file": "https://serpapi.com/searches/Vqd_RVN1-BuKwMq5dfdUVQ/69b0cf3e974bbb4e98bae8cc.html",
+    "total_time_taken": 0.73
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -46,7 +46,7 @@
       "authors": "M Cebral-Loureda, E Tamés-Muñoz, A Hernández-Baqueiro",
       "publication": "International journal of environmental research and public health 19 (5), 2586, 2022",
       "cited_by": {
-        "value": 44,
+        "value": 45,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15406956490543785490",
         "serpapi_link": "https://serpapi.com/search.json?cites=15406956490543785490&engine=google_scholar&hl=en",
         "cites_id": "15406956490543785490"
@@ -323,8 +323,8 @@
     "table": [
       {
         "citations": {
-          "all": 217,
-          "since_2021": 207
+          "all": 218,
+          "since_2021": 208
         }
       },
       {
@@ -359,7 +359,7 @@
       },
       {
         "year": 2025,
-        "citations": 74
+        "citations": 75
       },
       {
         "year": 2026,
@@ -374,15 +374,6 @@
   },
   "co_authors": [
     {
-      "name": "Mauricio Adolfo Ramírez Moreno",
-      "link": "https://scholar.google.com/citations?user=zWotbKAAAAAJ&hl=en",
-      "serpapi_link": "https://serpapi.com/search.json?author_id=zWotbKAAAAAJ&engine=google_scholar_author&hl=en",
-      "author_id": "zWotbKAAAAAJ",
-      "affiliations": "Instituto Tecnológico y de Estudios Superiores de Monterrey",
-      "email": "Verified email at tec.mx",
-      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=zWotbKAAAAAJ&citpid=3"
-    },
-    {
       "name": "Alberto Hernández Baqueiro",
       "link": "https://scholar.google.com/citations?user=wxWzaBIAAAAJ&hl=en",
       "serpapi_link": "https://serpapi.com/search.json?author_id=wxWzaBIAAAAJ&engine=google_scholar_author&hl=en",
@@ -390,6 +381,15 @@
       "affiliations": "Tecnológico de Monterrey",
       "email": "Verified email at tec.mx",
       "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+    },
+    {
+      "name": "Mauricio Adolfo Ramírez Moreno",
+      "link": "https://scholar.google.com/citations?user=zWotbKAAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=zWotbKAAAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "zWotbKAAAAAJ",
+      "affiliations": "Instituto Tecnológico y de Estudios Superiores de Monterrey",
+      "email": "Verified email at tec.mx",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=zWotbKAAAAAJ&citpid=3"
     },
     {
       "name": "Enrique Tamés-Muñoz",
