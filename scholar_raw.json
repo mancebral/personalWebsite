@@ -1,13 +1,13 @@
 {
   "search_metadata": {
-    "id": "69bf546a99d5f415258afd7d",
+    "id": "69c0a60c22abf7811b08f50a",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/Vqd_RVN1-BuKwMq5dfdUVQ/69bf546a99d5f415258afd7d.json",
-    "created_at": "2026-03-22 02:31:06 UTC",
-    "processed_at": "2026-03-22 02:31:06 UTC",
+    "json_endpoint": "https://serpapi.com/searches/Vqd_RVN1-BuKwMq5dfdUVQ/69c0a60c22abf7811b08f50a.json",
+    "created_at": "2026-03-23 02:31:40 UTC",
+    "processed_at": "2026-03-23 02:31:40 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=Maj9ubYAAAAJ&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/Vqd_RVN1-BuKwMq5dfdUVQ/69bf546a99d5f415258afd7d.html",
-    "total_time_taken": 0.59
+    "raw_html_file": "https://serpapi.com/searches/Vqd_RVN1-BuKwMq5dfdUVQ/69c0a60c22abf7811b08f50a.html",
+    "total_time_taken": 2.73
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -88,7 +88,7 @@
       "authors": "MA Blanco-Ríos, MO Candela-Leal, C Orozco-Romo, P Remis-Serna, ...",
       "publication": "Frontiers in Human Neuroscience 18, 1319574, 2024",
       "cited_by": {
-        "value": 24,
+        "value": 25,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6591095613140752943",
         "serpapi_link": "https://serpapi.com/search.json?cites=6591095613140752943&engine=google_scholar&hl=en",
         "cites_id": "6591095613140752943"
@@ -323,8 +323,8 @@
     "table": [
       {
         "citations": {
-          "all": 218,
-          "since_2021": 208
+          "all": 219,
+          "since_2021": 209
         }
       },
       {
@@ -363,7 +363,7 @@
       },
       {
         "year": 2026,
-        "citations": 15
+        "citations": 16
       }
     ]
   },
@@ -374,15 +374,6 @@
   },
   "co_authors": [
     {
-      "name": "Alberto Hernández Baqueiro",
-      "link": "https://scholar.google.com/citations?user=wxWzaBIAAAAJ&hl=en",
-      "serpapi_link": "https://serpapi.com/search.json?author_id=wxWzaBIAAAAJ&engine=google_scholar_author&hl=en",
-      "author_id": "wxWzaBIAAAAJ",
-      "affiliations": "Tecnológico de Monterrey",
-      "email": "Verified email at tec.mx",
-      "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
-    },
-    {
       "name": "Mauricio Adolfo Ramírez Moreno",
       "link": "https://scholar.google.com/citations?user=zWotbKAAAAAJ&hl=en",
       "serpapi_link": "https://serpapi.com/search.json?author_id=zWotbKAAAAAJ&engine=google_scholar_author&hl=en",
@@ -390,6 +381,15 @@
       "affiliations": "Instituto Tecnológico y de Estudios Superiores de Monterrey",
       "email": "Verified email at tec.mx",
       "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=zWotbKAAAAAJ&citpid=3"
+    },
+    {
+      "name": "Alberto Hernández Baqueiro",
+      "link": "https://scholar.google.com/citations?user=wxWzaBIAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=wxWzaBIAAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "wxWzaBIAAAAJ",
+      "affiliations": "Tecnológico de Monterrey",
+      "email": "Verified email at tec.mx",
+      "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
     },
     {
       "name": "Enrique Tamés-Muñoz",
