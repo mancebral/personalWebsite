@@ -1,13 +1,13 @@
 {
   "search_metadata": {
-    "id": "69c0a60c22abf7811b08f50a",
+    "id": "69c1f5b7f9aa7340802d2525",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/Vqd_RVN1-BuKwMq5dfdUVQ/69c0a60c22abf7811b08f50a.json",
-    "created_at": "2026-03-23 02:31:40 UTC",
-    "processed_at": "2026-03-23 02:31:40 UTC",
+    "json_endpoint": "https://serpapi.com/searches/Vqd_RVN1-BuKwMq5dfdUVQ/69c1f5b7f9aa7340802d2525.json",
+    "created_at": "2026-03-24 02:23:51 UTC",
+    "processed_at": "2026-03-24 02:23:51 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=Maj9ubYAAAAJ&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/Vqd_RVN1-BuKwMq5dfdUVQ/69c0a60c22abf7811b08f50a.html",
-    "total_time_taken": 2.73
+    "raw_html_file": "https://serpapi.com/searches/Vqd_RVN1-BuKwMq5dfdUVQ/69c1f5b7f9aa7340802d2525.html",
+    "total_time_taken": 0.69
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -68,6 +68,20 @@
       "year": "2020"
     },
     {
+      "title": "Real-time EEG-based emotion recognition for neurohumanities: perspectives from principal component analysis and tree-based algorithms",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Maj9ubYAAAAJ&citation_for_view=Maj9ubYAAAAJ:k_IJM867U9cC",
+      "citation_id": "Maj9ubYAAAAJ:k_IJM867U9cC",
+      "authors": "MA Blanco-Ríos, MO Candela-Leal, C Orozco-Romo, P Remis-Serna, ...",
+      "publication": "Frontiers in Human Neuroscience 18, 1319574, 2024",
+      "cited_by": {
+        "value": 26,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6591095613140752943",
+        "serpapi_link": "https://serpapi.com/search.json?cites=6591095613140752943&engine=google_scholar&hl=en",
+        "cites_id": "6591095613140752943"
+      },
+      "year": "2024"
+    },
+    {
       "title": "The beginnings of the COVID19 pandemic on Twitter. Computational Analysis of Public Conversation in Spanish Language",
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Maj9ubYAAAAJ&citation_for_view=Maj9ubYAAAAJ:aqlVkmm33-oC",
       "citation_id": "Maj9ubYAAAAJ:aqlVkmm33-oC",
@@ -80,20 +94,6 @@
         "cites_id": "11946846245364550045,15032141721932706624,2150780772861662179"
       },
       "year": "2021"
-    },
-    {
-      "title": "Real-time EEG-based emotion recognition for neurohumanities: perspectives from principal component analysis and tree-based algorithms",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Maj9ubYAAAAJ&citation_for_view=Maj9ubYAAAAJ:k_IJM867U9cC",
-      "citation_id": "Maj9ubYAAAAJ:k_IJM867U9cC",
-      "authors": "MA Blanco-Ríos, MO Candela-Leal, C Orozco-Romo, P Remis-Serna, ...",
-      "publication": "Frontiers in Human Neuroscience 18, 1319574, 2024",
-      "cited_by": {
-        "value": 25,
-        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6591095613140752943",
-        "serpapi_link": "https://serpapi.com/search.json?cites=6591095613140752943&engine=google_scholar&hl=en",
-        "cites_id": "6591095613140752943"
-      },
-      "year": "2024"
     },
     {
       "title": "One hundred years of neurosciences in the arts and humanities, a bibliometric review",
@@ -323,8 +323,8 @@
     "table": [
       {
         "citations": {
-          "all": 219,
-          "since_2021": 209
+          "all": 220,
+          "since_2021": 210
         }
       },
       {
@@ -363,7 +363,7 @@
       },
       {
         "year": 2026,
-        "citations": 16
+        "citations": 17
       }
     ]
   },
