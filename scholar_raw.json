@@ -1,13 +1,13 @@
 {
   "search_metadata": {
-    "id": "69defb90b2c6130aad4992b6",
+    "id": "69e04ecdee028a10fef9979e",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/Vqd_RVN1-BuKwMq5dfdUVQ/69defb90b2c6130aad4992b6.json",
-    "created_at": "2026-04-15 02:44:32 UTC",
-    "processed_at": "2026-04-15 02:44:32 UTC",
+    "json_endpoint": "https://serpapi.com/searches/Vqd_RVN1-BuKwMq5dfdUVQ/69e04ecdee028a10fef9979e.json",
+    "created_at": "2026-04-16 02:51:57 UTC",
+    "processed_at": "2026-04-16 02:51:57 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=Maj9ubYAAAAJ&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/Vqd_RVN1-BuKwMq5dfdUVQ/69defb90b2c6130aad4992b6.html",
-    "total_time_taken": 0.52
+    "raw_html_file": "https://serpapi.com/searches/Vqd_RVN1-BuKwMq5dfdUVQ/69e04ecdee028a10fef9979e.html",
+    "total_time_taken": 0.63
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -68,6 +68,20 @@
       "year": "2020"
     },
     {
+      "title": "Real-time EEG-based emotion recognition for neurohumanities: perspectives from principal component analysis and tree-based algorithms",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Maj9ubYAAAAJ&citation_for_view=Maj9ubYAAAAJ:k_IJM867U9cC",
+      "citation_id": "Maj9ubYAAAAJ:k_IJM867U9cC",
+      "authors": "MA Blanco-Ríos, MO Candela-Leal, C Orozco-Romo, P Remis-Serna, ...",
+      "publication": "Frontiers in Human Neuroscience 18, 1319574, 2024",
+      "cited_by": {
+        "value": 27,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6591095613140752943",
+        "serpapi_link": "https://serpapi.com/search.json?cites=6591095613140752943&engine=google_scholar&hl=en",
+        "cites_id": "6591095613140752943"
+      },
+      "year": "2024"
+    },
+    {
       "title": "The beginnings of the COVID19 pandemic on Twitter. Computational Analysis of Public Conversation in Spanish Language",
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Maj9ubYAAAAJ&citation_for_view=Maj9ubYAAAAJ:aqlVkmm33-oC",
       "citation_id": "Maj9ubYAAAAJ:aqlVkmm33-oC",
@@ -80,20 +94,6 @@
         "cites_id": "11946846245364550045,15032141721932706624,2150780772861662179"
       },
       "year": "2021"
-    },
-    {
-      "title": "Real-time EEG-based emotion recognition for neurohumanities: perspectives from principal component analysis and tree-based algorithms",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Maj9ubYAAAAJ&citation_for_view=Maj9ubYAAAAJ:k_IJM867U9cC",
-      "citation_id": "Maj9ubYAAAAJ:k_IJM867U9cC",
-      "authors": "MA Blanco-Ríos, MO Candela-Leal, C Orozco-Romo, P Remis-Serna, ...",
-      "publication": "Frontiers in Human Neuroscience 18, 1319574, 2024",
-      "cited_by": {
-        "value": 26,
-        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6591095613140752943",
-        "serpapi_link": "https://serpapi.com/search.json?cites=6591095613140752943&engine=google_scholar&hl=en",
-        "cites_id": "6591095613140752943"
-      },
-      "year": "2024"
     },
     {
       "title": "One hundred years of neurosciences in the arts and humanities, a bibliometric review",
@@ -180,6 +180,20 @@
       "year": "2024"
     },
     {
+      "title": "EEG and Physiological Signals Dataset from Participants during Traditional and Partially Immersive Learning Experiences in Humanities",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Maj9ubYAAAAJ&citation_for_view=Maj9ubYAAAAJ:M3NEmzRMIkIC",
+      "citation_id": "Maj9ubYAAAAJ:M3NEmzRMIkIC",
+      "authors": "R Romo-De León, MLL Cham-Pérez, VA Elizondo-Villegas, ...",
+      "publication": "Data 9 (5), 68, 2024",
+      "cited_by": {
+        "value": 5,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15394891192433424838",
+        "serpapi_link": "https://serpapi.com/search.json?cites=15394891192433424838&engine=google_scholar&hl=en",
+        "cites_id": "15394891192433424838"
+      },
+      "year": "2024"
+    },
+    {
       "title": "Is Big Data the new capture machine? Correlations between Data Mining and Gilles Deleuze philosophy",
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Maj9ubYAAAAJ&citation_for_view=Maj9ubYAAAAJ:2osOgNQ5qMEC",
       "citation_id": "Maj9ubYAAAAJ:2osOgNQ5qMEC",
@@ -192,20 +206,6 @@
         "cites_id": "4407083887060741627,5452592859252075650"
       },
       "year": "2019"
-    },
-    {
-      "title": "EEG and Physiological Signals Dataset from Participants during Traditional and Partially Immersive Learning Experiences in Humanities",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Maj9ubYAAAAJ&citation_for_view=Maj9ubYAAAAJ:M3NEmzRMIkIC",
-      "citation_id": "Maj9ubYAAAAJ:M3NEmzRMIkIC",
-      "authors": "R Romo-De León, MLL Cham-Pérez, VA Elizondo-Villegas, ...",
-      "publication": "Data 9 (5), 68, 2024",
-      "cited_by": {
-        "value": 4,
-        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15394891192433424838",
-        "serpapi_link": "https://serpapi.com/search.json?cites=15394891192433424838&engine=google_scholar&hl=en",
-        "cites_id": "15394891192433424838"
-      },
-      "year": "2024"
     },
     {
       "title": "The Neurocomputational Becoming of Intelligence: Philosophical Challenges",
@@ -323,8 +323,8 @@
     "table": [
       {
         "citations": {
-          "all": 223,
-          "since_2021": 213
+          "all": 225,
+          "since_2021": 215
         }
       },
       {
@@ -359,7 +359,7 @@
       },
       {
         "year": 2025,
-        "citations": 75
+        "citations": 77
       },
       {
         "year": 2026,
@@ -374,15 +374,6 @@
   },
   "co_authors": [
     {
-      "name": "Alberto Hernández Baqueiro",
-      "link": "https://scholar.google.com/citations?user=wxWzaBIAAAAJ&hl=en",
-      "serpapi_link": "https://serpapi.com/search.json?author_id=wxWzaBIAAAAJ&engine=google_scholar_author&hl=en",
-      "author_id": "wxWzaBIAAAAJ",
-      "affiliations": "Tecnológico de Monterrey",
-      "email": "Verified email at tec.mx",
-      "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
-    },
-    {
       "name": "Mauricio Adolfo Ramírez Moreno",
       "link": "https://scholar.google.com/citations?user=zWotbKAAAAAJ&hl=en",
       "serpapi_link": "https://serpapi.com/search.json?author_id=zWotbKAAAAAJ&engine=google_scholar_author&hl=en",
@@ -390,6 +381,15 @@
       "affiliations": "Instituto Tecnológico y de Estudios Superiores de Monterrey",
       "email": "Verified email at tec.mx",
       "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=zWotbKAAAAAJ&citpid=3"
+    },
+    {
+      "name": "Alberto Hernández Baqueiro",
+      "link": "https://scholar.google.com/citations?user=wxWzaBIAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=wxWzaBIAAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "wxWzaBIAAAAJ",
+      "affiliations": "Tecnológico de Monterrey",
+      "email": "Verified email at tec.mx",
+      "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
     },
     {
       "name": "Enrique Tamés-Muñoz",
