@@ -1,13 +1,13 @@
 {
   "search_metadata": {
-    "id": "69e988cca89e02f1e79126da",
+    "id": "69ec2963cbcccf9bf338497d",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/Vqd_RVN1-BuKwMq5dfdUVQ/69e988cca89e02f1e79126da.json",
-    "created_at": "2026-04-23 02:49:48 UTC",
-    "processed_at": "2026-04-23 02:49:48 UTC",
+    "json_endpoint": "https://serpapi.com/searches/Vqd_RVN1-BuKwMq5dfdUVQ/69ec2963cbcccf9bf338497d.json",
+    "created_at": "2026-04-25 02:39:31 UTC",
+    "processed_at": "2026-04-25 02:39:31 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=Maj9ubYAAAAJ&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/Vqd_RVN1-BuKwMq5dfdUVQ/69e988cca89e02f1e79126da.html",
-    "total_time_taken": 0.86
+    "raw_html_file": "https://serpapi.com/searches/Vqd_RVN1-BuKwMq5dfdUVQ/69ec2963cbcccf9bf338497d.html",
+    "total_time_taken": 0.29
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -291,6 +291,20 @@
       "year": "2018"
     },
     {
+      "title": "Advances in complex thinking and neurotechnologies in education: a bibliometric analysis of research trends",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Maj9ubYAAAAJ&citation_for_view=Maj9ubYAAAAJ:J_g5lzvAfSwC",
+      "citation_id": "Maj9ubYAAAAJ:J_g5lzvAfSwC",
+      "authors": "J Sanabria-Z, M Cebral-Loureda, JM Antelis, SH Lee",
+      "publication": "Cognitive Processing 26 (3), 611-624, 2025",
+      "cited_by": {
+        "value": 2,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6997050559357773005",
+        "serpapi_link": "https://serpapi.com/search.json?cites=6997050559357773005&engine=google_scholar&hl=en",
+        "cites_id": "6997050559357773005"
+      },
+      "year": "2025"
+    },
+    {
       "title": "Voluntad y deseo en la filosofía moderna: un acercamiento computacional",
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Maj9ubYAAAAJ&citation_for_view=Maj9ubYAAAAJ:Se3iqnhoufwC",
       "citation_id": "Maj9ubYAAAAJ:Se3iqnhoufwC",
@@ -303,28 +317,14 @@
         "cites_id": "13266787261873827428"
       },
       "year": "2020"
-    },
-    {
-      "title": "Blandas maquinas de guerra: el potencial deseante de la cibernética",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Maj9ubYAAAAJ&citation_for_view=Maj9ubYAAAAJ:MXK_kJrjxJIC",
-      "citation_id": "Maj9ubYAAAAJ:MXK_kJrjxJIC",
-      "authors": "M Cebral Loureda",
-      "publication": "AusArt 4 (2), 2016",
-      "cited_by": {
-        "value": 2,
-        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17784297522700212317",
-        "serpapi_link": "https://serpapi.com/search.json?cites=17784297522700212317&engine=google_scholar&hl=en",
-        "cites_id": "17784297522700212317"
-      },
-      "year": "2016"
     }
   ],
   "cited_by": {
     "table": [
       {
         "citations": {
-          "all": 225,
-          "since_2021": 215
+          "all": 226,
+          "since_2021": 216
         }
       },
       {
@@ -363,7 +363,7 @@
       },
       {
         "year": 2026,
-        "citations": 20
+        "citations": 21
       }
     ]
   },
@@ -545,13 +545,13 @@
       "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
     },
     {
-      "name": "Ester Bautista",
-      "link": "https://scholar.google.com/citations?user=HyV1z08AAAAJ&hl=en",
-      "serpapi_link": "https://serpapi.com/search.json?author_id=HyV1z08AAAAJ&engine=google_scholar_author&hl=en",
-      "author_id": "HyV1z08AAAAJ",
-      "affiliations": "Universidad Autónoma de Querétaro",
-      "email": "Verified email at uaq.mx",
-      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=HyV1z08AAAAJ&citpid=1"
+      "name": "Javier M. Antelis",
+      "link": "https://scholar.google.com/citations?user=9YnDZdAAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=9YnDZdAAAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "9YnDZdAAAAAJ",
+      "affiliations": "Tecnológico de Monterrey",
+      "email": "Verified email at tec.mx",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=9YnDZdAAAAAJ&citpid=1"
     }
   ],
   "serpapi_pagination": {
