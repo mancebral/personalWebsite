@@ -1,13 +1,13 @@
 {
   "search_metadata": {
-    "id": "6a0fd33a02ab8c27a81b9f1f",
+    "id": "6a111f40eb55a363a394cec0",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/Vqd_RVN1-BuKwMq5dfdUVQ/6a0fd33a02ab8c27a81b9f1f.json",
-    "created_at": "2026-05-22 03:53:30 UTC",
-    "processed_at": "2026-05-22 03:53:30 UTC",
+    "json_endpoint": "https://serpapi.com/searches/Vqd_RVN1-BuKwMq5dfdUVQ/6a111f40eb55a363a394cec0.json",
+    "created_at": "2026-05-23 03:30:08 UTC",
+    "processed_at": "2026-05-23 03:30:08 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=Maj9ubYAAAAJ&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/Vqd_RVN1-BuKwMq5dfdUVQ/6a0fd33a02ab8c27a81b9f1f.html",
-    "total_time_taken": 6.51
+    "raw_html_file": "https://serpapi.com/searches/Vqd_RVN1-BuKwMq5dfdUVQ/6a111f40eb55a363a394cec0.html",
+    "total_time_taken": 6.63
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -46,7 +46,7 @@
       "authors": "M Cebral-Loureda, E Tamés-Muñoz, A Hernández-Baqueiro",
       "publication": "International journal of environmental research and public health 19 (5), 2586, 2022",
       "cited_by": {
-        "value": 47,
+        "value": 48,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15406956490543785490",
         "serpapi_link": "https://serpapi.com/search.json?cites=15406956490543785490&engine=google_scholar&hl=en",
         "cites_id": "15406956490543785490"
@@ -323,8 +323,8 @@
     "table": [
       {
         "citations": {
-          "all": 230,
-          "since_2021": 220
+          "all": 231,
+          "since_2021": 221
         }
       },
       {
@@ -359,11 +359,11 @@
       },
       {
         "year": 2025,
-        "citations": 77
+        "citations": 76
       },
       {
         "year": 2026,
-        "citations": 25
+        "citations": 27
       }
     ]
   },
