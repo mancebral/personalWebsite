@@ -1,13 +1,13 @@
 {
   "search_metadata": {
-    "id": "6a111f40eb55a363a394cec0",
+    "id": "6a1275c22f47f8c354779854",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/Vqd_RVN1-BuKwMq5dfdUVQ/6a111f40eb55a363a394cec0.json",
-    "created_at": "2026-05-23 03:30:08 UTC",
-    "processed_at": "2026-05-23 03:30:08 UTC",
+    "json_endpoint": "https://serpapi.com/searches/Vqd_RVN1-BuKwMq5dfdUVQ/6a1275c22f47f8c354779854.json",
+    "created_at": "2026-05-24 03:51:30 UTC",
+    "processed_at": "2026-05-24 03:51:30 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=Maj9ubYAAAAJ&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/Vqd_RVN1-BuKwMq5dfdUVQ/6a111f40eb55a363a394cec0.html",
-    "total_time_taken": 6.63
+    "raw_html_file": "https://serpapi.com/searches/Vqd_RVN1-BuKwMq5dfdUVQ/6a1275c22f47f8c354779854.html",
+    "total_time_taken": 0.8
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -374,15 +374,6 @@
   },
   "co_authors": [
     {
-      "name": "Mauricio Adolfo Ramírez Moreno",
-      "link": "https://scholar.google.com/citations?user=zWotbKAAAAAJ&hl=en",
-      "serpapi_link": "https://serpapi.com/search.json?author_id=zWotbKAAAAAJ&engine=google_scholar_author&hl=en",
-      "author_id": "zWotbKAAAAAJ",
-      "affiliations": "Instituto Tecnológico y de Estudios Superiores de Monterrey",
-      "email": "Verified email at tec.mx",
-      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=zWotbKAAAAAJ&citpid=3"
-    },
-    {
       "name": "Alberto Hernández Baqueiro",
       "link": "https://scholar.google.com/citations?user=wxWzaBIAAAAJ&hl=en",
       "serpapi_link": "https://serpapi.com/search.json?author_id=wxWzaBIAAAAJ&engine=google_scholar_author&hl=en",
@@ -390,6 +381,15 @@
       "affiliations": "Tecnológico de Monterrey",
       "email": "Verified email at tec.mx",
       "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+    },
+    {
+      "name": "Mauricio Adolfo Ramírez Moreno",
+      "link": "https://scholar.google.com/citations?user=zWotbKAAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=zWotbKAAAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "zWotbKAAAAAJ",
+      "affiliations": "Instituto Tecnológico y de Estudios Superiores de Monterrey",
+      "email": "Verified email at tec.mx",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=zWotbKAAAAAJ&citpid=3"
     },
     {
       "name": "Enrique Tamés-Muñoz",
