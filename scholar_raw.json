@@ -1,13 +1,13 @@
 {
   "search_metadata": {
-    "id": "6a20fbeb59eb37c4eb77c39b",
+    "id": "6a2249a91dcfe26b613f9bf4",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/Vqd_RVN1-BuKwMq5dfdUVQ/6a20fbeb59eb37c4eb77c39b.json",
-    "created_at": "2026-06-04 04:15:39 UTC",
-    "processed_at": "2026-06-04 04:15:39 UTC",
+    "json_endpoint": "https://serpapi.com/searches/Vqd_RVN1-BuKwMq5dfdUVQ/6a2249a91dcfe26b613f9bf4.json",
+    "created_at": "2026-06-05 03:59:37 UTC",
+    "processed_at": "2026-06-05 03:59:37 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=Maj9ubYAAAAJ&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/Vqd_RVN1-BuKwMq5dfdUVQ/6a20fbeb59eb37c4eb77c39b.html",
-    "total_time_taken": 2.83
+    "raw_html_file": "https://serpapi.com/searches/Vqd_RVN1-BuKwMq5dfdUVQ/6a2249a91dcfe26b613f9bf4.html",
+    "total_time_taken": 0.36
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -355,11 +355,11 @@
       },
       {
         "year": 2024,
-        "citations": 61
+        "citations": 62
       },
       {
         "year": 2025,
-        "citations": 75
+        "citations": 74
       },
       {
         "year": 2026,
