@@ -1,13 +1,13 @@
 {
   "search_metadata": {
-    "id": "6a26416fbc3f0b42d8bdb918",
+    "id": "6a278b9eb255a8ba693306cf",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/Vqd_RVN1-BuKwMq5dfdUVQ/6a26416fbc3f0b42d8bdb918.json",
-    "created_at": "2026-06-08 04:13:35 UTC",
-    "processed_at": "2026-06-08 04:13:35 UTC",
+    "json_endpoint": "https://serpapi.com/searches/Vqd_RVN1-BuKwMq5dfdUVQ/6a278b9eb255a8ba693306cf.json",
+    "created_at": "2026-06-09 03:42:22 UTC",
+    "processed_at": "2026-06-09 03:42:22 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=Maj9ubYAAAAJ&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/Vqd_RVN1-BuKwMq5dfdUVQ/6a26416fbc3f0b42d8bdb918.html",
-    "total_time_taken": 2.1
+    "raw_html_file": "https://serpapi.com/searches/Vqd_RVN1-BuKwMq5dfdUVQ/6a278b9eb255a8ba693306cf.html",
+    "total_time_taken": 0.4
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -102,7 +102,7 @@
       "authors": "M Cebral-Loureda, J Sanabria-Z, MA Ramírez-Moreno, ...",
       "publication": "Philosophy, Ethics, and Humanities in Medicine 18 (1), 17, 2023",
       "cited_by": {
-        "value": 11,
+        "value": 12,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15318658979503870620",
         "serpapi_link": "https://serpapi.com/search.json?cites=15318658979503870620&engine=google_scholar&hl=en",
         "cites_id": "15318658979503870620"
@@ -323,8 +323,8 @@
     "table": [
       {
         "citations": {
-          "all": 233,
-          "since_2021": 223
+          "all": 234,
+          "since_2021": 224
         }
       },
       {
@@ -363,7 +363,7 @@
       },
       {
         "year": 2026,
-        "citations": 29
+        "citations": 30
       }
     ]
   },
