@@ -1,13 +1,13 @@
 {
   "search_metadata": {
-    "id": "6a3a0152f607a9e711ccb348",
+    "id": "6a3b53a0ff7aa2f8a191cc17",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/Vqd_RVN1-BuKwMq5dfdUVQ/6a3a0152f607a9e711ccb348.json",
-    "created_at": "2026-06-23 03:45:22 UTC",
-    "processed_at": "2026-06-23 03:45:22 UTC",
+    "json_endpoint": "https://serpapi.com/searches/Vqd_RVN1-BuKwMq5dfdUVQ/6a3b53a0ff7aa2f8a191cc17.json",
+    "created_at": "2026-06-24 03:48:48 UTC",
+    "processed_at": "2026-06-24 03:48:48 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=Maj9ubYAAAAJ&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/Vqd_RVN1-BuKwMq5dfdUVQ/6a3a0152f607a9e711ccb348.html",
-    "total_time_taken": 2.67
+    "raw_html_file": "https://serpapi.com/searches/Vqd_RVN1-BuKwMq5dfdUVQ/6a3b53a0ff7aa2f8a191cc17.html",
+    "total_time_taken": 2.18
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -74,7 +74,7 @@
       "authors": "GE Sued Palmeiro, M Cebral-Loureda",
       "publication": "Revista de Comunicación y Salud 10 (2), 2020",
       "cited_by": {
-        "value": 30,
+        "value": 31,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17777793104997801396,6810063960685467254,1029123674638430782",
         "serpapi_link": "https://serpapi.com/search.json?cites=17777793104997801396%2C6810063960685467254%2C1029123674638430782&engine=google_scholar&hl=en",
         "cites_id": "17777793104997801396,6810063960685467254,1029123674638430782"
@@ -323,8 +323,8 @@
     "table": [
       {
         "citations": {
-          "all": 247,
-          "since_2021": 237
+          "all": 248,
+          "since_2021": 238
         }
       },
       {
@@ -363,7 +363,7 @@
       },
       {
         "year": 2026,
-        "citations": 34
+        "citations": 35
       }
     ]
   },
