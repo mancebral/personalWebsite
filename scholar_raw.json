@@ -1,13 +1,13 @@
 {
   "search_metadata": {
-    "id": "6a472c3d6539a2430924b65f",
+    "id": "6a487c1103610a025da2ca87",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/Vqd_RVN1-BuKwMq5dfdUVQ/6a472c3d6539a2430924b65f.json",
-    "created_at": "2026-07-03 03:27:57 UTC",
-    "processed_at": "2026-07-03 03:27:57 UTC",
+    "json_endpoint": "https://serpapi.com/searches/Vqd_RVN1-BuKwMq5dfdUVQ/6a487c1103610a025da2ca87.json",
+    "created_at": "2026-07-04 03:20:49 UTC",
+    "processed_at": "2026-07-04 03:20:49 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=Maj9ubYAAAAJ&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/Vqd_RVN1-BuKwMq5dfdUVQ/6a472c3d6539a2430924b65f.html",
-    "total_time_taken": 1.77
+    "raw_html_file": "https://serpapi.com/searches/Vqd_RVN1-BuKwMq5dfdUVQ/6a487c1103610a025da2ca87.html",
+    "total_time_taken": 0.95
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -46,7 +46,7 @@
       "authors": "M Cebral-Loureda, E Tamés-Muñoz, A Hernández-Baqueiro",
       "publication": "International journal of environmental research and public health 19 (5), 2586, 2022",
       "cited_by": {
-        "value": 49,
+        "value": 50,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15406956490543785490",
         "serpapi_link": "https://serpapi.com/search.json?cites=15406956490543785490&engine=google_scholar&hl=en",
         "cites_id": "15406956490543785490"
@@ -166,6 +166,20 @@
       "year": "2023"
     },
     {
+      "title": "Real-time EEG-based emotion recognition model using principal component analysis and tree-based models for neurohumanities",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Maj9ubYAAAAJ&citation_for_view=Maj9ubYAAAAJ:4JMBOYKVnBMC",
+      "citation_id": "Maj9ubYAAAAJ:4JMBOYKVnBMC",
+      "authors": "MA Blanco-Rios, MO Candela-Leal, C Orozco-Romo, P Remis-Serna, ...",
+      "publication": "arXiv preprint arXiv:2401.15743, 2024",
+      "cited_by": {
+        "value": 7,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16370505158041638748",
+        "serpapi_link": "https://serpapi.com/search.json?cites=16370505158041638748&engine=google_scholar&hl=en",
+        "cites_id": "16370505158041638748"
+      },
+      "year": "2024"
+    },
+    {
       "title": "Using AI for educational research in multimodal learning analytics",
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Maj9ubYAAAAJ&citation_for_view=Maj9ubYAAAAJ:2P1L_qKh6hAC",
       "citation_id": "Maj9ubYAAAAJ:2P1L_qKh6hAC",
@@ -178,20 +192,6 @@
         "cites_id": "14295190316653421920"
       },
       "year": "2023"
-    },
-    {
-      "title": "Real-time EEG-based emotion recognition model using principal component analysis and tree-based models for neurohumanities",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Maj9ubYAAAAJ&citation_for_view=Maj9ubYAAAAJ:4JMBOYKVnBMC",
-      "citation_id": "Maj9ubYAAAAJ:4JMBOYKVnBMC",
-      "authors": "MA Blanco-Rios, MO Candela-Leal, C Orozco-Romo, P Remis-Serna, ...",
-      "publication": "arXiv preprint arXiv:2401.15743, 2024",
-      "cited_by": {
-        "value": 6,
-        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16370505158041638748",
-        "serpapi_link": "https://serpapi.com/search.json?cites=16370505158041638748&engine=google_scholar&hl=en",
-        "cites_id": "16370505158041638748"
-      },
-      "year": "2024"
     },
     {
       "title": "Love as a concept in academic research: A bibliometric review",
@@ -323,8 +323,8 @@
     "table": [
       {
         "citations": {
-          "all": 250,
-          "since_2021": 240
+          "all": 252,
+          "since_2021": 242
         }
       },
       {
@@ -363,7 +363,7 @@
       },
       {
         "year": 2026,
-        "citations": 37
+        "citations": 39
       }
     ]
   },
