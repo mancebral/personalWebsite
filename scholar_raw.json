@@ -1,13 +1,13 @@
 {
   "search_metadata": {
-    "id": "6a487c1103610a025da2ca87",
+    "id": "6a49d17328c7fbceff5a3dcc",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/Vqd_RVN1-BuKwMq5dfdUVQ/6a487c1103610a025da2ca87.json",
-    "created_at": "2026-07-04 03:20:49 UTC",
-    "processed_at": "2026-07-04 03:20:49 UTC",
+    "json_endpoint": "https://serpapi.com/searches/Vqd_RVN1-BuKwMq5dfdUVQ/6a49d17328c7fbceff5a3dcc.json",
+    "created_at": "2026-07-05 03:37:23 UTC",
+    "processed_at": "2026-07-05 03:37:23 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=Maj9ubYAAAAJ&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/Vqd_RVN1-BuKwMq5dfdUVQ/6a487c1103610a025da2ca87.html",
-    "total_time_taken": 0.95
+    "raw_html_file": "https://serpapi.com/searches/Vqd_RVN1-BuKwMq5dfdUVQ/6a49d17328c7fbceff5a3dcc.html",
+    "total_time_taken": 14.3
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -60,7 +60,7 @@
       "authors": "MA Blanco-Ríos, MO Candela-Leal, C Orozco-Romo, P Remis-Serna, ...",
       "publication": "Frontiers in Human Neuroscience 18, 1319574, 2024",
       "cited_by": {
-        "value": 31,
+        "value": 32,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6591095613140752943",
         "serpapi_link": "https://serpapi.com/search.json?cites=6591095613140752943&engine=google_scholar&hl=en",
         "cites_id": "6591095613140752943"
@@ -305,16 +305,16 @@
       "year": "2018"
     },
     {
-      "title": "Advances in complex thinking and neurotechnologies in education: a bibliometric analysis of research trends",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Maj9ubYAAAAJ&citation_for_view=Maj9ubYAAAAJ:J_g5lzvAfSwC",
-      "citation_id": "Maj9ubYAAAAJ:J_g5lzvAfSwC",
-      "authors": "J Sanabria-Z, M Cebral-Loureda, JM Antelis, SH Lee",
-      "publication": "Cognitive Processing 26 (3), 611-624, 2025",
+      "title": "Real-time generative AI experience of the Vanitas painting",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Maj9ubYAAAAJ&citation_for_view=Maj9ubYAAAAJ:ldfaerwXgEUC",
+      "citation_id": "Maj9ubYAAAAJ:ldfaerwXgEUC",
+      "authors": "A Ortiz-Espinoza, M Cebral-Loureda, J Hernandez-Morales, ...",
+      "publication": "Cogent Arts & Humanities 12 (1), 2591387, 2025",
       "cited_by": {
         "value": 2,
-        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6997050559357773005",
-        "serpapi_link": "https://serpapi.com/search.json?cites=6997050559357773005&engine=google_scholar&hl=en",
-        "cites_id": "6997050559357773005"
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4231908532636865596",
+        "serpapi_link": "https://serpapi.com/search.json?cites=4231908532636865596&engine=google_scholar&hl=en",
+        "cites_id": "4231908532636865596"
       },
       "year": "2025"
     }
@@ -323,8 +323,8 @@
     "table": [
       {
         "citations": {
-          "all": 252,
-          "since_2021": 242
+          "all": 254,
+          "since_2021": 244
         }
       },
       {
@@ -363,7 +363,7 @@
       },
       {
         "year": 2026,
-        "citations": 39
+        "citations": 41
       }
     ]
   },
