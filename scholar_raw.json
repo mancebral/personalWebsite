@@ -1,13 +1,13 @@
 {
   "search_metadata": {
-    "id": "6a4c7427c83b3f395e6f596c",
+    "id": "6a4dbb30b9e869f43d14913b",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/Vqd_RVN1-BuKwMq5dfdUVQ/6a4c7427c83b3f395e6f596c.json",
-    "created_at": "2026-07-07 03:36:07 UTC",
-    "processed_at": "2026-07-07 03:36:07 UTC",
+    "json_endpoint": "https://serpapi.com/searches/Vqd_RVN1-BuKwMq5dfdUVQ/6a4dbb30b9e869f43d14913b.json",
+    "created_at": "2026-07-08 02:51:28 UTC",
+    "processed_at": "2026-07-08 02:51:28 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=Maj9ubYAAAAJ&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/Vqd_RVN1-BuKwMq5dfdUVQ/6a4c7427c83b3f395e6f596c.html",
-    "total_time_taken": 0.99
+    "raw_html_file": "https://serpapi.com/searches/Vqd_RVN1-BuKwMq5dfdUVQ/6a4dbb30b9e869f43d14913b.html",
+    "total_time_taken": 0.75
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -200,7 +200,7 @@
       "authors": "M Cebral-Loureda, MT Lee, A Hernández-Baqueiro, T Lomas, ...",
       "publication": "Methods in psychology 11, 100153, 2024",
       "cited_by": {
-        "value": 5,
+        "value": 6,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17209127931677487993",
         "serpapi_link": "https://serpapi.com/search.json?cites=17209127931677487993&engine=google_scholar&hl=en",
         "cites_id": "17209127931677487993"
@@ -323,8 +323,8 @@
     "table": [
       {
         "citations": {
-          "all": 255,
-          "since_2021": 245
+          "all": 256,
+          "since_2021": 246
         }
       },
       {
@@ -363,7 +363,7 @@
       },
       {
         "year": 2026,
-        "citations": 42
+        "citations": 43
       }
     ]
   },
@@ -527,21 +527,21 @@
       "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=QdvMMgsAAAAJ&citpid=2"
     },
     {
-      "name": "Steven S. Gouveia",
-      "link": "https://scholar.google.com/citations?user=1QFdeUUAAAAJ&hl=en",
-      "serpapi_link": "https://serpapi.com/search.json?author_id=1QFdeUUAAAAJ&engine=google_scholar_author&hl=en",
-      "author_id": "1QFdeUUAAAAJ",
-      "affiliations": "University of Porto",
-      "email": "Verified email at letras.up.pt",
-      "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
-    },
-    {
       "name": "Tim Lomas",
       "link": "https://scholar.google.com/citations?user=rFLmbpcAAAAJ&hl=en",
       "serpapi_link": "https://serpapi.com/search.json?author_id=rFLmbpcAAAAJ&engine=google_scholar_author&hl=en",
       "author_id": "rFLmbpcAAAAJ",
       "affiliations": "Harvard University",
       "email": "Verified email at hsph.harvard.edu",
+      "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+    },
+    {
+      "name": "Steven S. Gouveia",
+      "link": "https://scholar.google.com/citations?user=1QFdeUUAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=1QFdeUUAAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "1QFdeUUAAAAJ",
+      "affiliations": "University of Porto",
+      "email": "Verified email at letras.up.pt",
       "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
     },
     {
