@@ -1,13 +1,13 @@
 {
   "search_metadata": {
-    "id": "6a5997ad5a5e96805aa830be",
+    "id": "6a5ae70dd6eb72f5039768f5",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/Vqd_RVN1-BuKwMq5dfdUVQ/6a5997ad5a5e96805aa830be.json",
-    "created_at": "2026-07-17 02:47:09 UTC",
-    "processed_at": "2026-07-17 02:47:09 UTC",
+    "json_endpoint": "https://serpapi.com/searches/Vqd_RVN1-BuKwMq5dfdUVQ/6a5ae70dd6eb72f5039768f5.json",
+    "created_at": "2026-07-18 02:38:05 UTC",
+    "processed_at": "2026-07-18 02:38:05 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=Maj9ubYAAAAJ&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/Vqd_RVN1-BuKwMq5dfdUVQ/6a5997ad5a5e96805aa830be.html",
-    "total_time_taken": 0.44
+    "raw_html_file": "https://serpapi.com/searches/Vqd_RVN1-BuKwMq5dfdUVQ/6a5ae70dd6eb72f5039768f5.html",
+    "total_time_taken": 1.68
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -60,7 +60,7 @@
       "authors": "MA Blanco-Ríos, MO Candela-Leal, C Orozco-Romo, P Remis-Serna, ...",
       "publication": "Frontiers in Human Neuroscience 18, 1319574, 2024",
       "cited_by": {
-        "value": 34,
+        "value": 35,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6591095613140752943",
         "serpapi_link": "https://serpapi.com/search.json?cites=6591095613140752943&engine=google_scholar&hl=en",
         "cites_id": "6591095613140752943"
@@ -214,7 +214,7 @@
       "authors": "R Romo-De León, MLL Cham-Pérez, VA Elizondo-Villegas, ...",
       "publication": "Data 9 (5), 68, 2024",
       "cited_by": {
-        "value": 5,
+        "value": 6,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15394891192433424838",
         "serpapi_link": "https://serpapi.com/search.json?cites=15394891192433424838&engine=google_scholar&hl=en",
         "cites_id": "15394891192433424838"
@@ -323,8 +323,8 @@
     "table": [
       {
         "citations": {
-          "all": 257,
-          "since_2021": 247
+          "all": 259,
+          "since_2021": 249
         }
       },
       {
@@ -363,7 +363,7 @@
       },
       {
         "year": 2026,
-        "citations": 44
+        "citations": 46
       }
     ]
   },
