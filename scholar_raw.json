@@ -1,13 +1,13 @@
 {
   "search_metadata": {
-    "id": "6a5d983beb55a3de12c7ab94",
+    "id": "6a5ede46526c48087dec2fb1",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/Vqd_RVN1-BuKwMq5dfdUVQ/6a5d983beb55a3de12c7ab94.json",
-    "created_at": "2026-07-20 03:38:35 UTC",
-    "processed_at": "2026-07-20 03:38:35 UTC",
+    "json_endpoint": "https://serpapi.com/searches/Vqd_RVN1-BuKwMq5dfdUVQ/6a5ede46526c48087dec2fb1.json",
+    "created_at": "2026-07-21 02:49:42 UTC",
+    "processed_at": "2026-07-21 02:49:42 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=Maj9ubYAAAAJ&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/Vqd_RVN1-BuKwMq5dfdUVQ/6a5d983beb55a3de12c7ab94.html",
-    "total_time_taken": 0.9
+    "raw_html_file": "https://serpapi.com/searches/Vqd_RVN1-BuKwMq5dfdUVQ/6a5ede46526c48087dec2fb1.html",
+    "total_time_taken": 0.89
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -359,11 +359,11 @@
       },
       {
         "year": 2025,
-        "citations": 80
+        "citations": 82
       },
       {
         "year": 2026,
-        "citations": 46
+        "citations": 44
       }
     ]
   },
@@ -442,7 +442,6 @@
       "serpapi_link": "https://serpapi.com/search.json?author_id=euPS2jYAAAAJ&engine=google_scholar_author&hl=en",
       "author_id": "euPS2jYAAAAJ",
       "affiliations": "Data Analyst, Research Assistant",
-      "email": "Verified email at christuscei.mx",
       "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=euPS2jYAAAAJ&citpid=1"
     },
     {
