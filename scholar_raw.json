@@ -1,13 +1,13 @@
 {
   "search_metadata": {
-    "id": "6a5ede46526c48087dec2fb1",
+    "id": "6a602f43526c48d62df3912c",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/Vqd_RVN1-BuKwMq5dfdUVQ/6a5ede46526c48087dec2fb1.json",
-    "created_at": "2026-07-21 02:49:42 UTC",
-    "processed_at": "2026-07-21 02:49:42 UTC",
+    "json_endpoint": "https://serpapi.com/searches/Vqd_RVN1-BuKwMq5dfdUVQ/6a602f43526c48d62df3912c.json",
+    "created_at": "2026-07-22 02:47:31 UTC",
+    "processed_at": "2026-07-22 02:47:31 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=Maj9ubYAAAAJ&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/Vqd_RVN1-BuKwMq5dfdUVQ/6a5ede46526c48087dec2fb1.html",
-    "total_time_taken": 0.89
+    "raw_html_file": "https://serpapi.com/searches/Vqd_RVN1-BuKwMq5dfdUVQ/6a602f43526c48d62df3912c.html",
+    "total_time_taken": 1.14
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -236,6 +236,20 @@
       "year": "2019"
     },
     {
+      "title": "La revolución cibernética desde la filosofía de Gilles Deleuze: una revisión crítica de las herramientas de minería de datos y Big Data",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Maj9ubYAAAAJ&citation_for_view=Maj9ubYAAAAJ:ufrVoPGSRksC",
+      "citation_id": "Maj9ubYAAAAJ:ufrVoPGSRksC",
+      "authors": "M Cebral Loureda",
+      "publication": "Universidade de Santiago de Compostela, 2019",
+      "cited_by": {
+        "value": 5,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2333025733981971003,1217684327030471179",
+        "serpapi_link": "https://serpapi.com/search.json?cites=2333025733981971003%2C1217684327030471179&engine=google_scholar&hl=en",
+        "cites_id": "2333025733981971003,1217684327030471179"
+      },
+      "year": "2019"
+    },
+    {
       "title": "The Neurocomputational Becoming of Intelligence: Philosophical Challenges",
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Maj9ubYAAAAJ&citation_for_view=Maj9ubYAAAAJ:TQgYirikUcIC",
       "citation_id": "Maj9ubYAAAAJ:TQgYirikUcIC",
@@ -262,20 +276,6 @@
         "cites_id": "12298152046619411721"
       },
       "year": "2021"
-    },
-    {
-      "title": "La revolución cibernética desde la filosofía de Gilles Deleuze: una revisión crítica de las herramientas de minería de datos y Big Data",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Maj9ubYAAAAJ&citation_for_view=Maj9ubYAAAAJ:ufrVoPGSRksC",
-      "citation_id": "Maj9ubYAAAAJ:ufrVoPGSRksC",
-      "authors": "M Cebral Loureda",
-      "publication": "Universidade de Santiago de Compostela, 2019",
-      "cited_by": {
-        "value": 4,
-        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2333025733981971003,1217684327030471179",
-        "serpapi_link": "https://serpapi.com/search.json?cites=2333025733981971003%2C1217684327030471179&engine=google_scholar&hl=en",
-        "cites_id": "2333025733981971003,1217684327030471179"
-      },
-      "year": "2019"
     },
     {
       "title": "Experiencia de lectura de la obra de Fernanda Melchor: análisis de las reseñas en Goodreads",
@@ -305,26 +305,26 @@
       "year": "2018"
     },
     {
-      "title": "Real-time generative AI experience of the Vanitas painting",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Maj9ubYAAAAJ&citation_for_view=Maj9ubYAAAAJ:ldfaerwXgEUC",
-      "citation_id": "Maj9ubYAAAAJ:ldfaerwXgEUC",
-      "authors": "A Ortiz-Espinoza, M Cebral-Loureda, J Hernandez-Morales, ...",
-      "publication": "Cogent Arts & Humanities 12 (1), 2591387, 2025",
+      "title": "Blandas maquinas de guerra: el potencial deseante de la cibernética",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Maj9ubYAAAAJ&citation_for_view=Maj9ubYAAAAJ:MXK_kJrjxJIC",
+      "citation_id": "Maj9ubYAAAAJ:MXK_kJrjxJIC",
+      "authors": "M Cebral Loureda",
+      "publication": "AusArt 4 (2), 2016",
       "cited_by": {
-        "value": 2,
-        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4231908532636865596",
-        "serpapi_link": "https://serpapi.com/search.json?cites=4231908532636865596&engine=google_scholar&hl=en",
-        "cites_id": "4231908532636865596"
+        "value": 3,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17784297522700212317",
+        "serpapi_link": "https://serpapi.com/search.json?cites=17784297522700212317&engine=google_scholar&hl=en",
+        "cites_id": "17784297522700212317"
       },
-      "year": "2025"
+      "year": "2016"
     }
   ],
   "cited_by": {
     "table": [
       {
         "citations": {
-          "all": 259,
-          "since_2021": 249
+          "all": 262,
+          "since_2021": 252
         }
       },
       {
@@ -363,7 +363,7 @@
       },
       {
         "year": 2026,
-        "citations": 44
+        "citations": 47
       }
     ]
   },
@@ -435,14 +435,6 @@
       "affiliations": "Researcher - Tecnologico de Monterrey - ROR https://ror.org/03ayjn504",
       "email": "Verified email at tec.mx",
       "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=7L5zSesAAAAJ&citpid=4"
-    },
-    {
-      "name": "Miguel Alejandro Blanco Rios",
-      "link": "https://scholar.google.com/citations?user=euPS2jYAAAAJ&hl=en",
-      "serpapi_link": "https://serpapi.com/search.json?author_id=euPS2jYAAAAJ&engine=google_scholar_author&hl=en",
-      "author_id": "euPS2jYAAAAJ",
-      "affiliations": "Data Analyst, Research Assistant",
-      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=euPS2jYAAAAJ&citpid=1"
     },
     {
       "name": "Dra. Elvira G. RINCON-FLORES",
@@ -551,6 +543,15 @@
       "affiliations": "Tecnológico de Monterrey",
       "email": "Verified email at tec.mx",
       "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=9YnDZdAAAAAJ&citpid=1"
+    },
+    {
+      "name": "Juan C. Tudon-Martinez",
+      "link": "https://scholar.google.com/citations?user=M8_8M58AAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=M8_8M58AAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "M8_8M58AAAAJ",
+      "affiliations": "Professor-researcher, School of Engineering and Sciences, Tecnológico de Monterrey",
+      "email": "Verified email at tec.mx",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=M8_8M58AAAAJ&citpid=12"
     }
   ],
   "serpapi_pagination": {
