@@ -1,13 +1,13 @@
 {
   "search_metadata": {
-    "id": "6a65775d70e9d01e5159596d",
+    "id": "6a66ceb099d5f4f1eb195b66",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/Vqd_RVN1-BuKwMq5dfdUVQ/6a65775d70e9d01e5159596d.json",
-    "created_at": "2026-07-26 02:56:29 UTC",
-    "processed_at": "2026-07-26 02:56:29 UTC",
+    "json_endpoint": "https://serpapi.com/searches/Vqd_RVN1-BuKwMq5dfdUVQ/6a66ceb099d5f4f1eb195b66.json",
+    "created_at": "2026-07-27 03:21:20 UTC",
+    "processed_at": "2026-07-27 03:21:20 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=Maj9ubYAAAAJ&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/Vqd_RVN1-BuKwMq5dfdUVQ/6a65775d70e9d01e5159596d.html",
-    "total_time_taken": 6.83
+    "raw_html_file": "https://serpapi.com/searches/Vqd_RVN1-BuKwMq5dfdUVQ/6a66ceb099d5f4f1eb195b66.html",
+    "total_time_taken": 1.11
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -46,7 +46,7 @@
       "authors": "M Cebral-Loureda, E Tamés-Muñoz, A Hernández-Baqueiro",
       "publication": "International journal of environmental research and public health 19 (5), 2586, 2022",
       "cited_by": {
-        "value": 50,
+        "value": 51,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15406956490543785490",
         "serpapi_link": "https://serpapi.com/search.json?cites=15406956490543785490&engine=google_scholar&hl=en",
         "cites_id": "15406956490543785490"
@@ -60,7 +60,7 @@
       "authors": "MA Blanco-Ríos, MO Candela-Leal, C Orozco-Romo, P Remis-Serna, ...",
       "publication": "Frontiers in Human Neuroscience 18, 1319574, 2024",
       "cited_by": {
-        "value": 35,
+        "value": 36,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6591095613140752943",
         "serpapi_link": "https://serpapi.com/search.json?cites=6591095613140752943&engine=google_scholar&hl=en",
         "cites_id": "6591095613140752943"
@@ -323,8 +323,8 @@
     "table": [
       {
         "citations": {
-          "all": 263,
-          "since_2021": 253
+          "all": 265,
+          "since_2021": 255
         }
       },
       {
@@ -359,7 +359,7 @@
       },
       {
         "year": 2025,
-        "citations": 80
+        "citations": 81
       },
       {
         "year": 2026,
@@ -370,7 +370,7 @@
   "public_access": {
     "link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=Maj9ubYAAAAJ",
     "available": 1,
-    "not_available": 1
+    "not_available": 0
   },
   "co_authors": [
     {
