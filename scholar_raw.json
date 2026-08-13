@@ -1,13 +1,13 @@
 {
   "search_metadata": {
-    "id": "6a7bd49f0e285d17c248e460",
+    "id": "6a7d268fa4817c12377f5595",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/Vqd_RVN1-BuKwMq5dfdUVQ/6a7bd49f0e285d17c248e460.json",
-    "created_at": "2026-08-12 02:04:15 UTC",
-    "processed_at": "2026-08-12 02:04:15 UTC",
+    "json_endpoint": "https://serpapi.com/searches/Vqd_RVN1-BuKwMq5dfdUVQ/6a7d268fa4817c12377f5595.json",
+    "created_at": "2026-08-13 02:06:07 UTC",
+    "processed_at": "2026-08-13 02:06:07 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=Maj9ubYAAAAJ&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/Vqd_RVN1-BuKwMq5dfdUVQ/6a7bd49f0e285d17c248e460.html",
-    "total_time_taken": 2.76
+    "raw_html_file": "https://serpapi.com/searches/Vqd_RVN1-BuKwMq5dfdUVQ/6a7d268fa4817c12377f5595.html",
+    "total_time_taken": 1.4
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -46,7 +46,7 @@
       "authors": "M Cebral-Loureda, E Tamés-Muñoz, A Hernández-Baqueiro",
       "publication": "International journal of environmental research and public health 19 (5), 2586, 2022",
       "cited_by": {
-        "value": 49,
+        "value": 48,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15406956490543785490",
         "serpapi_link": "https://serpapi.com/search.json?cites=15406956490543785490&engine=google_scholar&hl=en",
         "cites_id": "15406956490543785490"
@@ -208,6 +208,20 @@
       "year": "2024"
     },
     {
+      "title": "Advances in complex thinking and neurotechnologies in education: a bibliometric analysis of research trends",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Maj9ubYAAAAJ&citation_for_view=Maj9ubYAAAAJ:J_g5lzvAfSwC",
+      "citation_id": "Maj9ubYAAAAJ:J_g5lzvAfSwC",
+      "authors": "J Sanabria-Z, M Cebral-Loureda, JM Antelis, SH Lee",
+      "publication": "Cognitive Processing 26 (3), 611-624, 2025",
+      "cited_by": {
+        "value": 5,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6997050559357773005",
+        "serpapi_link": "https://serpapi.com/search.json?cites=6997050559357773005&engine=google_scholar&hl=en",
+        "cites_id": "6997050559357773005"
+      },
+      "year": "2025"
+    },
+    {
       "title": "Using AI for educational research in multimodal learning analytics",
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Maj9ubYAAAAJ&citation_for_view=Maj9ubYAAAAJ:2P1L_qKh6hAC",
       "citation_id": "Maj9ubYAAAAJ:2P1L_qKh6hAC",
@@ -220,20 +234,6 @@
         "cites_id": "14295190316653421920"
       },
       "year": "2023"
-    },
-    {
-      "title": "Advances in complex thinking and neurotechnologies in education: a bibliometric analysis of research trends",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Maj9ubYAAAAJ&citation_for_view=Maj9ubYAAAAJ:J_g5lzvAfSwC",
-      "citation_id": "Maj9ubYAAAAJ:J_g5lzvAfSwC",
-      "authors": "J Sanabria-Z, M Cebral-Loureda, JM Antelis, SH Lee",
-      "publication": "Cognitive Processing 26 (3), 611-624, 2025",
-      "cited_by": {
-        "value": 4,
-        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6997050559357773005",
-        "serpapi_link": "https://serpapi.com/search.json?cites=6997050559357773005&engine=google_scholar&hl=en",
-        "cites_id": "6997050559357773005"
-      },
-      "year": "2025"
     },
     {
       "title": "The Neurocomputational Becoming of Intelligence: Philosophical Challenges",
@@ -324,8 +324,8 @@
     "table": [
       {
         "citations": {
-          "all": 261,
-          "since_2021": 251
+          "all": 260,
+          "since_2021": 250
         }
       },
       {
@@ -352,11 +352,11 @@
       },
       {
         "year": 2023,
-        "citations": 24
+        "citations": 23
       },
       {
         "year": 2024,
-        "citations": 65
+        "citations": 64
       },
       {
         "year": 2025,
@@ -364,7 +364,7 @@
       },
       {
         "year": 2026,
-        "citations": 53
+        "citations": 54
       }
     ]
   },
@@ -519,6 +519,15 @@
       "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
     },
     {
+      "name": "Javier M. Antelis",
+      "link": "https://scholar.google.com/citations?user=9YnDZdAAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=9YnDZdAAAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "9YnDZdAAAAAJ",
+      "affiliations": "Tecnológico de Monterrey",
+      "email": "Verified email at tec.mx",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=9YnDZdAAAAAJ&citpid=1"
+    },
+    {
       "name": "Luis F. Morán-Mirabal",
       "link": "https://scholar.google.com/citations?user=swWRcRQAAAAJ&hl=en",
       "serpapi_link": "https://serpapi.com/search.json?author_id=swWRcRQAAAAJ&engine=google_scholar_author&hl=en",
@@ -544,15 +553,6 @@
       "affiliations": "University of Porto",
       "email": "Verified email at letras.up.pt",
       "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
-    },
-    {
-      "name": "Javier M. Antelis",
-      "link": "https://scholar.google.com/citations?user=9YnDZdAAAAAJ&hl=en",
-      "serpapi_link": "https://serpapi.com/search.json?author_id=9YnDZdAAAAAJ&engine=google_scholar_author&hl=en",
-      "author_id": "9YnDZdAAAAAJ",
-      "affiliations": "Tecnológico de Monterrey",
-      "email": "Verified email at tec.mx",
-      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=9YnDZdAAAAAJ&citpid=1"
     }
   ],
   "serpapi_pagination": {
