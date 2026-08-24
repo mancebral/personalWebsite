@@ -1,14 +1,14 @@
 {
   "search_metadata": {
-    "id": "6a8a4c0113f4b67a5967a137",
+    "id": "6a8b9cdb7bf2f9e4a3814905",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/Vqd_RVN1-BuKwMq5dfdUVQ/6a8a4c0113f4b67a5967a137.json",
-    "markdown_endpoint": "https://serpapi.com/searches/Vqd_RVN1-BuKwMq5dfdUVQ/6a8a4c0113f4b67a5967a137.md",
-    "created_at": "2026-08-23 01:25:21 UTC",
-    "processed_at": "2026-08-23 01:25:21 UTC",
+    "json_endpoint": "https://serpapi.com/searches/Vqd_RVN1-BuKwMq5dfdUVQ/6a8b9cdb7bf2f9e4a3814905.json",
+    "markdown_endpoint": "https://serpapi.com/searches/Vqd_RVN1-BuKwMq5dfdUVQ/6a8b9cdb7bf2f9e4a3814905.md",
+    "created_at": "2026-08-24 01:22:35 UTC",
+    "processed_at": "2026-08-24 01:22:35 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=Maj9ubYAAAAJ&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/Vqd_RVN1-BuKwMq5dfdUVQ/6a8a4c0113f4b67a5967a137.html",
-    "total_time_taken": 0.56
+    "raw_html_file": "https://serpapi.com/searches/Vqd_RVN1-BuKwMq5dfdUVQ/6a8b9cdb7bf2f9e4a3814905.html",
+    "total_time_taken": 0.91
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -159,7 +159,7 @@
       "authors": "M Cebral-Loureda, EG Rincón-Flores, G Sanchez-Ante",
       "publication": "CRC Press, 2023",
       "cited_by": {
-        "value": 9,
+        "value": 10,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10629725694270304271,3427792621633079136",
         "serpapi_link": "https://serpapi.com/search.json?cites=10629725694270304271%2C3427792621633079136&engine=google_scholar&hl=en",
         "cites_id": "10629725694270304271,3427792621633079136"
@@ -325,8 +325,8 @@
     "table": [
       {
         "citations": {
-          "all": 261,
-          "since_2021": 251
+          "all": 262,
+          "since_2021": 252
         }
       },
       {
@@ -337,8 +337,8 @@
       },
       {
         "i10_index": {
-          "all": 8,
-          "since_2021": 8
+          "all": 9,
+          "since_2021": 9
         }
       }
     ],
@@ -365,7 +365,7 @@
       },
       {
         "year": 2026,
-        "citations": 54
+        "citations": 55
       }
     ]
   },
