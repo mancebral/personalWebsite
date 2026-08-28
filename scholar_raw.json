@@ -1,14 +1,14 @@
 {
   "search_metadata": {
-    "id": "6a8ff00c572948660645519a",
+    "id": "6a915e5adbb9ffce4fadb606",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/Vqd_RVN1-BuKwMq5dfdUVQ/6a8ff00c572948660645519a.json",
-    "markdown_endpoint": "https://serpapi.com/searches/Vqd_RVN1-BuKwMq5dfdUVQ/6a8ff00c572948660645519a.md",
-    "created_at": "2026-08-27 08:06:36 UTC",
-    "processed_at": "2026-08-27 08:06:36 UTC",
+    "json_endpoint": "https://serpapi.com/searches/Vqd_RVN1-BuKwMq5dfdUVQ/6a915e5adbb9ffce4fadb606.json",
+    "markdown_endpoint": "https://serpapi.com/searches/Vqd_RVN1-BuKwMq5dfdUVQ/6a915e5adbb9ffce4fadb606.md",
+    "created_at": "2026-08-28 10:09:30 UTC",
+    "processed_at": "2026-08-28 10:09:30 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=Maj9ubYAAAAJ&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/Vqd_RVN1-BuKwMq5dfdUVQ/6a8ff00c572948660645519a.html",
-    "total_time_taken": 1.09
+    "raw_html_file": "https://serpapi.com/searches/Vqd_RVN1-BuKwMq5dfdUVQ/6a915e5adbb9ffce4fadb606.html",
+    "total_time_taken": 1.84
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -47,7 +47,7 @@
       "authors": "M Cebral-Loureda, E Tamés-Muñoz, A Hernández-Baqueiro",
       "publication": "International journal of environmental research and public health 19 (5), 2586, 2022",
       "cited_by": {
-        "value": 49,
+        "value": 50,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15406956490543785490",
         "serpapi_link": "https://serpapi.com/search.json?cites=15406956490543785490&engine=google_scholar&hl=en",
         "cites_id": "15406956490543785490"
@@ -173,7 +173,7 @@
       "authors": "MA Blanco-Rios, MO Candela-Leal, C Orozco-Romo, P Remis-Serna, ...",
       "publication": "arXiv preprint arXiv:2401.15743, 2024",
       "cited_by": {
-        "value": 7,
+        "value": 8,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16370505158041638748",
         "serpapi_link": "https://serpapi.com/search.json?cites=16370505158041638748&engine=google_scholar&hl=en",
         "cites_id": "16370505158041638748"
@@ -325,8 +325,8 @@
     "table": [
       {
         "citations": {
-          "all": 262,
-          "since_2021": 252
+          "all": 264,
+          "since_2021": 253
         }
       },
       {
