@@ -1,14 +1,14 @@
 {
   "search_metadata": {
-    "id": "6a9cde1569819d1185be0fc8",
+    "id": "6a9e2f84f7ae8d241573d20d",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/_atDr4YP0UUuil8Iv4kTk96BWKAMBiOOC8BfD5RmFT0/6a9cde1569819d1185be0fc8.json",
-    "markdown_endpoint": "https://serpapi.com/searches/_atDr4YP0UUuil8Iv4kTk96BWKAMBiOOC8BfD5RmFT0/6a9cde1569819d1185be0fc8.md",
-    "created_at": "2026-09-06 03:29:25 UTC",
-    "processed_at": "2026-09-06 03:29:25 UTC",
+    "json_endpoint": "https://serpapi.com/searches/jiU5h7Nl8f2yYY47Ke2r_j9eXMI1pfh12tl197EPTKA/6a9e2f84f7ae8d241573d20d.json",
+    "markdown_endpoint": "https://serpapi.com/searches/jiU5h7Nl8f2yYY47Ke2r_j9eXMI1pfh12tl197EPTKA/6a9e2f84f7ae8d241573d20d.md",
+    "created_at": "2026-09-07 03:29:08 UTC",
+    "processed_at": "2026-09-07 03:29:08 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=Maj9ubYAAAAJ&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/_atDr4YP0UUuil8Iv4kTk96BWKAMBiOOC8BfD5RmFT0/6a9cde1569819d1185be0fc8.html",
-    "total_time_taken": 0.77
+    "raw_html_file": "https://serpapi.com/searches/jiU5h7Nl8f2yYY47Ke2r_j9eXMI1pfh12tl197EPTKA/6a9e2f84f7ae8d241573d20d.html",
+    "total_time_taken": 0.93
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -181,6 +181,20 @@
       "year": "2024"
     },
     {
+      "title": "Advances in complex thinking and neurotechnologies in education: a bibliometric analysis of research trends",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Maj9ubYAAAAJ&citation_for_view=Maj9ubYAAAAJ:J_g5lzvAfSwC",
+      "citation_id": "Maj9ubYAAAAJ:J_g5lzvAfSwC",
+      "authors": "J Sanabria-Z, M Cebral-Loureda, JM Antelis, SH Lee",
+      "publication": "Cognitive Processing 26 (3), 611-624, 2025",
+      "cited_by": {
+        "value": 6,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6997050559357773005",
+        "serpapi_link": "https://serpapi.com/search.json?cites=6997050559357773005&engine=google_scholar&hl=en",
+        "cites_id": "6997050559357773005"
+      },
+      "year": "2025"
+    },
+    {
       "title": "Love as a concept in academic research: A bibliometric review",
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Maj9ubYAAAAJ&citation_for_view=Maj9ubYAAAAJ:YFjsv_pBGBYC",
       "citation_id": "Maj9ubYAAAAJ:YFjsv_pBGBYC",
@@ -207,20 +221,6 @@
         "cites_id": "15394891192433424838"
       },
       "year": "2024"
-    },
-    {
-      "title": "Advances in complex thinking and neurotechnologies in education: a bibliometric analysis of research trends",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Maj9ubYAAAAJ&citation_for_view=Maj9ubYAAAAJ:J_g5lzvAfSwC",
-      "citation_id": "Maj9ubYAAAAJ:J_g5lzvAfSwC",
-      "authors": "J Sanabria-Z, M Cebral-Loureda, JM Antelis, SH Lee",
-      "publication": "Cognitive Processing 26 (3), 611-624, 2025",
-      "cited_by": {
-        "value": 5,
-        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6997050559357773005",
-        "serpapi_link": "https://serpapi.com/search.json?cites=6997050559357773005&engine=google_scholar&hl=en",
-        "cites_id": "6997050559357773005"
-      },
-      "year": "2025"
     },
     {
       "title": "Using AI for educational research in multimodal learning analytics",
@@ -325,8 +325,8 @@
     "table": [
       {
         "citations": {
-          "all": 265,
-          "since_2021": 254
+          "all": 266,
+          "since_2021": 255
         }
       },
       {
