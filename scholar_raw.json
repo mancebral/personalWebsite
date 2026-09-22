@@ -1,14 +1,14 @@
 {
   "search_metadata": {
-    "id": "6ab0aa70759dbc224b657cb2",
+    "id": "6ab1fb2f3a92065da226e9bf",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/C_Bpqv7lfzK2CAiXfIgflwcSQG-6TKAVUS73fIb8uqY/6ab0aa70759dbc224b657cb2.json",
-    "markdown_endpoint": "https://serpapi.com/searches/C_Bpqv7lfzK2CAiXfIgflwcSQG-6TKAVUS73fIb8uqY/6ab0aa70759dbc224b657cb2.md",
-    "created_at": "2026-09-21 03:54:24 UTC",
-    "processed_at": "2026-09-21 03:54:24 UTC",
+    "json_endpoint": "https://serpapi.com/searches/d5kn00w0zgo77_Kd7vwppjC1GNrd0iPqrZqq-j92uBA/6ab1fb2f3a92065da226e9bf.json",
+    "markdown_endpoint": "https://serpapi.com/searches/d5kn00w0zgo77_Kd7vwppjC1GNrd0iPqrZqq-j92uBA/6ab1fb2f3a92065da226e9bf.md",
+    "created_at": "2026-09-22 03:51:11 UTC",
+    "processed_at": "2026-09-22 03:51:11 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=Maj9ubYAAAAJ&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/C_Bpqv7lfzK2CAiXfIgflwcSQG-6TKAVUS73fIb8uqY/6ab0aa70759dbc224b657cb2.html",
-    "total_time_taken": 0.62
+    "raw_html_file": "https://serpapi.com/searches/d5kn00w0zgo77_Kd7vwppjC1GNrd0iPqrZqq-j92uBA/6ab1fb2f3a92065da226e9bf.html",
+    "total_time_taken": 1.14
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -47,7 +47,7 @@
       "authors": "M Cebral-Loureda, E Tamés-Muñoz, A Hernández-Baqueiro",
       "publication": "International journal of environmental research and public health 19 (5), 2586, 2022",
       "cited_by": {
-        "value": 50,
+        "value": 49,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15406956490543785490",
         "serpapi_link": "https://serpapi.com/search.json?cites=15406956490543785490&engine=google_scholar&hl=en",
         "cites_id": "15406956490543785490"
@@ -111,6 +111,20 @@
       "year": "2023"
     },
     {
+      "title": "AI, ethics, and coloniality: A feminist critique",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Maj9ubYAAAAJ&citation_for_view=Maj9ubYAAAAJ:a0OBvERweLwC",
+      "citation_id": "Maj9ubYAAAAJ:a0OBvERweLwC",
+      "authors": "P Ricaurte, M Zasso, M Cebral-Loureda",
+      "publication": "What AI can do: strengths and limitations of artificial intelligence, 39-57, 2023",
+      "cited_by": {
+        "value": 11,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4540386280060214624",
+        "serpapi_link": "https://serpapi.com/search.json?cites=4540386280060214624&engine=google_scholar&hl=en",
+        "cites_id": "4540386280060214624"
+      },
+      "year": "2023"
+    },
+    {
       "title": "A text mining analysis of human flourishing on Twitter",
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Maj9ubYAAAAJ&citation_for_view=Maj9ubYAAAAJ:-f6ydRqryjwC",
       "citation_id": "Maj9ubYAAAAJ:-f6ydRqryjwC",
@@ -137,20 +151,6 @@
         "cites_id": "15999887061937531686"
       },
       "year": "2024"
-    },
-    {
-      "title": "AI, ethics, and coloniality: A feminist critique",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Maj9ubYAAAAJ&citation_for_view=Maj9ubYAAAAJ:a0OBvERweLwC",
-      "citation_id": "Maj9ubYAAAAJ:a0OBvERweLwC",
-      "authors": "P Ricaurte, M Zasso, M Cebral-Loureda",
-      "publication": "What AI can do: strengths and limitations of artificial intelligence, 39-57, 2023",
-      "cited_by": {
-        "value": 10,
-        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4540386280060214624",
-        "serpapi_link": "https://serpapi.com/search.json?cites=4540386280060214624&engine=google_scholar&hl=en",
-        "cites_id": "4540386280060214624"
-      },
-      "year": "2023"
     },
     {
       "title": "What AI Can Do: Strengths and Limitations of Artificial Intelligence",
@@ -326,7 +326,7 @@
       {
         "citations": {
           "all": 266,
-          "since_2021": 255
+          "since_2021": 256
         }
       },
       {
@@ -365,7 +365,7 @@
       },
       {
         "year": 2026,
-        "citations": 57
+        "citations": 58
       }
     ]
   },
