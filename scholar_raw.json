@@ -1,14 +1,14 @@
 {
   "search_metadata": {
-    "id": "6ab49bf0874d50f122f5a6d9",
+    "id": "6ab5f131b463f33b41a7b126",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/h3Kn8fGON0UP1gJUoYDfifVDy7SBUTRtFCuAkkMNx-o/6ab49bf0874d50f122f5a6d9.json",
-    "markdown_endpoint": "https://serpapi.com/searches/h3Kn8fGON0UP1gJUoYDfifVDy7SBUTRtFCuAkkMNx-o/6ab49bf0874d50f122f5a6d9.md",
-    "created_at": "2026-09-24 03:41:36 UTC",
-    "processed_at": "2026-09-24 03:41:36 UTC",
+    "json_endpoint": "https://serpapi.com/searches/-ouvYiY8UzZcdadrFcBIc895TsMzJcdsRo2Xm9XjLBI/6ab5f131b463f33b41a7b126.json",
+    "markdown_endpoint": "https://serpapi.com/searches/-ouvYiY8UzZcdadrFcBIc895TsMzJcdsRo2Xm9XjLBI/6ab5f131b463f33b41a7b126.md",
+    "created_at": "2026-09-25 03:57:37 UTC",
+    "processed_at": "2026-09-25 03:57:37 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=Maj9ubYAAAAJ&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/h3Kn8fGON0UP1gJUoYDfifVDy7SBUTRtFCuAkkMNx-o/6ab49bf0874d50f122f5a6d9.html",
-    "total_time_taken": 0.84
+    "raw_html_file": "https://serpapi.com/searches/-ouvYiY8UzZcdadrFcBIc895TsMzJcdsRo2Xm9XjLBI/6ab5f131b463f33b41a7b126.html",
+    "total_time_taken": 8.68
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -479,7 +479,7 @@
       "link": "https://scholar.google.com/citations?user=oZmFEYYAAAAJ&hl=en",
       "serpapi_link": "https://serpapi.com/search.json?author_id=oZmFEYYAAAAJ&engine=google_scholar_author&hl=en",
       "author_id": "oZmFEYYAAAAJ",
-      "affiliations": "Tecnológico de Monterrey",
+      "affiliations": "Benemérita Escuela Nacional de Coahuila",
       "email": "Verified email at tec.mx",
       "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=oZmFEYYAAAAJ&citpid=2"
     },
