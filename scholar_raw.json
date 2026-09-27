@@ -1,14 +1,14 @@
 {
   "search_metadata": {
-    "id": "6ab743cb8270317a1a8e8f48",
+    "id": "6ab8986a1de0644cf2e87ab8",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/ccgqi7Zta-o3LViCcL5aR55icxqOchpX95FoWs8zj00/6ab743cb8270317a1a8e8f48.json",
-    "markdown_endpoint": "https://serpapi.com/searches/ccgqi7Zta-o3LViCcL5aR55icxqOchpX95FoWs8zj00/6ab743cb8270317a1a8e8f48.md",
-    "created_at": "2026-09-26 04:02:19 UTC",
-    "processed_at": "2026-09-26 04:02:19 UTC",
+    "json_endpoint": "https://serpapi.com/searches/PZJJPrMQ6vRAKg18bjYE6yb99ZuqiDzjb82bh-Nxn4M/6ab8986a1de0644cf2e87ab8.json",
+    "markdown_endpoint": "https://serpapi.com/searches/PZJJPrMQ6vRAKg18bjYE6yb99ZuqiDzjb82bh-Nxn4M/6ab8986a1de0644cf2e87ab8.md",
+    "created_at": "2026-09-27 04:15:38 UTC",
+    "processed_at": "2026-09-27 04:15:38 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=Maj9ubYAAAAJ&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/ccgqi7Zta-o3LViCcL5aR55icxqOchpX95FoWs8zj00/6ab743cb8270317a1a8e8f48.html",
-    "total_time_taken": 0.96
+    "raw_html_file": "https://serpapi.com/searches/PZJJPrMQ6vRAKg18bjYE6yb99ZuqiDzjb82bh-Nxn4M/6ab8986a1de0644cf2e87ab8.html",
+    "total_time_taken": 2.35
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -97,6 +97,20 @@
       "year": "2021"
     },
     {
+      "title": "AI, ethics, and coloniality: A feminist critique",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Maj9ubYAAAAJ&citation_for_view=Maj9ubYAAAAJ:a0OBvERweLwC",
+      "citation_id": "Maj9ubYAAAAJ:a0OBvERweLwC",
+      "authors": "P Ricaurte, M Zasso, M Cebral-Loureda",
+      "publication": "What AI can do: strengths and limitations of artificial intelligence, 39-57, 2023",
+      "cited_by": {
+        "value": 12,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4540386280060214624",
+        "serpapi_link": "https://serpapi.com/search.json?cites=4540386280060214624&engine=google_scholar&hl=en",
+        "cites_id": "4540386280060214624"
+      },
+      "year": "2023"
+    },
+    {
       "title": "One hundred years of neurosciences in the arts and humanities, a bibliometric review",
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Maj9ubYAAAAJ&citation_for_view=Maj9ubYAAAAJ:_Qo2XoVZTnwC",
       "citation_id": "Maj9ubYAAAAJ:_Qo2XoVZTnwC",
@@ -111,16 +125,16 @@
       "year": "2023"
     },
     {
-      "title": "AI, ethics, and coloniality: A feminist critique",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Maj9ubYAAAAJ&citation_for_view=Maj9ubYAAAAJ:a0OBvERweLwC",
-      "citation_id": "Maj9ubYAAAAJ:a0OBvERweLwC",
-      "authors": "P Ricaurte, M Zasso, M Cebral-Loureda",
-      "publication": "What AI can do: strengths and limitations of artificial intelligence, 39-57, 2023",
+      "title": "What AI Can Do: Strengths and Limitations of Artificial Intelligence",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Maj9ubYAAAAJ&citation_for_view=Maj9ubYAAAAJ:HDshCWvjkbEC",
+      "citation_id": "Maj9ubYAAAAJ:HDshCWvjkbEC",
+      "authors": "M Cebral-Loureda, EG Rincón-Flores, G Sanchez-Ante",
+      "publication": "CRC Press, 2023",
       "cited_by": {
         "value": 11,
-        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4540386280060214624",
-        "serpapi_link": "https://serpapi.com/search.json?cites=4540386280060214624&engine=google_scholar&hl=en",
-        "cites_id": "4540386280060214624"
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10629725694270304271,3427792621633079136",
+        "serpapi_link": "https://serpapi.com/search.json?cites=10629725694270304271%2C3427792621633079136&engine=google_scholar&hl=en",
+        "cites_id": "10629725694270304271,3427792621633079136"
       },
       "year": "2023"
     },
@@ -151,20 +165,6 @@
         "cites_id": "15999887061937531686"
       },
       "year": "2024"
-    },
-    {
-      "title": "What AI Can Do: Strengths and Limitations of Artificial Intelligence",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Maj9ubYAAAAJ&citation_for_view=Maj9ubYAAAAJ:HDshCWvjkbEC",
-      "citation_id": "Maj9ubYAAAAJ:HDshCWvjkbEC",
-      "authors": "M Cebral-Loureda, EG Rincón-Flores, G Sanchez-Ante",
-      "publication": "CRC Press, 2023",
-      "cited_by": {
-        "value": 10,
-        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10629725694270304271,3427792621633079136",
-        "serpapi_link": "https://serpapi.com/search.json?cites=10629725694270304271%2C3427792621633079136&engine=google_scholar&hl=en",
-        "cites_id": "10629725694270304271,3427792621633079136"
-      },
-      "year": "2023"
     },
     {
       "title": "Real-time EEG-based emotion recognition model using principal component analysis and tree-based models for neurohumanities",
@@ -325,8 +325,8 @@
     "table": [
       {
         "citations": {
-          "all": 272,
-          "since_2021": 261
+          "all": 274,
+          "since_2021": 263
         }
       },
       {
@@ -361,11 +361,11 @@
       },
       {
         "year": 2025,
-        "citations": 76
+        "citations": 77
       },
       {
         "year": 2026,
-        "citations": 63
+        "citations": 64
       }
     ]
   },
