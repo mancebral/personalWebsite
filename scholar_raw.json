@@ -1,14 +1,14 @@
 {
   "search_metadata": {
-    "id": "6ab9ea3ad355ccf09f2575e0",
+    "id": "6abb430182703186602323b9",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/e-Mp_zvkQDvIJWIURgT3O9Cd0j3dnS16t_BGMIFWyAg/6ab9ea3ad355ccf09f2575e0.json",
-    "markdown_endpoint": "https://serpapi.com/searches/e-Mp_zvkQDvIJWIURgT3O9Cd0j3dnS16t_BGMIFWyAg/6ab9ea3ad355ccf09f2575e0.md",
-    "created_at": "2026-09-28 04:16:58 UTC",
-    "processed_at": "2026-09-28 04:16:58 UTC",
+    "json_endpoint": "https://serpapi.com/searches/Ps91ftu-K1K3WrM5DL19Pta2TXVW8MqhqZBkwDsrMYg/6abb430182703186602323b9.json",
+    "markdown_endpoint": "https://serpapi.com/searches/Ps91ftu-K1K3WrM5DL19Pta2TXVW8MqhqZBkwDsrMYg/6abb430182703186602323b9.md",
+    "created_at": "2026-09-29 04:48:01 UTC",
+    "processed_at": "2026-09-29 04:48:01 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=Maj9ubYAAAAJ&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/e-Mp_zvkQDvIJWIURgT3O9Cd0j3dnS16t_BGMIFWyAg/6ab9ea3ad355ccf09f2575e0.html",
-    "total_time_taken": 1.45
+    "raw_html_file": "https://serpapi.com/searches/Ps91ftu-K1K3WrM5DL19Pta2TXVW8MqhqZBkwDsrMYg/6abb430182703186602323b9.html",
+    "total_time_taken": 7.06
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -47,7 +47,7 @@
       "authors": "M Cebral-Loureda, E Tamés-Muñoz, A Hernández-Baqueiro",
       "publication": "International journal of environmental research and public health 19 (5), 2586, 2022",
       "cited_by": {
-        "value": 50,
+        "value": 49,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15406956490543785490",
         "serpapi_link": "https://serpapi.com/search.json?cites=15406956490543785490&engine=google_scholar&hl=en",
         "cites_id": "15406956490543785490"
@@ -97,6 +97,20 @@
       "year": "2021"
     },
     {
+      "title": "What AI Can Do: Strengths and Limitations of Artificial Intelligence",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Maj9ubYAAAAJ&citation_for_view=Maj9ubYAAAAJ:HDshCWvjkbEC",
+      "citation_id": "Maj9ubYAAAAJ:HDshCWvjkbEC",
+      "authors": "M Cebral-Loureda, EG Rincón-Flores, G Sanchez-Ante",
+      "publication": "CRC Press, 2023",
+      "cited_by": {
+        "value": 14,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10629725694270304271,3427792621633079136",
+        "serpapi_link": "https://serpapi.com/search.json?cites=10629725694270304271%2C3427792621633079136&engine=google_scholar&hl=en",
+        "cites_id": "10629725694270304271,3427792621633079136"
+      },
+      "year": "2023"
+    },
+    {
       "title": "AI, ethics, and coloniality: A feminist critique",
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Maj9ubYAAAAJ&citation_for_view=Maj9ubYAAAAJ:a0OBvERweLwC",
       "citation_id": "Maj9ubYAAAAJ:a0OBvERweLwC",
@@ -121,20 +135,6 @@
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15318658979503870620",
         "serpapi_link": "https://serpapi.com/search.json?cites=15318658979503870620&engine=google_scholar&hl=en",
         "cites_id": "15318658979503870620"
-      },
-      "year": "2023"
-    },
-    {
-      "title": "What AI Can Do: Strengths and Limitations of Artificial Intelligence",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Maj9ubYAAAAJ&citation_for_view=Maj9ubYAAAAJ:HDshCWvjkbEC",
-      "citation_id": "Maj9ubYAAAAJ:HDshCWvjkbEC",
-      "authors": "M Cebral-Loureda, EG Rincón-Flores, G Sanchez-Ante",
-      "publication": "CRC Press, 2023",
-      "cited_by": {
-        "value": 11,
-        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10629725694270304271,3427792621633079136",
-        "serpapi_link": "https://serpapi.com/search.json?cites=10629725694270304271%2C3427792621633079136&engine=google_scholar&hl=en",
-        "cites_id": "10629725694270304271,3427792621633079136"
       },
       "year": "2023"
     },
@@ -325,7 +325,7 @@
     "table": [
       {
         "citations": {
-          "all": 274,
+          "all": 276,
           "since_2021": 263
         }
       },
