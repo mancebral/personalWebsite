@@ -1,14 +1,14 @@
 {
   "search_metadata": {
-    "id": "6ac0824474268ea2d1263ebf",
+    "id": "6ac1db1ab8b4a58a2cee5d4c",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/wOUooPNqNBlOMEvNVxPDIXaxFKOQKLltihT1NB7mBLM/6ac0824474268ea2d1263ebf.json",
-    "markdown_endpoint": "https://serpapi.com/searches/wOUooPNqNBlOMEvNVxPDIXaxFKOQKLltihT1NB7mBLM/6ac0824474268ea2d1263ebf.md",
-    "created_at": "2026-10-03 04:19:16 UTC",
-    "processed_at": "2026-10-03 04:19:16 UTC",
+    "json_endpoint": "https://serpapi.com/searches/oJaUv_VZRuFyXmj5EnjAXuom0lQmePFlcq6-v9YPBJA/6ac1db1ab8b4a58a2cee5d4c.json",
+    "markdown_endpoint": "https://serpapi.com/searches/oJaUv_VZRuFyXmj5EnjAXuom0lQmePFlcq6-v9YPBJA/6ac1db1ab8b4a58a2cee5d4c.md",
+    "created_at": "2026-10-04 04:50:34 UTC",
+    "processed_at": "2026-10-04 04:50:34 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=Maj9ubYAAAAJ&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/wOUooPNqNBlOMEvNVxPDIXaxFKOQKLltihT1NB7mBLM/6ac0824474268ea2d1263ebf.html",
-    "total_time_taken": 2.35
+    "raw_html_file": "https://serpapi.com/searches/oJaUv_VZRuFyXmj5EnjAXuom0lQmePFlcq6-v9YPBJA/6ac1db1ab8b4a58a2cee5d4c.html",
+    "total_time_taken": 1.21
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -117,7 +117,7 @@
       "authors": "P Ricaurte, M Zasso, M Cebral-Loureda",
       "publication": "What AI can do: strengths and limitations of artificial intelligence, 39-57, 2023",
       "cited_by": {
-        "value": 12,
+        "value": 13,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4540386280060214624",
         "serpapi_link": "https://serpapi.com/search.json?cites=4540386280060214624&engine=google_scholar&hl=en",
         "cites_id": "4540386280060214624"
@@ -173,7 +173,7 @@
       "authors": "J Sanabria-Z, M Cebral-Loureda, JM Antelis, SH Lee",
       "publication": "Cognitive Processing 26 (3), 611-624, 2025",
       "cited_by": {
-        "value": 8,
+        "value": 9,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6997050559357773005",
         "serpapi_link": "https://serpapi.com/search.json?cites=6997050559357773005&engine=google_scholar&hl=en",
         "cites_id": "6997050559357773005"
@@ -325,8 +325,8 @@
     "table": [
       {
         "citations": {
-          "all": 287,
-          "since_2021": 267
+          "all": 289,
+          "since_2021": 269
         }
       },
       {
@@ -373,7 +373,7 @@
       },
       {
         "year": 2026,
-        "citations": 66
+        "citations": 68
       }
     ]
   },
