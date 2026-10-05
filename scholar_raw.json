@@ -1,14 +1,14 @@
 {
   "search_metadata": {
-    "id": "6ac1db1ab8b4a58a2cee5d4c",
+    "id": "6ac329bc95a69422bca81ffc",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/oJaUv_VZRuFyXmj5EnjAXuom0lQmePFlcq6-v9YPBJA/6ac1db1ab8b4a58a2cee5d4c.json",
-    "markdown_endpoint": "https://serpapi.com/searches/oJaUv_VZRuFyXmj5EnjAXuom0lQmePFlcq6-v9YPBJA/6ac1db1ab8b4a58a2cee5d4c.md",
-    "created_at": "2026-10-04 04:50:34 UTC",
-    "processed_at": "2026-10-04 04:50:34 UTC",
+    "json_endpoint": "https://serpapi.com/searches/dXZbBdg-A7M74bCMNU3hn4l5tomRrWlZFsjKCtSQtjo/6ac329bc95a69422bca81ffc.json",
+    "markdown_endpoint": "https://serpapi.com/searches/dXZbBdg-A7M74bCMNU3hn4l5tomRrWlZFsjKCtSQtjo/6ac329bc95a69422bca81ffc.md",
+    "created_at": "2026-10-05 04:38:20 UTC",
+    "processed_at": "2026-10-05 04:38:20 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=Maj9ubYAAAAJ&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/oJaUv_VZRuFyXmj5EnjAXuom0lQmePFlcq6-v9YPBJA/6ac1db1ab8b4a58a2cee5d4c.html",
-    "total_time_taken": 1.21
+    "raw_html_file": "https://serpapi.com/searches/dXZbBdg-A7M74bCMNU3hn4l5tomRrWlZFsjKCtSQtjo/6ac329bc95a69422bca81ffc.html",
+    "total_time_taken": 1.23
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -103,7 +103,7 @@
       "authors": "M Cebral-Loureda, EG Rincón-Flores, G Sanchez-Ante",
       "publication": "CRC Press, 2023",
       "cited_by": {
-        "value": 23,
+        "value": 24,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10629725694270304271,3427792621633079136",
         "serpapi_link": "https://serpapi.com/search.json?cites=10629725694270304271%2C3427792621633079136&engine=google_scholar&hl=en",
         "cites_id": "10629725694270304271,3427792621633079136"
@@ -325,7 +325,7 @@
     "table": [
       {
         "citations": {
-          "all": 289,
+          "all": 290,
           "since_2021": 269
         }
       },
@@ -345,7 +345,7 @@
     "graph": [
       {
         "year": 2016,
-        "citations": 10
+        "citations": 11
       },
       {
         "year": 2019,
