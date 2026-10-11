@@ -1,14 +1,14 @@
 {
   "search_metadata": {
-    "id": "6ac9c48b124815fa2d7fb88d",
+    "id": "6acb12ec5fa7b764a288ea9f",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/XmRauWjMn8PunR1PCoCW0u1m3IvA6bstY2EPqjk43PQ/6ac9c48b124815fa2d7fb88d.json",
-    "markdown_endpoint": "https://serpapi.com/searches/XmRauWjMn8PunR1PCoCW0u1m3IvA6bstY2EPqjk43PQ/6ac9c48b124815fa2d7fb88d.md",
-    "created_at": "2026-10-10 04:52:27 UTC",
-    "processed_at": "2026-10-10 04:52:27 UTC",
+    "json_endpoint": "https://serpapi.com/searches/s9LRqVWaZqfEv4p3_rrq0fMQnkVBiwR2i4_ykD8YqY8/6acb12ec5fa7b764a288ea9f.json",
+    "markdown_endpoint": "https://serpapi.com/searches/s9LRqVWaZqfEv4p3_rrq0fMQnkVBiwR2i4_ykD8YqY8/6acb12ec5fa7b764a288ea9f.md",
+    "created_at": "2026-10-11 04:39:08 UTC",
+    "processed_at": "2026-10-11 04:39:08 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=Maj9ubYAAAAJ&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/XmRauWjMn8PunR1PCoCW0u1m3IvA6bstY2EPqjk43PQ/6ac9c48b124815fa2d7fb88d.html",
-    "total_time_taken": 0.79
+    "raw_html_file": "https://serpapi.com/searches/s9LRqVWaZqfEv4p3_rrq0fMQnkVBiwR2i4_ykD8YqY8/6acb12ec5fa7b764a288ea9f.html",
+    "total_time_taken": 3.88
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -125,6 +125,20 @@
       "year": "2023"
     },
     {
+      "title": "A text mining analysis of human flourishing on Twitter",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Maj9ubYAAAAJ&citation_for_view=Maj9ubYAAAAJ:-f6ydRqryjwC",
+      "citation_id": "Maj9ubYAAAAJ:-f6ydRqryjwC",
+      "authors": "M Cebral-Loureda, A Hernández-Baqueiro, E Tamés-Muñoz",
+      "publication": "Scientific reports 13 (1), 3403, 2023",
+      "cited_by": {
+        "value": 12,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5866566735653012213",
+        "serpapi_link": "https://serpapi.com/search.json?cites=5866566735653012213&engine=google_scholar&hl=en",
+        "cites_id": "5866566735653012213"
+      },
+      "year": "2023"
+    },
+    {
       "title": "One hundred years of neurosciences in the arts and humanities, a bibliometric review",
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Maj9ubYAAAAJ&citation_for_view=Maj9ubYAAAAJ:_Qo2XoVZTnwC",
       "citation_id": "Maj9ubYAAAAJ:_Qo2XoVZTnwC",
@@ -135,20 +149,6 @@
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15318658979503870620",
         "serpapi_link": "https://serpapi.com/search.json?cites=15318658979503870620&engine=google_scholar&hl=en",
         "cites_id": "15318658979503870620"
-      },
-      "year": "2023"
-    },
-    {
-      "title": "A text mining analysis of human flourishing on Twitter",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Maj9ubYAAAAJ&citation_for_view=Maj9ubYAAAAJ:-f6ydRqryjwC",
-      "citation_id": "Maj9ubYAAAAJ:-f6ydRqryjwC",
-      "authors": "M Cebral-Loureda, A Hernández-Baqueiro, E Tamés-Muñoz",
-      "publication": "Scientific reports 13 (1), 3403, 2023",
-      "cited_by": {
-        "value": 11,
-        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5866566735653012213",
-        "serpapi_link": "https://serpapi.com/search.json?cites=5866566735653012213&engine=google_scholar&hl=en",
-        "cites_id": "5866566735653012213"
       },
       "year": "2023"
     },
@@ -325,8 +325,8 @@
     "table": [
       {
         "citations": {
-          "all": 291,
-          "since_2021": 269
+          "all": 292,
+          "since_2021": 270
         }
       },
       {
@@ -373,7 +373,7 @@
       },
       {
         "year": 2026,
-        "citations": 68
+        "citations": 69
       }
     ]
   },
