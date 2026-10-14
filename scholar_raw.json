@@ -1,14 +1,14 @@
 {
   "search_metadata": {
-    "id": "6acdc7fa3b93e30948d355bb",
+    "id": "6acefe0daf5fdcfda624f028",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/0uvweXVai6xa-nxzJmStjTa2KttcKy8PFnNhTN5SI-Q/6acdc7fa3b93e30948d355bb.json",
-    "markdown_endpoint": "https://serpapi.com/searches/0uvweXVai6xa-nxzJmStjTa2KttcKy8PFnNhTN5SI-Q/6acdc7fa3b93e30948d355bb.md",
-    "created_at": "2026-10-13 05:56:10 UTC",
-    "processed_at": "2026-10-13 05:56:10 UTC",
+    "json_endpoint": "https://serpapi.com/searches/SqfnmnmsfeUIPaMOn_0pq61ZrpN1iX4uOiQb4MNYfRo/6acefe0daf5fdcfda624f028.json",
+    "markdown_endpoint": "https://serpapi.com/searches/SqfnmnmsfeUIPaMOn_0pq61ZrpN1iX4uOiQb4MNYfRo/6acefe0daf5fdcfda624f028.md",
+    "created_at": "2026-10-14 03:59:09 UTC",
+    "processed_at": "2026-10-14 03:59:09 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=Maj9ubYAAAAJ&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/0uvweXVai6xa-nxzJmStjTa2KttcKy8PFnNhTN5SI-Q/6acdc7fa3b93e30948d355bb.html",
-    "total_time_taken": 6.75
+    "raw_html_file": "https://serpapi.com/searches/SqfnmnmsfeUIPaMOn_0pq61ZrpN1iX4uOiQb4MNYfRo/6acefe0daf5fdcfda624f028.html",
+    "total_time_taken": 0.67
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -47,7 +47,7 @@
       "authors": "M Cebral-Loureda, E Tamés-Muñoz, A Hernández-Baqueiro",
       "publication": "International journal of environmental research and public health 19 (5), 2586, 2022",
       "cited_by": {
-        "value": 50,
+        "value": 49,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15406956490543785490",
         "serpapi_link": "https://serpapi.com/search.json?cites=15406956490543785490&engine=google_scholar&hl=en",
         "cites_id": "15406956490543785490"
@@ -326,7 +326,7 @@
       {
         "citations": {
           "all": 294,
-          "since_2021": 271
+          "since_2021": 272
         }
       },
       {
@@ -373,7 +373,7 @@
       },
       {
         "year": 2026,
-        "citations": 70
+        "citations": 71
       }
     ]
   },
@@ -537,6 +537,15 @@
       "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
     },
     {
+      "name": "Juan C. Tudon-Martinez",
+      "link": "https://scholar.google.com/citations?user=M8_8M58AAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=M8_8M58AAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "M8_8M58AAAAJ",
+      "affiliations": "Professor-researcher, School of Engineering and Sciences, Tecnológico de Monterrey",
+      "email": "Verified email at tec.mx",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=M8_8M58AAAAJ&citpid=12"
+    },
+    {
       "name": "Luis F. Morán-Mirabal",
       "link": "https://scholar.google.com/citations?user=swWRcRQAAAAJ&hl=en",
       "serpapi_link": "https://serpapi.com/search.json?author_id=swWRcRQAAAAJ&engine=google_scholar_author&hl=en",
@@ -553,15 +562,6 @@
       "affiliations": "Tecnologico de Monterrey, School of Engineering and Sciences",
       "email": "Verified email at tec.mx",
       "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=4tax0PIAAAAJ&citpid=2"
-    },
-    {
-      "name": "Steven S. Gouveia",
-      "link": "https://scholar.google.com/citations?user=1QFdeUUAAAAJ&hl=en",
-      "serpapi_link": "https://serpapi.com/search.json?author_id=1QFdeUUAAAAJ&engine=google_scholar_author&hl=en",
-      "author_id": "1QFdeUUAAAAJ",
-      "affiliations": "University of Porto",
-      "email": "Verified email at letras.up.pt",
-      "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
     }
   ],
   "serpapi_pagination": {
