@@ -1,14 +1,14 @@
 {
   "search_metadata": {
-    "id": "6acefe0daf5fdcfda624f028",
+    "id": "6ad04b4741ffc8449e38bc03",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/SqfnmnmsfeUIPaMOn_0pq61ZrpN1iX4uOiQb4MNYfRo/6acefe0daf5fdcfda624f028.json",
-    "markdown_endpoint": "https://serpapi.com/searches/SqfnmnmsfeUIPaMOn_0pq61ZrpN1iX4uOiQb4MNYfRo/6acefe0daf5fdcfda624f028.md",
-    "created_at": "2026-10-14 03:59:09 UTC",
-    "processed_at": "2026-10-14 03:59:09 UTC",
+    "json_endpoint": "https://serpapi.com/searches/KRmXFcRJUP96qK3FWX_1ZIfPXyR_3sQgUwG7aoNO3FA/6ad04b4741ffc8449e38bc03.json",
+    "markdown_endpoint": "https://serpapi.com/searches/KRmXFcRJUP96qK3FWX_1ZIfPXyR_3sQgUwG7aoNO3FA/6ad04b4741ffc8449e38bc03.md",
+    "created_at": "2026-10-15 03:40:55 UTC",
+    "processed_at": "2026-10-15 03:40:55 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=Maj9ubYAAAAJ&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/SqfnmnmsfeUIPaMOn_0pq61ZrpN1iX4uOiQb4MNYfRo/6acefe0daf5fdcfda624f028.html",
-    "total_time_taken": 0.67
+    "raw_html_file": "https://serpapi.com/searches/KRmXFcRJUP96qK3FWX_1ZIfPXyR_3sQgUwG7aoNO3FA/6ad04b4741ffc8449e38bc03.html",
+    "total_time_taken": 5.97
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -501,6 +501,15 @@
       "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=DO9J0SQAAAAJ&citpid=5"
     },
     {
+      "name": "Paola Ricaurte",
+      "link": "https://scholar.google.com/citations?user=Td3Gz8gAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=Td3Gz8gAAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "Td3Gz8gAAAAJ",
+      "affiliations": "Tecnológico de Monterrey, Berkman Klein Center for Internet & Society",
+      "email": "Verified email at cyber.harvard.edu",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=Td3Gz8gAAAAJ&citpid=24"
+    },
+    {
       "name": "Héctor G. Ceballos Cancino",
       "link": "https://scholar.google.com/citations?user=ok9bB_kAAAAJ&hl=en",
       "serpapi_link": "https://serpapi.com/search.json?author_id=ok9bB_kAAAAJ&engine=google_scholar_author&hl=en",
@@ -553,15 +562,6 @@
       "affiliations": "Tecnologico de Monterrey",
       "email": "Verified email at tec.mx",
       "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=swWRcRQAAAAJ&citpid=1"
-    },
-    {
-      "name": "Joanna Alvarado-Uribe",
-      "link": "https://scholar.google.com/citations?user=4tax0PIAAAAJ&hl=en",
-      "serpapi_link": "https://serpapi.com/search.json?author_id=4tax0PIAAAAJ&engine=google_scholar_author&hl=en",
-      "author_id": "4tax0PIAAAAJ",
-      "affiliations": "Tecnologico de Monterrey, School of Engineering and Sciences",
-      "email": "Verified email at tec.mx",
-      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=4tax0PIAAAAJ&citpid=2"
     }
   ],
   "serpapi_pagination": {
