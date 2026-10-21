@@ -1,14 +1,14 @@
 {
   "search_metadata": {
-    "id": "6ad6e63de6cb301f5ae57308",
+    "id": "6ad8353feb6ec549e2f4559e",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/4YoWWsX7nK-f3G8rWWtjx05j3QEx_HlxmGtlFtw-8gQ/6ad6e63de6cb301f5ae57308.json",
-    "markdown_endpoint": "https://serpapi.com/searches/4YoWWsX7nK-f3G8rWWtjx05j3QEx_HlxmGtlFtw-8gQ/6ad6e63de6cb301f5ae57308.md",
-    "created_at": "2026-10-20 03:55:41 UTC",
-    "processed_at": "2026-10-20 03:55:41 UTC",
+    "json_endpoint": "https://serpapi.com/searches/zSf0Ht-ioFaRiP4pMPqIoiOysdqymWGXIdyk1NlWO6w/6ad8353feb6ec549e2f4559e.json",
+    "markdown_endpoint": "https://serpapi.com/searches/zSf0Ht-ioFaRiP4pMPqIoiOysdqymWGXIdyk1NlWO6w/6ad8353feb6ec549e2f4559e.md",
+    "created_at": "2026-10-21 03:45:03 UTC",
+    "processed_at": "2026-10-21 03:45:03 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=Maj9ubYAAAAJ&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/4YoWWsX7nK-f3G8rWWtjx05j3QEx_HlxmGtlFtw-8gQ/6ad6e63de6cb301f5ae57308.html",
-    "total_time_taken": 1.85
+    "raw_html_file": "https://serpapi.com/searches/zSf0Ht-ioFaRiP4pMPqIoiOysdqymWGXIdyk1NlWO6w/6ad8353feb6ec549e2f4559e.html",
+    "total_time_taken": 0.45
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -47,7 +47,7 @@
       "authors": "M Cebral-Loureda, E Tamés-Muñoz, A Hernández-Baqueiro",
       "publication": "International journal of environmental research and public health 19 (5), 2586, 2022",
       "cited_by": {
-        "value": 50,
+        "value": 49,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15406956490543785490",
         "serpapi_link": "https://serpapi.com/search.json?cites=15406956490543785490&engine=google_scholar&hl=en",
         "cites_id": "15406956490543785490"
@@ -61,7 +61,7 @@
       "authors": "MA Blanco-Ríos, MO Candela-Leal, C Orozco-Romo, P Remis-Serna, ...",
       "publication": "Frontiers in Human Neuroscience 18, 1319574, 2024",
       "cited_by": {
-        "value": 39,
+        "value": 40,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6591095613140752943",
         "serpapi_link": "https://serpapi.com/search.json?cites=6591095613140752943&engine=google_scholar&hl=en",
         "cites_id": "6591095613140752943"
@@ -326,7 +326,7 @@
       {
         "citations": {
           "all": 297,
-          "since_2021": 274
+          "since_2021": 275
         }
       },
       {
@@ -373,7 +373,7 @@
       },
       {
         "year": 2026,
-        "citations": 72
+        "citations": 73
       }
     ]
   },
@@ -447,15 +447,6 @@
       "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=7L5zSesAAAAJ&citpid=4"
     },
     {
-      "name": "Alexandro Antonio Ortiz Espinoza",
-      "link": "https://scholar.google.com/citations?user=jro4VpAAAAAJ&hl=en",
-      "serpapi_link": "https://serpapi.com/search.json?author_id=jro4VpAAAAAJ&engine=google_scholar_author&hl=en",
-      "author_id": "jro4VpAAAAAJ",
-      "affiliations": "Tecnologico de Monterrey",
-      "email": "Verified email at tec.mx",
-      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=jro4VpAAAAAJ&citpid=1"
-    },
-    {
       "name": "Miguel Alejandro Blanco Rios",
       "link": "https://scholar.google.com/citations?user=euPS2jYAAAAJ&hl=en",
       "serpapi_link": "https://serpapi.com/search.json?author_id=euPS2jYAAAAJ&engine=google_scholar_author&hl=en",
@@ -463,6 +454,15 @@
       "affiliations": "Data Analyst, Research Assistant",
       "email": "Verified email at uanl.edu.mx",
       "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=euPS2jYAAAAJ&citpid=1"
+    },
+    {
+      "name": "Alexandro Antonio Ortiz Espinoza",
+      "link": "https://scholar.google.com/citations?user=jro4VpAAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=jro4VpAAAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "jro4VpAAAAAJ",
+      "affiliations": "Tecnologico de Monterrey",
+      "email": "Verified email at tec.mx",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=jro4VpAAAAAJ&citpid=1"
     },
     {
       "name": "Dra. Elvira G. RINCON-FLORES",
