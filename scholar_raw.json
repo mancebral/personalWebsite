@@ -1,14 +1,14 @@
 {
   "search_metadata": {
-    "id": "6add7a82aa2554bc8a738c85",
+    "id": "6adeccdb7b5ec09695795505",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/nkeMHSvOtsFoAqeP5yuDTtIXNjfQLjsjspD0-OjJCGc/6add7a82aa2554bc8a738c85.json",
-    "markdown_endpoint": "https://serpapi.com/searches/nkeMHSvOtsFoAqeP5yuDTtIXNjfQLjsjspD0-OjJCGc/6add7a82aa2554bc8a738c85.md",
-    "created_at": "2026-10-25 03:41:54 UTC",
-    "processed_at": "2026-10-25 03:41:54 UTC",
+    "json_endpoint": "https://serpapi.com/searches/b2HkveHWWQtEO7y_SU_sQY8f0ISkWw9tPU01maBLEbQ/6adeccdb7b5ec09695795505.json",
+    "markdown_endpoint": "https://serpapi.com/searches/b2HkveHWWQtEO7y_SU_sQY8f0ISkWw9tPU01maBLEbQ/6adeccdb7b5ec09695795505.md",
+    "created_at": "2026-10-26 03:45:31 UTC",
+    "processed_at": "2026-10-26 03:45:31 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=Maj9ubYAAAAJ&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/nkeMHSvOtsFoAqeP5yuDTtIXNjfQLjsjspD0-OjJCGc/6add7a82aa2554bc8a738c85.html",
-    "total_time_taken": 3.0
+    "raw_html_file": "https://serpapi.com/searches/b2HkveHWWQtEO7y_SU_sQY8f0ISkWw9tPU01maBLEbQ/6adeccdb7b5ec09695795505.html",
+    "total_time_taken": 1.03
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -47,7 +47,7 @@
       "authors": "M Cebral-Loureda, E Tamés-Muñoz, A Hernández-Baqueiro",
       "publication": "International journal of environmental research and public health 19 (5), 2586, 2022",
       "cited_by": {
-        "value": 49,
+        "value": 50,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15406956490543785490",
         "serpapi_link": "https://serpapi.com/search.json?cites=15406956490543785490&engine=google_scholar&hl=en",
         "cites_id": "15406956490543785490"
@@ -325,8 +325,8 @@
     "table": [
       {
         "citations": {
-          "all": 297,
-          "since_2021": 275
+          "all": 298,
+          "since_2021": 276
         }
       },
       {
@@ -345,7 +345,7 @@
     "graph": [
       {
         "year": 2016,
-        "citations": 12
+        "citations": 11
       },
       {
         "year": 2019,
@@ -369,7 +369,7 @@
       },
       {
         "year": 2025,
-        "citations": 79
+        "citations": 80
       },
       {
         "year": 2026,
