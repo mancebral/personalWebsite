@@ -1,14 +1,14 @@
 {
   "search_metadata": {
-    "id": "6ae023bdaa255438b423bf35",
+    "id": "6ae17bd300269439ac5fe251",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/oRQn8Z69ZQnYHnzSnfoA-zSdlw37Jgwjr8ZmkM8poo0/6ae023bdaa255438b423bf35.json",
-    "markdown_endpoint": "https://serpapi.com/searches/oRQn8Z69ZQnYHnzSnfoA-zSdlw37Jgwjr8ZmkM8poo0/6ae023bdaa255438b423bf35.md",
-    "created_at": "2026-10-27 04:08:29 UTC",
-    "processed_at": "2026-10-27 04:08:29 UTC",
+    "json_endpoint": "https://serpapi.com/searches/meBvu6S2lITRq15GSZyrTSyBBurnH1sU3HOxQ6klWX8/6ae17bd300269439ac5fe251.json",
+    "markdown_endpoint": "https://serpapi.com/searches/meBvu6S2lITRq15GSZyrTSyBBurnH1sU3HOxQ6klWX8/6ae17bd300269439ac5fe251.md",
+    "created_at": "2026-10-28 04:36:35 UTC",
+    "processed_at": "2026-10-28 04:36:35 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=Maj9ubYAAAAJ&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/oRQn8Z69ZQnYHnzSnfoA-zSdlw37Jgwjr8ZmkM8poo0/6ae023bdaa255438b423bf35.html",
-    "total_time_taken": 7.55
+    "raw_html_file": "https://serpapi.com/searches/meBvu6S2lITRq15GSZyrTSyBBurnH1sU3HOxQ6klWX8/6ae17bd300269439ac5fe251.html",
+    "total_time_taken": 2.35
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -326,7 +326,7 @@
       {
         "citations": {
           "all": 298,
-          "since_2021": 276
+          "since_2021": 287
         }
       },
       {
@@ -343,14 +343,6 @@
       }
     ],
     "graph": [
-      {
-        "year": 2016,
-        "citations": 11
-      },
-      {
-        "year": 2019,
-        "citations": 1
-      },
       {
         "year": 2021,
         "citations": 14
@@ -369,7 +361,7 @@
       },
       {
         "year": 2025,
-        "citations": 80
+        "citations": 91
       },
       {
         "year": 2026,
@@ -492,6 +484,15 @@
       "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=oZmFEYYAAAAJ&citpid=2"
     },
     {
+      "name": "Tim Lomas",
+      "link": "https://scholar.google.com/citations?user=rFLmbpcAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=rFLmbpcAAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "rFLmbpcAAAAJ",
+      "affiliations": "Harvard University",
+      "email": "Verified email at hsph.harvard.edu",
+      "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
+    },
+    {
       "name": "Mariana Reyes Abundes",
       "link": "https://scholar.google.com/citations?user=DO9J0SQAAAAJ&hl=en",
       "serpapi_link": "https://serpapi.com/search.json?author_id=DO9J0SQAAAAJ&engine=google_scholar_author&hl=en",
@@ -535,15 +536,6 @@
       "affiliations": "Tecnológico de Monterrey",
       "email": "Verified email at tec.mx",
       "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=9YnDZdAAAAAJ&citpid=1"
-    },
-    {
-      "name": "Tim Lomas",
-      "link": "https://scholar.google.com/citations?user=rFLmbpcAAAAJ&hl=en",
-      "serpapi_link": "https://serpapi.com/search.json?author_id=rFLmbpcAAAAJ&engine=google_scholar_author&hl=en",
-      "author_id": "rFLmbpcAAAAJ",
-      "affiliations": "Harvard University",
-      "email": "Verified email at hsph.harvard.edu",
-      "thumbnail": "https://scholar.google.com/citations/images/avatar_scholar_56.png"
     },
     {
       "name": "Juan C. Tudon-Martinez",
