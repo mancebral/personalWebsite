@@ -1,14 +1,14 @@
 {
   "search_metadata": {
-    "id": "6ae2d0aa708a37072d020266",
+    "id": "6ae42212a5b1164bd5bf773e",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/-TDT6tV5p-8sT06NQqhtDNivF6IpUPMKY4ZVf_jfn0o/6ae2d0aa708a37072d020266.json",
-    "markdown_endpoint": "https://serpapi.com/searches/-TDT6tV5p-8sT06NQqhtDNivF6IpUPMKY4ZVf_jfn0o/6ae2d0aa708a37072d020266.md",
-    "created_at": "2026-10-29 04:50:50 UTC",
-    "processed_at": "2026-10-29 04:50:50 UTC",
+    "json_endpoint": "https://serpapi.com/searches/nfpU4OVudHuwk9KQ5tup7XgpGzC8muH2Yiq_ThyzYrQ/6ae42212a5b1164bd5bf773e.json",
+    "markdown_endpoint": "https://serpapi.com/searches/nfpU4OVudHuwk9KQ5tup7XgpGzC8muH2Yiq_ThyzYrQ/6ae42212a5b1164bd5bf773e.md",
+    "created_at": "2026-10-30 04:50:26 UTC",
+    "processed_at": "2026-10-30 04:50:26 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=Maj9ubYAAAAJ&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/-TDT6tV5p-8sT06NQqhtDNivF6IpUPMKY4ZVf_jfn0o/6ae2d0aa708a37072d020266.html",
-    "total_time_taken": 6.13
+    "raw_html_file": "https://serpapi.com/searches/nfpU4OVudHuwk9KQ5tup7XgpGzC8muH2Yiq_ThyzYrQ/6ae42212a5b1164bd5bf773e.html",
+    "total_time_taken": 2.0
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -47,7 +47,7 @@
       "authors": "M Cebral-Loureda, E Tamés-Muñoz, A Hernández-Baqueiro",
       "publication": "International journal of environmental research and public health 19 (5), 2586, 2022",
       "cited_by": {
-        "value": 50,
+        "value": 49,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15406956490543785490",
         "serpapi_link": "https://serpapi.com/search.json?cites=15406956490543785490&engine=google_scholar&hl=en",
         "cites_id": "15406956490543785490"
@@ -103,7 +103,7 @@
       "authors": "M Cebral-Loureda, EG Rincón-Flores, G Sanchez-Ante",
       "publication": "CRC Press, 2023",
       "cited_by": {
-        "value": 25,
+        "value": 24,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10629725694270304271,3427792621633079136",
         "serpapi_link": "https://serpapi.com/search.json?cites=10629725694270304271%2C3427792621633079136&engine=google_scholar&hl=en",
         "cites_id": "10629725694270304271,3427792621633079136"
@@ -325,8 +325,8 @@
     "table": [
       {
         "citations": {
-          "all": 298,
-          "since_2021": 287
+          "all": 296,
+          "since_2021": 282
         }
       },
       {
@@ -357,11 +357,11 @@
       },
       {
         "year": 2024,
-        "citations": 65
+        "citations": 64
       },
       {
         "year": 2025,
-        "citations": 91
+        "citations": 87
       },
       {
         "year": 2026,
@@ -371,8 +371,8 @@
   },
   "public_access": {
     "link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=Maj9ubYAAAAJ",
-    "available": 2,
-    "not_available": 0
+    "available": 1,
+    "not_available": 1
   },
   "co_authors": [
     {
