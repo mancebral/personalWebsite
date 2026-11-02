@@ -1,14 +1,14 @@
 {
   "search_metadata": {
-    "id": "6ae6c651c066808c226f56f7",
+    "id": "6ae8180c0bbc383a04f32c6c",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/Eim4zXxKyLUlW69epRjyENsZai5KD9nfcsZ8ej0yOG4/6ae6c651c066808c226f56f7.json",
-    "markdown_endpoint": "https://serpapi.com/searches/Eim4zXxKyLUlW69epRjyENsZai5KD9nfcsZ8ej0yOG4/6ae6c651c066808c226f56f7.md",
-    "created_at": "2026-11-01 04:55:45 UTC",
-    "processed_at": "2026-11-01 04:55:45 UTC",
+    "json_endpoint": "https://serpapi.com/searches/0v48w0vkGyRIcq9phm-rmi7IE-E_-cit88SUSOWFgnY/6ae8180c0bbc383a04f32c6c.json",
+    "markdown_endpoint": "https://serpapi.com/searches/0v48w0vkGyRIcq9phm-rmi7IE-E_-cit88SUSOWFgnY/6ae8180c0bbc383a04f32c6c.md",
+    "created_at": "2026-11-02 04:56:44 UTC",
+    "processed_at": "2026-11-02 04:56:44 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=Maj9ubYAAAAJ&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/Eim4zXxKyLUlW69epRjyENsZai5KD9nfcsZ8ej0yOG4/6ae6c651c066808c226f56f7.html",
-    "total_time_taken": 0.93
+    "raw_html_file": "https://serpapi.com/searches/0v48w0vkGyRIcq9phm-rmi7IE-E_-cit88SUSOWFgnY/6ae8180c0bbc383a04f32c6c.html",
+    "total_time_taken": 5.74
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -103,7 +103,7 @@
       "authors": "M Cebral-Loureda, EG Rincón-Flores, G Sanchez-Ante",
       "publication": "CRC Press, 2023",
       "cited_by": {
-        "value": 25,
+        "value": 24,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10629725694270304271,3427792621633079136",
         "serpapi_link": "https://serpapi.com/search.json?cites=10629725694270304271%2C3427792621633079136&engine=google_scholar&hl=en",
         "cites_id": "10629725694270304271,3427792621633079136"
@@ -325,8 +325,8 @@
     "table": [
       {
         "citations": {
-          "all": 299,
-          "since_2021": 283
+          "all": 298,
+          "since_2021": 281
         }
       },
       {
@@ -345,7 +345,7 @@
     "graph": [
       {
         "year": 2016,
-        "citations": 6
+        "citations": 7
       },
       {
         "year": 2019,
@@ -365,11 +365,11 @@
       },
       {
         "year": 2024,
-        "citations": 66
+        "citations": 65
       },
       {
         "year": 2025,
-        "citations": 85
+        "citations": 84
       },
       {
         "year": 2026,
@@ -379,8 +379,8 @@
   },
   "public_access": {
     "link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=Maj9ubYAAAAJ",
-    "available": 1,
-    "not_available": 1
+    "available": 2,
+    "not_available": 0
   },
   "co_authors": [
     {
