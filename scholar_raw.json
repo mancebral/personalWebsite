@@ -1,14 +1,14 @@
 {
   "search_metadata": {
-    "id": "6b03db61d65b8c7407ded842",
+    "id": "6b0550da122bd10865a72074",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/elkUt0-QedcTxu_z8vJfEwPiCyxz-2ITQR9500nxQXQ/6b03db61d65b8c7407ded842.json",
-    "markdown_endpoint": "https://serpapi.com/searches/elkUt0-QedcTxu_z8vJfEwPiCyxz-2ITQR9500nxQXQ/6b03db61d65b8c7407ded842.md",
-    "created_at": "2026-11-23 06:21:21 UTC",
-    "processed_at": "2026-11-23 06:21:21 UTC",
+    "json_endpoint": "https://serpapi.com/searches/siIfdI62atgbOhyXmMrL8wt7pnsCrXdFzJWr0kC_6ow/6b0550da122bd10865a72074.json",
+    "markdown_endpoint": "https://serpapi.com/searches/siIfdI62atgbOhyXmMrL8wt7pnsCrXdFzJWr0kC_6ow/6b0550da122bd10865a72074.md",
+    "created_at": "2026-11-24 08:54:50 UTC",
+    "processed_at": "2026-11-24 08:54:50 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=Maj9ubYAAAAJ&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/elkUt0-QedcTxu_z8vJfEwPiCyxz-2ITQR9500nxQXQ/6b03db61d65b8c7407ded842.html",
-    "total_time_taken": 4.36
+    "raw_html_file": "https://serpapi.com/searches/siIfdI62atgbOhyXmMrL8wt7pnsCrXdFzJWr0kC_6ow/6b0550da122bd10865a72074.html",
+    "total_time_taken": 0.89
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -139,6 +139,20 @@
       "year": "2023"
     },
     {
+      "title": "Augmented reality in educational innovation: a literature mapping review",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Maj9ubYAAAAJ&citation_for_view=Maj9ubYAAAAJ:bEWYMUwI8FkC",
+      "citation_id": "Maj9ubYAAAAJ:bEWYMUwI8FkC",
+      "authors": "D Velarde-Camaqui, J Sanabria-Z, MS Ramírez-Montoya, ...",
+      "publication": "International Conference on Communication and Applied Technologies, 49-58, 2024",
+      "cited_by": {
+        "value": 11,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15999887061937531686",
+        "serpapi_link": "https://serpapi.com/search.json?cites=15999887061937531686&engine=google_scholar&hl=en",
+        "cites_id": "15999887061937531686"
+      },
+      "year": "2024"
+    },
+    {
       "title": "One hundred years of neurosciences in the arts and humanities, a bibliometric review",
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Maj9ubYAAAAJ&citation_for_view=Maj9ubYAAAAJ:_Qo2XoVZTnwC",
       "citation_id": "Maj9ubYAAAAJ:_Qo2XoVZTnwC",
@@ -151,20 +165,6 @@
         "cites_id": "15318658979503870620"
       },
       "year": "2023"
-    },
-    {
-      "title": "Augmented reality in educational innovation: a literature mapping review",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Maj9ubYAAAAJ&citation_for_view=Maj9ubYAAAAJ:bEWYMUwI8FkC",
-      "citation_id": "Maj9ubYAAAAJ:bEWYMUwI8FkC",
-      "authors": "D Velarde-Camaqui, J Sanabria-Z, MS Ramírez-Montoya, ...",
-      "publication": "International Conference on Communication and Applied Technologies, 49-58, 2024",
-      "cited_by": {
-        "value": 10,
-        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15999887061937531686",
-        "serpapi_link": "https://serpapi.com/search.json?cites=15999887061937531686&engine=google_scholar&hl=en",
-        "cites_id": "15999887061937531686"
-      },
-      "year": "2024"
     },
     {
       "title": "Advances in complex thinking and neurotechnologies in education: a bibliometric analysis of research trends",
@@ -181,6 +181,20 @@
       "year": "2025"
     },
     {
+      "title": "Love as a concept in academic research: A bibliometric review",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Maj9ubYAAAAJ&citation_for_view=Maj9ubYAAAAJ:YFjsv_pBGBYC",
+      "citation_id": "Maj9ubYAAAAJ:YFjsv_pBGBYC",
+      "authors": "M Cebral-Loureda, MT Lee, A Hernández-Baqueiro, T Lomas, ...",
+      "publication": "Methods in psychology 11, 100153, 2024",
+      "cited_by": {
+        "value": 8,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17209127931677487993",
+        "serpapi_link": "https://serpapi.com/search.json?cites=17209127931677487993&engine=google_scholar&hl=en",
+        "cites_id": "17209127931677487993"
+      },
+      "year": "2024"
+    },
+    {
       "title": "Real-time EEG-based emotion recognition model using principal component analysis and tree-based models for neurohumanities",
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Maj9ubYAAAAJ&citation_for_view=Maj9ubYAAAAJ:4JMBOYKVnBMC",
       "citation_id": "Maj9ubYAAAAJ:4JMBOYKVnBMC",
@@ -191,20 +205,6 @@
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16370505158041638748",
         "serpapi_link": "https://serpapi.com/search.json?cites=16370505158041638748&engine=google_scholar&hl=en",
         "cites_id": "16370505158041638748"
-      },
-      "year": "2024"
-    },
-    {
-      "title": "Love as a concept in academic research: A bibliometric review",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Maj9ubYAAAAJ&citation_for_view=Maj9ubYAAAAJ:YFjsv_pBGBYC",
-      "citation_id": "Maj9ubYAAAAJ:YFjsv_pBGBYC",
-      "authors": "M Cebral-Loureda, MT Lee, A Hernández-Baqueiro, T Lomas, ...",
-      "publication": "Methods in psychology 11, 100153, 2024",
-      "cited_by": {
-        "value": 7,
-        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17209127931677487993",
-        "serpapi_link": "https://serpapi.com/search.json?cites=17209127931677487993&engine=google_scholar&hl=en",
-        "cites_id": "17209127931677487993"
       },
       "year": "2024"
     },
@@ -325,8 +325,8 @@
     "table": [
       {
         "citations": {
-          "all": 300,
-          "since_2021": 278
+          "all": 302,
+          "since_2021": 280
         }
       },
       {
@@ -369,7 +369,7 @@
       },
       {
         "year": 2025,
-        "citations": 79
+        "citations": 80
       },
       {
         "year": 2026,
