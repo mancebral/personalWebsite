@@ -1,14 +1,14 @@
 {
   "search_metadata": {
-    "id": "6b07dd959f4a371f511b23e0",
+    "id": "6b092e38f8b254f8c1cebb8f",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/Hy2nv2RhCxMCneyEePktK83x_kdY_NuOXB4U6xbpYqM/6b07dd959f4a371f511b23e0.json",
-    "markdown_endpoint": "https://serpapi.com/searches/Hy2nv2RhCxMCneyEePktK83x_kdY_NuOXB4U6xbpYqM/6b07dd959f4a371f511b23e0.md",
-    "created_at": "2026-11-26 07:19:49 UTC",
-    "processed_at": "2026-11-26 07:19:49 UTC",
+    "json_endpoint": "https://serpapi.com/searches/ql2k1PzOOZ5qzwVoeHws99BllnV53VN58VgV2tp03vI/6b092e38f8b254f8c1cebb8f.json",
+    "markdown_endpoint": "https://serpapi.com/searches/ql2k1PzOOZ5qzwVoeHws99BllnV53VN58VgV2tp03vI/6b092e38f8b254f8c1cebb8f.md",
+    "created_at": "2026-11-27 07:16:08 UTC",
+    "processed_at": "2026-11-27 07:16:08 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=Maj9ubYAAAAJ&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/Hy2nv2RhCxMCneyEePktK83x_kdY_NuOXB4U6xbpYqM/6b07dd959f4a371f511b23e0.html",
-    "total_time_taken": 5.07
+    "raw_html_file": "https://serpapi.com/searches/ql2k1PzOOZ5qzwVoeHws99BllnV53VN58VgV2tp03vI/6b092e38f8b254f8c1cebb8f.html",
+    "total_time_taken": 2.1
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -47,7 +47,7 @@
       "authors": "M Cebral-Loureda, E Tamés-Muñoz, A Hernández-Baqueiro",
       "publication": "International journal of environmental research and public health 19 (5), 2586, 2022",
       "cited_by": {
-        "value": 50,
+        "value": 49,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15406956490543785490",
         "serpapi_link": "https://serpapi.com/search.json?cites=15406956490543785490&engine=google_scholar&hl=en",
         "cites_id": "15406956490543785490"
@@ -61,7 +61,7 @@
       "authors": "MA Blanco-Ríos, MO Candela-Leal, C Orozco-Romo, P Remis-Serna, ...",
       "publication": "Frontiers in Human Neuroscience 18, 1319574, 2024",
       "cited_by": {
-        "value": 41,
+        "value": 42,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6591095613140752943",
         "serpapi_link": "https://serpapi.com/search.json?cites=6591095613140752943&engine=google_scholar&hl=en",
         "cites_id": "6591095613140752943"
@@ -89,7 +89,7 @@
       "authors": "M Cebral-Loureda, GE Sued-Palmeiro",
       "publication": "Cuadernos Info, 1-25, 2021",
       "cited_by": {
-        "value": 27,
+        "value": 28,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11946846245364550045,15032141721932706624,2150780772861662179",
         "serpapi_link": "https://serpapi.com/search.json?cites=11946846245364550045%2C15032141721932706624%2C2150780772861662179&engine=google_scholar&hl=en",
         "cites_id": "11946846245364550045,15032141721932706624,2150780772861662179"
@@ -325,8 +325,8 @@
     "table": [
       {
         "citations": {
-          "all": 304,
-          "since_2021": 281
+          "all": 306,
+          "since_2021": 283
         }
       },
       {
@@ -373,7 +373,7 @@
       },
       {
         "year": 2026,
-        "citations": 76
+        "citations": 78
       }
     ]
   },
