@@ -1,14 +1,14 @@
 {
   "search_metadata": {
-    "id": "6b092e38f8b254f8c1cebb8f",
+    "id": "6b0a7962ce7719e2f9a7b585",
     "status": "Success",
-    "json_endpoint": "https://serpapi.com/searches/ql2k1PzOOZ5qzwVoeHws99BllnV53VN58VgV2tp03vI/6b092e38f8b254f8c1cebb8f.json",
-    "markdown_endpoint": "https://serpapi.com/searches/ql2k1PzOOZ5qzwVoeHws99BllnV53VN58VgV2tp03vI/6b092e38f8b254f8c1cebb8f.md",
-    "created_at": "2026-11-27 07:16:08 UTC",
-    "processed_at": "2026-11-27 07:16:08 UTC",
+    "json_endpoint": "https://serpapi.com/searches/HC1pUb-1H5UmwkZrzWEuZ5-g6HGN14QwFArZ-Uwvnl8/6b0a7962ce7719e2f9a7b585.json",
+    "markdown_endpoint": "https://serpapi.com/searches/HC1pUb-1H5UmwkZrzWEuZ5-g6HGN14QwFArZ-Uwvnl8/6b0a7962ce7719e2f9a7b585.md",
+    "created_at": "2026-11-28 06:49:06 UTC",
+    "processed_at": "2026-11-28 06:49:06 UTC",
     "google_scholar_author_url": "https://scholar.google.com/citations?user=Maj9ubYAAAAJ&hl=en",
-    "raw_html_file": "https://serpapi.com/searches/ql2k1PzOOZ5qzwVoeHws99BllnV53VN58VgV2tp03vI/6b092e38f8b254f8c1cebb8f.html",
-    "total_time_taken": 2.1
+    "raw_html_file": "https://serpapi.com/searches/HC1pUb-1H5UmwkZrzWEuZ5-g6HGN14QwFArZ-Uwvnl8/6b0a7962ce7719e2f9a7b585.html",
+    "total_time_taken": 0.43
   },
   "search_parameters": {
     "engine": "google_scholar_author",
@@ -47,7 +47,7 @@
       "authors": "M Cebral-Loureda, E Tamés-Muñoz, A Hernández-Baqueiro",
       "publication": "International journal of environmental research and public health 19 (5), 2586, 2022",
       "cited_by": {
-        "value": 49,
+        "value": 50,
         "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15406956490543785490",
         "serpapi_link": "https://serpapi.com/search.json?cites=15406956490543785490&engine=google_scholar&hl=en",
         "cites_id": "15406956490543785490"
@@ -251,6 +251,20 @@
       "year": "2019"
     },
     {
+      "title": "Experiencia de lectura de la obra de Fernanda Melchor: análisis de las reseñas en Goodreads",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Maj9ubYAAAAJ&citation_for_view=Maj9ubYAAAAJ:j3f4tGmQtD8C",
+      "citation_id": "Maj9ubYAAAAJ:j3f4tGmQtD8C",
+      "authors": "M Reyes-Abundes, M Cebral-Loureda",
+      "publication": "Ocnos 23 (1), 2024",
+      "cited_by": {
+        "value": 4,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4691623794321422290,7841599689067960292",
+        "serpapi_link": "https://serpapi.com/search.json?cites=4691623794321422290%2C7841599689067960292&engine=google_scholar&hl=en",
+        "cites_id": "4691623794321422290,7841599689067960292"
+      },
+      "year": "2024"
+    },
+    {
       "title": "The Neurocomputational Becoming of Intelligence: Philosophical Challenges",
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Maj9ubYAAAAJ&citation_for_view=Maj9ubYAAAAJ:TQgYirikUcIC",
       "citation_id": "Maj9ubYAAAAJ:TQgYirikUcIC",
@@ -305,28 +319,14 @@
         "cites_id": "4231908532636865596"
       },
       "year": "2025"
-    },
-    {
-      "title": "Experiencia de lectura de la obra de Fernanda Melchor: análisis de las reseñas en Goodreads",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Maj9ubYAAAAJ&citation_for_view=Maj9ubYAAAAJ:j3f4tGmQtD8C",
-      "citation_id": "Maj9ubYAAAAJ:j3f4tGmQtD8C",
-      "authors": "M Reyes-Abundes, M Cebral-Loureda",
-      "publication": "Ocnos 23 (1), 2024",
-      "cited_by": {
-        "value": 3,
-        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4691623794321422290,7841599689067960292",
-        "serpapi_link": "https://serpapi.com/search.json?cites=4691623794321422290%2C7841599689067960292&engine=google_scholar&hl=en",
-        "cites_id": "4691623794321422290,7841599689067960292"
-      },
-      "year": "2024"
     }
   ],
   "cited_by": {
     "table": [
       {
         "citations": {
-          "all": 306,
-          "since_2021": 283
+          "all": 308,
+          "since_2021": 284
         }
       },
       {
@@ -373,7 +373,7 @@
       },
       {
         "year": 2026,
-        "citations": 78
+        "citations": 79
       }
     ]
   },
